@@ -19,4 +19,6 @@ There is a text file in the downloadable that contains all of the instructions o
 
 That's all, enjoy your own slice of the endless chaos that is the Gacha.
 
-If you like the Gacha and want to support me or my works feel free to support me on my [Patreon](patreon.com/BronzDeck)
+You can download the latest version [here](https://github.com/Bronzdeck/ChaosGacha/releases/tag/v1.0.0)
+
+If you like the Gacha and want to support me or my works feel free to support me on my [Patreon](https://patreon.com/BronzDeck)
