@@ -5,10 +5,15 @@ Feel free to use it however you like, either add your own entries, make your own
 If you linked the Chaos Gacha when you use it and maybe mention me by name, I'd appreciate it. You could also just link one of my profiles on either Ao3, Questionable Questing or Webnovel which would be nice.
 
 The current iteration of the Chaos Gacha features:
+
 -79,985 Words of pure handwritten descriptions
+
 -1,923 Unique Entries
+
 -Freely adjustable odds
+
 -Customizable Gacha Entries
+
 And much more!
 
 I will keep adding to the gacha and updating the interface as time goes and I am more than welcome for suggestions to add to the gacha because I am sure there are things in other media that I haven't watched, played or read that are great adds to the gacha yet I do not know, so suggestions about what to add to the gacha are more than welcome, especially those with descriptions.
