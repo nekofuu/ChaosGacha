@@ -193,6 +193,7 @@ def toggle_logs():
         root.geometry("1024x668")
         if log_frame:
             log_frame.destroy()
+            sys.stdout = original_stdout
         logs_enabled = False
     else:
         root.geometry("1624x668")
@@ -285,6 +286,7 @@ root = Tk()
 root.geometry("1024x668")
 root.title('Chaos Gacha')
 root.configure(background='#1f1f1f',highlightbackground="#646464",highlightthickness=3)
+original_stdout = sys.stdout
 
 font_selection = StringVar()
 selectedfont = 'Courier'
