@@ -276,3 +276,19 @@
 #Fate - Ibaraki Douji, a famous subordinate of Shuten Douji, she is a fierce one with immense physical power and wields a large cursed bone sword. As a powerful Oni, she is also capable of unleashing sweltering and crushing flames. By unleashing her noble phantasm she is capable of releasing a hand to act independently and grow in size or unleashing even fiercer flames to char enemies. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.
 139. Tamamo no Mae,5.5
 #Fate - A fragment of the Goddess of the Sun Amaterasu in the form of a Kitsune who specializes in course craft. Tamamo is an accomplished mage who is a master of Japanese curse craft, being able to invoke a magnitude of curses such as immolation, freezing, lightning, bad luck etc. If she manages to get stronger and acquire more magical power she will slowly metamorphosize back into the form of Amaterasu and gain more tails. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.
+151.King Nothing,2.5
+#JoJo - A purple hollow humanoid spirit made out of jigsaw pieces, King Nothing has little to no combat power but his ability to track scents is unmatched, any scent it grabs, it tracks down by following it or it can simply memorize the scent for later. It can also reconstruct visuals by rearranging its jigsaw pieces, making it an excellent tracker. 
+152.Spider Demon Mother,3.8
+#Demon Slayer - A high-rank demon with Blood Art resembling a spider. As a demon, she has superhuman physical ability and regeneration but has extreme light vulnerability like a vampire. In addition, her Blood Art allows her to turn her flesh into extremely durable strings she can control and puppet people with.
+153.Muzan,5.9
+#Demon Slayer - As the first progenitor demon, Muzan has incredible biokinetic abilities, being able to freely shapeshift and assimilate biomatter as extreme regenerative immortality, but he has extreme vulnerability to light and holy. In addition, Muzan can turn other creatures into demons by granting them his blood.
+154.Mukago,3.6
+#Demon Slayer - As a high-rank demon, Mukago has incredible physical abilities and regeneration but a severe vulnerability to light. In addition, her Blood Art allows her to control plants in her vicinity as if they were a part of her body.(A/N: Based off the fact that her name is a plant)
+155.Daki,4.0
+#Demon Slayer - As one of the Upper Moon demons, Daki has incredible physical abilities and regeneration but a severe vulnerability to light. Her Blood Art allows her to manifest extremely durable obi from her flesh that she can freely control and even detach to act as a sentient minion.
+156.Nakime,5.1
+#Demon Slayer - As one of the Kizuku, Nakime has formidable physical strength and regeneration, although lacking compared to her peers. Her Blood Art manifests as a pocket dimension called the Infinity Castle under her control, Infinity Castle is an infinite realm of the inside of a wooden medieval Japanese castle. She can create portals to this realm in the form of sliding wooden doors she can manifest on any surface she can perceive.
+157.Kokushibo,4.6
+#Demon Slayer - As the strongest Upper Moon Demon, Kokushibo has incredible physical abilities and regeneration but a severe weakness to light and holy. Kokushibo is an extremely skilled swordsman coupled with his demon abilities.
+158.Douma,4.2
+#Demon Slayer - As one of the Upper Moon demons, has incredible physical abilities and regeneration but a severe weakness to light and holy. Douma's Blood Art grants him great cryokinetic abilities. 

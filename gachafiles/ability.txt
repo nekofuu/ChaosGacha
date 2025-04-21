@@ -538,8 +538,8 @@
 #Legendary Mechanic - Conjures a shadow copy of you that can't interact with physical matter but can act as a distraction.
 270.Void Travel,3.9
 #Legendary Mechanic - Allows you to temporarily slip into the void dimension, while in the void dimension, you can freely traverse space but are unable to interact with the real world, time in the void dimension time is slower than normal. The distance you have covered in the void realm is equal to real life, allowing you to teleport short ranges with it, you can stay in the void dimension for 30 seconds but this can be increased with training. 5 Minute cooldown.
-271.Chaos Observer Form,5.1
-#Legendary Mechanic - Allows you to turn into a Chaos Observer, a sentient grey cloud of energy that can slip into the void dimension at will, rendering you completely intangible while still allowing you to observe the real world, while in Chaos Observer form you are mostly immune to physical force. Any damage taken in Chaos Observer form is reflected in the real body.
+271.Chaos Entity Release,5.1
+#Legendary Mechanic - Allows you to release your physical form to turn into a Void Observer, a sentient grey cloud of energy that can slip into the void dimension at will, rendering you completely intangible while still allowing you to observe the real world, staying in the void dimensions slightly drains your energy while inside. While in Chaos Observer form you are mostly immune to physical force. Any damage taken in Chaos Observer form is reflected in the real body.
 272.Void Path,6.4
 #Legendary Mechanic - Allows the user to directly open gates to the Void Dimension, allowing them to traverse the void, throw entities inside and even bring entities out of the void dimension, use with caution.
 273.Void Distorter Form,5.9
@@ -834,8 +834,8 @@
 #Legendary Mechanic - Allows you to telekinetically sense and control the carbon element down to a molecular level, controlling the carbon inside other living creatures is harder relative to their power level compared to yours.
 418. Soul Read,2.9
 #JoJo - Allows you to ask the soul questions that it will answer with yes or no, cannot be used on targets stronger than you. Souls can only answer yes or no questions and cannot lie to you.
-419.Emergy Exit,2.5
-#Passive, when you are lethally injured you are automatically teleported to the safest area within a 1000-meter radius
+419.Emergency Exit,2.5
+#Passive, when you are lethally injured you are automatically teleported to the safest area within a 1000-meter radius with a 30 minute cooldown.
 420.Protean,4.2
 #Your body adapts to your abilities to make them more efficient and stronger, adaptation fades after Protean is disabled, an ability like claws would increase the strength throughout the body, an ability like fire manipulation would give higher heat tolerance etc.
 421.Sunshine,7.2
@@ -1302,7 +1302,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Worm Victor - Allows you to drain the skills of people through touch, for example, you can drain the swordsmanship skill of a swordsman to worsen their skill and improve yours, but your skill cannot exceed the one you are stealing so you can't become a sword god by absorbing the skills of 1000 basic swordsmen.
 652.Velocity,3.6
 #Worm - You move 10x faster but your influence on the world is 10x less. While you are 10x faster, you will also punch 10x times weaker and air resistance will be 10x stronger, etc.
-653.Nine Lives,8.1
+653.Nine Lives,7.8
 #Fate - Grants you nine lives, every time you die with Nine Lives active you will be resurrected at full health and you will gain a high level of resistance towards what killed you previously.
 654.Rinnegan,8.6
 #Naruto - The ultimate eyes that grant you the ability to utilize six abilities collectively known as the Six Paths Technique: controlling attractive and repulsive forces with the Deva Path; mechanically altering one's body with the Asura Path; extracting souls through the Human Path; summoning various creatures through the Animal Path; absorbing chakra through the Preta Path; and access to the King of Hell through the Naraka Path. A seventh ability, called the Outer Path, is said to allow the user to preside over life and death, granting them the ability to revive the dead. In addition, you can clearly see the flow of energy and have unparalleled sensory abilities.
@@ -1312,7 +1312,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Fallout - Who said radiation was bad? You are able to absorb radiation into your body, giving you regeneration and boosted physical abilities while irradiated, you can also absorb radiation to permanently improve your physical abilities and energy reserves.
 657.Weather,0.9
 #You are able to accurately tell the weather of a given area for the span of a week.
-658.Weather Report,8.0
+658.Weather Report,7.0
 #JoJo - Allows you to control the weather and atmosphere both passively and actively, you can also control lightning, conjure water, recreate any previous weather phenomenon, create storms, change the composition of air, control wind, etc, this ability can also work autonomously without your input to defend you or act on your intent.
 659.Hurting,3.9
 #Fear and Hunger - Allows you to directly damage a target by pointing at them, causing lacerations on their body.
@@ -1558,7 +1558,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #One Piece - By crossing your fingers you can create a transparent barrier that you can control the shape and size of, only one barrier can be made at a time. This barrier is completely invulnerable to all mundane means of damage such as physical force, thermal damage, lightning, etc. 
 780. Shock Absorption,3.5
 #Your body absorbs kinetic energy like a sponge, reducing the effectiveness of physical attacks against you.
-781. Hydrogen Manipulation,8.1
+781. Hydrogen Manipulation,6.8
 #Allows you to sense and telekinetically control Hydrogen with perfect precision, the most abundant element in the universe. With it, you can manipulate air, and water, create explosions, freeze using liquid hydrogen
 782. Oxygen Manipulation,7.8
 #Allows you to sense and telekinetically control Oxygen with perfect precision, allowing you to control air, create and control fire with combustion, oxidize objects to corrode them, or poison with pure oxygen clouds.
@@ -1700,7 +1700,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are immortal, and there are no buts. If you are killed reality will somehow bring you back, even if every atom in your body is annihilated, your soul vanished, and every trace of you erased, reality itself will bring you back moments after in perfect condition, in addition you heal from wounds fast enough that even if you were reduced to a sing cell while taking a step, you would have reformed by the time your foot met the ground. Even the blind idiot would find it difficult to end you. 
 880. Exclusion,9.7
 #You don't want to be a part of this so you won't be, at any time you can exclude yourself from anything, whether that's severing yourself from the flow of time and space, excluding yourself from physics, excluding yourself from harm, excluding yourself from targeting, excluding yourself from all perception. As long as something can interact with you, you can make it not do that.
-881. No Fiction,9.9
+881. All Fiction,9.9
 #Medaka Box - You can gaslight reality and deny the existence of anything, even deny something not existing and it will listen. Reality is basically clay under your fingers.
 882. Desperation,3.3
 #Your physical stats are augmented by the amount of danger you are in at any given moment, if you aren't in danger it will give you nothing, if you are in mild danger it will give you a common rank boost in all stats, if you are in danger the rarity will be raised to uncommon, if you are in severe danger it will be raised to rare, if you are in danger of dying at any moment it will be raised to Elite and if you are facing certain death it will be raised to Epic. This ability does not cost energy.
@@ -1843,3 +1843,107 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #Naruto - You possess the Eternal Mangekyo Sharingan of Obito Uchiha in addition to all of the benefits of the regular Sharingan you have full access to the Kamui technique. Granting you access to an endless pocket dimension called the Kamuki. With it, you can create barriers that pull people into your dimension, freely teleport inside it, teleport by leaving it in a different location, use it to become temporarily intangible, and even open portals in space and breach other dimensions with your own ability.
 951.Physical Therapy,4.1
 #Allows you to convert the physical force you exert into positive energy, allowing you to heal people by hitting them with your body. The larger amounts of strength you exert the higher the healing. Punch them in the gut, full force to bring them from near death to full health.
+952.Tiamat,6.8
+#"Mother of All Dragons" You are able to transform yourself and any other biological structure you are touching into a dragon as well as spawn temporary dragon projections from your own body. The power and shape of the dragon depends on your own skill and the amount of energy you expend, the more you violate the conservation of mass, the more energy this ability costs. Sentient beings can resist conversion depending on how strong they are.
+953.Hands of Time,5.5
+#You are able to reverse or accelerate the time of an object, withering a tree or turning it into a sapling with just a touch. The stronger a target is, the slower their time is altered.
+954.Shadows of Time,5.3
+#Your shadow is a temporal anomaly, being able to stretch and move independently and even manifest outside of a 2d space to physically interact and attack things. Moreover, whatever your shadow touches gets their time altered, either quickly ageing or getting younger. The stronger a target is, the slower their time is altered.
+955.Bloody Lust,6.6
+#"You are enjoying this far too much" Your lust for violence is insatiable, whenever you are hurt you recover your energy proportional to how much you got hurt by. At the same time, you also recover your health proportionally to how damage you deal to a target. You an eternal engine of battle.
+956.Infernal Engine,4.6
+#Your heart is an Infernal Engine, when activated your regeneration speeds increase and you gain the ability to wield Hellflames. But when using the Infernal Engine, your body starts heating up, and the longer you use it the more it heats up. The hotter your body the more effective the Infernal Engine is, but be wary of going over the edge and burning yourself with your own Hellflames. 
+957.Blacklight,7.0
+#Your body is entirely made up of the Blacklight Virus, allowing you to freely shapeshift down to the cellular level, you can also absorb any biological matter to get stronger and analyse its composition and replicate it, and consuming brains grants you access to all memories the target had.
+958.Rule Breaker,6.4
+#The rules don't matter to you anymore. You can expend energy to remove rules that apply to you or a target you are touching, remove gravity affecting you, magic affecting a target, remove being able to be targeted by magic etc. The more vague and more impactful a rule you remove the more energy you expend, a rule broken will slowly restore itself but its effects won't.
+958.Creation,6.2
+#You can create objects and matter through your magical energy as long you remember how to make them, this can range from creating a phone, creating a bar of gold, or even creating a magical sword provided you know how to make one. The higher the mass and the more magical an object you create, the more energy you need to expend.
+959.Diamond Draw,5.5
+#Allows you to temporarily summon an item from the Diamond Item Gacha that lasts for 1 hour before disappearing. The item given is random as the user is given a temporary ticket to roll. This ability starts its 8-hour cooldown the moment it is used. If the item pulled is an elixir, the effects of the Elixir are made temporary.
+960.Chainsaw Man,6.8
+#Chainsaw Man - You are the Chainsaw Hybrid, by pulling on the ripcord on your chest you can turn into your hybrid form, replacing your head with that of a chainsaw and sprouting additional chainsaws on your arms, and even your legs if you choose to. While in Chainsaw Man Form you have enhanced physical stats and extreme regeneration fueled by blood. You are also immortal in your hybrid state, as long as your heart remains, pulling your ripcord will revive you.
+961.Bang!,4.6
+#Chainsaw Man - Simply point your index finger toward and say "Bang!" to unleash an immense telekinetic force that tears apart anything in your way.
+962. Spatial Displacement,5.1
+#You can freely teleport in a 50-meter range around yourself and have complete spatial awareness of it. You can teleport inside of that range instantly but the more you teleport in a row the more vertigo you will experience.
+963.Warp Drive,5.0
+#You can warp space around yourself to move at absurd speeds. When you warp space around yourself you can accelerate yourself more and faster than you would otherwise be able to, allowing you to reach extreme speeds but making it hard for you to make precise movements.
+964.Form Change,5.5
+#Allows you to freely change and augment your attributes in the form of forms you have access to, Offensive Form increases and decreases your defence for more Energy Output and Speed, Defensive Form increases your Defense and Resilience while decreasing your speed. Recovery Form decreases your strength to increase your regeneration and recovery. Speed Form increases your speed drastically while sacrificing your attack and defence. The user can also create their own forms.
+965.Murder Swarm,3.6
+#Allows you to transform into a murder of 100 crows at will. You can perfectly control each crow and you are equally each crow, whenever a crow gets killed you take 1% damage, you can also partially turn into crows and use them to deliver messages, spy on people etc. You will return to 100 crows even if you lose 30 as long you recover all of your health.
+966.Hero Time,3.8
+#"Time to be a hero" For 10 minutes all parameters are greatly increased, all regenerations are massively amplified. 5 Day cooldown.
+967. Limit Break,5.3
+#"Time to go all out" Upon activating Limit Break, for 4 minutes and 11 seconds all parameters and energy regeneration are increased, in addition, your ability Slots are removed, allowing you to use all Abilities at once. This ability places immense strain on your body and can kill you. 7 Day cooldown.
+968. Toolbelt,3.9
+#While toolbelt you can summon any one item of rare rank or below into your hand and use it however you like, you can also discard the item to switch to another but only one toolbelt item can exist at a time. If you use a consumable you cannot use Toolbelt for the same amount as its Restock timer.
+969.Restraints and Amplifications,3.0
+#Novel's Extra - Allows you to put restraints on yourself to amplify your powers, you can sacrifice your sight to boost your hearing to daredevil levels, you can sacrifice an arm to make another arm much stronger. You can restrict other ability slots to make the others stronger. The amplifications are equal to the severity of the restraints you place on yourself.
+970.Power Charge,3.5
+#Allows you to charge your body with energy, adding increased power to your next move, charge your fist to release more energy with your punch or charge your legs to leap over buildings. The more energy you charge the stronger the result is.
+971.One For All,6.4
+#My Hero Academia - You inherit the collective power of 9 people accumulated over multiple generations. One For All gives you incomparable Physical Enhancement but using too much can break your body, in addition, you can awaken the abilities of its past users, these quirks being Gearshift, Blackwhip, Float, Smokescreen, Dangersense and Fa-Jin.
+972.Door Crossing,2.8
+#Re:Zero - Allows you to create indoor portals out the doors and entrances inside of a building. Allowing you to teleport yourself and others from door to door, allowing you to either quickly traverse the people or prevent others from leaving.
+973.Kraft Works,4.8
+#JoJo - Allows you to affix objects to other objects or locations, objects that are affixed are completely inviolable and immovable without spacetime interference. In addition, all kinetic energy applied to the object during the time it was affixed will be applied to it the moment it's released. The larger the mass and energy of an object you affix, the more energy you consume. Keeping objects affixed consumes energy.
+974.Gate Creation,5.6
+#Allows you to create semi-permanent gates that you can teleport through, to create a gate through a location you have to be either incredibly familiar with the location or have been to it. To set a gate you need to focus for 1 minute. You can have up to 10 gates that exist at a time, you can improve this limit as you get stronger.
+975.Web Weaver,2.1
+#Allows you to shoot sticky and durable ropes of spider webs from your body, these webs dissolve naturally after an hour.
+976.Drake Form,3.2
+#Allows you to take on the form of a firebreathing drake or a hybrid at will. As a lesser dragon, becoming a drake grants you increased physical abilities and the ability to fly as well as breathe fire. 
+977. Klyntar Form,6.0
+#Marvel - Allows you to transform into a Klyntar, a symbiotic amorphous symbiotic race with the ability to merge with biological matter and assume their characteristics. Bonding with or taking over a host allows you to share their powers as well as grant them your own power and physical abilities. But in this form you are incredibly vulnerable to loud noises and fire.
+978.Psychometry,3.0
+#Saiki K. - Allows you to read the history of an object by making physical contact with it and expending energy. The more energy you expend the more you can read about its history, giving you visions as to how it was made, what has happened to it or what it has seen, the more energy spent the more accurate the vision is.
+979.Aqueduct,2.8
+#You can merge with and move through water at extreme speeds, at least 10x your running speed. When dive into a body of water you merge with it, and are able to move through it freely, the water must be at least equal to your mass. If the body of water you are in is compromised you take considerable damage.
+980.Marked,2.4
+#Allows you to place marks on objects or creatures that you can monitor at any time, you are always aware of the location of the mark relative to you and the structural integrity of the bearer of the mark. You can have up to 10 marks at a time which increases as you get stronger.
+981.Teleport,6.2
+#You can teleport, and everything that entails. As long as you are properly aware of the location or its coordinates you can instantly teleport to it, teleportation is instant and scales slightly with distance, but even a beginner could skip countries. Overuse can cause vertigo.
+982. Shut Down,5.0
+#You are able to create a large zone around you that shuts off the functions of magical and scientific items. In this range, even the Excalibur is just a very durable sword. But if the item is too far above your level their power is simply drastically reduced.
+983.Stone Free,4.0
+#JoJo - Stone Free allows you to convert any part of your body into translucent string you can control and move at will. The strong has the exact same physical abilities as you and can be instinctively woven into complex patterns etc.
+984.Petal Burst,3.4
+#RWBY - Allows you to temporarily shift into the form of a mass of rose petals to move at superspeeds for a short duration, in rose form you are more resistant toward physical attack and anything you are in contact with is also in this form, but the larger tge nass the higher the energy consumption. In addition, your control over your direction is lessened.
+985. Grant,4.9
+#You are able to grant people lesser versions of your abilities, when you grant someone an ability Elite rank or below it is dropped down by one rank. Epic and Legendary abilities are dropped by two ranks. Only one ability can be granted to one person at a time.
+986. Man in the Mirror,4.8
+#JoJo - You are able to go into any mirror as if it were a real portal and access the mirror dimension, a replica of the real world without anything living inside. The only way to enter and exit other than spacetime ability is you dragging people inside or outside. 
+987.Metallurgy,4.7
+#Metallurgy allows you to create metal at will and control it telekinetically. You are able to create any mundane metal you are aware of and you can telekinetically control the metals you have created, the stronger or more complex a metal is the more energy you need to expend to create it.
+988.Metallurge,6.4
+#You are able to conjure and control any metal you know the composition of, even if they are legendary metals like Uru, Adamantium or Vibranium. But the higher rank a metal is the more energy you need to expend to create it, and you cannot permanently create metals stronger than your rank.
+989.Threshold,4.8
+#While threshold is in an active ability slot you cannot take damage from anything below a certain level. As long as the ability wouldn't hurt you more than a light cut, you can ignore it completely. 
+990.Building,2.5
+#You are able to perform transmutation on a macro scale, while you cannot build complex constructs or small applications you could turn the ground into a proper building in less than an hour. This ability does not move particularly fast, so its combat applications are limited.
+991.Compass,0.2
+#You can conjure a mental compass that acts like a regular compass.
+992.Prophetic Compass,3.5
+#Allows you to conjure a phantasmal compass in your hands that points towards your target, as long as you are aware of the target you are looking for and have something related to it on your body, you can use the compass to track it down.
+993.Tentacled Creature,3.3
+#You are able to turn into a hentai tentacles creature or a manifest the tentacles of one at will. You are like a ball with numerous tentacles that can act as both regular limbs or reproductive organs.
+994.Madness Wavelength,5.2
+#You emit a wavelength from your body that alters the minds and perceptions of those it interacts with. You can drive an entire town to madness while passing by, you can also tweak the madness this ability exerts. 
+994.Inner Gate,5.3
+#Re:Zero - You have a gate inside of you that allows you to convert your energy to elemental mana that you can use to cast a variety of elemental magic depending on your aptitude.
+995.Time Accel,4.0
+#Fate - You are able to speed up the time of your own body by increments of 2x, 3x, 4x... the more you accelerate however the more strain is put on your body and mind.
+996.Divine Blade,5.9
+#Allows you to conjure a sword of Divine Light that you can alter the shape of. This blade is lightweight yet unbelievably sharp and durable. In addition, it burns anything it strikes with purifying holy flames but as long as the wielder wills it the blade cannot hurt even a fly even if swung at full power.
+997. Soul Bet,3.0
+#JoJo - Take some inspiration from the Fae. If you get people to wager their souls in a bet with you, you can claim your prize, extracting their souls from their bodies and granting you possession of it. To work the opponent must internally acknowledge their own defeat.
+998.Martyr,3.9
+#You are able to take the burdens of others onto yourself. Transferring their injuries, exhaustion, curses, sicknesses and any other ailment onto yourself by touching them.
+999. Reroll,3.6
+#"Lucky" When you roll this ability, whatever ticket you got it with is rolled twice and this ability is removed.
+1000. Disillusioned,2.5
+#You can see through any kind of deception and physical concealment. You can see right through a pitfall as it is a deception etc. 
+1001. Piercing Eyes,2.1
+#Your eyes can see through objects, and you can adjust the level perfectly according to your needs.

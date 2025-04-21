@@ -1,7 +1,7 @@
 1. Nothing Wrong Here,4.1
 #A weaker normality, people instinctively try to rationalize your actions and find things more accepting about you.
 2. Efficient Physique,2.7
-#Your body is incredibly efficient, you get more energy out of eating food and you spend slightly less energy when using enemies.
+#Your body is incredibly efficient, you are naturally able to digest and gain more energy from breathing, eating and sleeping. In addition, abilities consume slightly less energy to use.
 3. Hygienic,1.9
 #You are almost always hygienic, no bad breath or germs for you.
 4. Digestive Expulsion Independence,0.5
@@ -543,3 +543,83 @@
 #Rest assured knowing that the best girl is rooting for you. Thanks to Yog's blessing you are granted safe passage, all drawbacks from Space-related abilities are mitigated. In addition, they also cost less energy and have far higher range. You also have incredible resistance against Space attribute attacks.
 275. Carnal Engine,2.7
 #You are an eternal engine when it comes to carnal activity, while performing sexual actions your stamina recovery, endurance, and resilience are massively boosted, you can go on for literal days without rest.
+276.Four Leaf Clover,2.7
+#You are pretty lucky, not to the point where it's blatantly supernatural but the scales of fate are skewed towards you.
+277.Rabbits Foot,3.7
+#You are naturally very lucky, being on the good books of lady fate pays off. You can rob a casino blind and in general, things without a high impact on fate go in your favor.
+278.21 Leaf Clover,4.7
+#You are naturally incredibly lucky. Not enough that someone would consider it a superpower but expect to be called a lucky bastard. It's almost impossible to lose games of chance unless you want to, if it's up to chance, it will land in your favour.
+279.Fortune's Lover,5.7
+#You are absurdly lucky, to the point where even if you did not have any other abilities this alone could be considered an ability. If it's a chance, it's in your favour. Fate is curved in your direction, but not all luck is good. 
+280.Hellsing,4.6
+#You are the true hunter of all inhumane, Ghouls, Ghosts, Cryptids, and Demons. When facing anything that fits this category all of your reflexes and skills are enhanced and you enter a special state of focus. In addition, you gain enhanced intuition against any opponent or topic in this category. 
+281.Marksman,3.7
+#You are a natural marksman, giving your exceptional aim and accuracy with most projectiles, especially with stuff like bows and ranged weaponry.
+282.Rebellion,4.0
+#Whenever you get inflicted with a debuff or a binding your physical stats and magical resistance increase. The more penalties you incur the stronger Rebellion is.
+283.Child of Artemis,4.7
+#You are a child blessed by Artemis, the goddess of the hunt. Your proficiency and talent with all ranged weapons are greatly increased. In addition, your tracking and wayfinding abilities are enhanced to a supernatural level, allowing you to easily track prey across a country and not get lost in even the deepest of woods.
+284.Master of Arms,5.3
+#You are a Master of Arms, being able to wield any weapon you lay on your hand as if you have been wielding it for 10 years, in addition, you are able to bypass any requirements a weapon might have to wield it such as being an angel or a chosen hero. In addition, all sentient or conscious weapons adore you and weapons would love to be wielded by you.
+285.Qualified,4.8
+#Who says you aren't qualified? It says right here! You can wield any item or pass through any door with qualifications. Excalibur wants a worthy wielder? Too bad, you are qualified to wield it whether it likes it or not. 
+286.Innocuous,3.1
+#Look at that face! How can you stay angry at that? People are far more forgiving to you, and they cannot stay angry at you too long. It even works in court.
+287. Sharing Is Caring,4.2
+#People are naturally much more generous when it comes to you, you can always expect to be paid handsomely when getting compensation, and people rarely keep secrets from you. 
+288. Lucifer's Child,3.6
+#The child of evil shall rebel against the heavens. All of your stats are significantly increased when facing an enemy that is aligned with Holy or Light. But at the same time, you cannot receive blessings or healing from Holy or Light.
+289. Nothing Strange,2.5
+#There is nothing strange about you. People try to normalize your weirdness or oddities, like why you keep skipping out on class, how you speak weirdly or how it's weird to kiss your relatives in the mouth. Just the normal stuff.
+290. Common sense,3.3
+#Common sense works differently when it comes to you, people try to rationalize and accept your more unusual or alerting actions. People automatically try to normalize matters related to you but the effect is lessened the more drastic and inexcusable your actions are. 
+291.Lethal Charm,4.0
+#"This could get problematic" The more evil a person is the easier it is for you to gain their favor and affection. 
+292.Titan Crusher,8.5
+#Your body is... unnatural, nobody should hold that much power. Even as a basic human, you can demolish the entire world military with ease, your body is unnaturally strong, however strong you should be you are at least a hundred times stronger than that.
+293.Motivational Speaker,3.6
+#"Dattebayo!" You are an excellent motivational speaker, whatever corny stuff you speak will actually strike at their heart cords instead of sounding cringy to them. It is far easier to get through to someone even if they are stubborn..
+294.Blessing of Isis,4.7
+#You are a child blessed by Isis, the goddess of Magic. You learn magic and comprehend magic with ease, in addition, you are able to learn any magic regardless of your affinity or race restriction.
+295.Blessing of Durga,4.0
+#You are a child blessed by Durga, the goddess of righteous fury. You are immune to corruptive effects and negative effects and mental statuses during combat. In addition, the more evil an enemy is the more advantage you have against them.
+296.Blessing of Amaterasu,4.8
+#You are a child blessed by Amaterasu, the Goddess of the Sun. You are incredibly resistant against curses and darkness-based attacks while your light-based abilities are much stronger. 
+297.Blessing of Izanami,4.7
+#You are a child blessed by Izanami, the Goddess of the Underworld and Death. You are incredibly resistant to all curses and necrotic effects. In addition your affinity to all Spirit and Death attribute abilities, spells and items are increased. The dead favour you more.
+298.Blessing of Hestia,3.2
+#You are a child blessed by Hestia, the goddess of Hearth. You have resistance to all mental effects and negative ailments. Your body is way healthier and people feel more comfortable around you due to the natural aura you have around you.
+299. Blessing of Bast,2.7
+#You are blessed by the goddess Bast, the goddess of Cats and Grace. You have improved cat-like reflexes and agility as well as night vision. In addition, you are beloved by felines.
+300.Fertility Calibration,2.2
+#You can freely adjust your own fertility, being able to freely go from absolutely inert to being so fertile you can impregnate even someone completely infertile at will.
+301. Draw of Fate,3.3
+#Your fate is strong, things are not moderate for you, destiny curves in your direction like a main protagonist. You have plenty of luck, bad and good.
+302. Dealmaker,4.5
+#A Deal's a Deal. Whenever people make a deal with you, they feel compelled to fulfil their end of the deal. In addition, it's far easier to goad people into making outrageous bets.
+303. Hentai Logic,4.8
+#Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
+304. Ecchi Logic,3.5
+#Apparently this world runs on Ecchi Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
+305. Honesty,2.2
+#You have an aura around yourself that seems to garner honesty from people. People are worse at lying around you and feel worse and more remorseful about trying to deceive you. 
+306. Truthspeaker,4.2
+#Whenever you say the truth people will believe your words, although you can change the wording of what you say, you must still believe it to be true yourself.
+307.Loyalty,2.7
+#People are naturally more loyal towards you, being more willing to put themselves on the line for you and be less inclined to betray you.
+308.Vault,3.9
+#Information-gathering abilities and technologies start working improperly when it comes to you.
+309.Library Mind,2.9
+#Your mind is like a library, organized and efficient. Your memory, mental clarity and speed are slightly faster.
+310.Embrace,3.8
+#Your embrace is soft as a mother's love, your embrace feels, calming, comforting and even therapeutic. Even an evil man might break down crying if you capture them with your loving arms.
+311.Transhuman,3.4
+#You are a transhuman... or whatever race you are, genetic and mechanical augments work very well with you. You suffer no penalty for changing your race or installing cybernetic implants. Change your body however you'd like, it was meant to be changed anyway.
+312.All Trades,3.9
+#Didn't even have the dignity to put "Ace of" there. You have a Basic level of mastery over all mundane skills, you know how to cook well enough to not burn eggs, know enough about mechanics to change a lightbulb, know enough how to dance to not tangle your feet, know how to hold a sword to not cut yourself. You are also mildly talented in all fields.
+313.Paper Trail,1.8
+#For some reason you are always carrying the relevant paper or information with you. And so do your familiars apparently. Just reach into your pocket and you can find whatever legal identification you need.
+314.No Strangers,2.1
+#To Love, apparently they are a stranger to it. People don't seem to mind open displays of affection as long as you aren't too overt. 
+315.No Peeking,5.1
+#Information Gathering doesn't work against you, scrying spells fall apart, precognition fails, and cameras stop recording. 

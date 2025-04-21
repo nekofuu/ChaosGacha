@@ -756,3 +756,35 @@
 #Fallout - The Pip-Boy, otherwise known as the Personal Information processor, is a more versatile and robust computer that is worn on the wrist and powered by an internal fission battery. Pip Boy is capable of autonomously monitoring the health of its wearer, connecting to networks, map areas, shining light etc. An all-around solid multitool.
 379.Power Fist,2.9
 #Fallout - A pneumatic standard power fist that can help the average Joe put a crater on the wall with their fist. The power fist adds a static power boost to your punches to the level of a superhuman. But in the hands of someone who is already a superhuman, it is not too helpful.
+380. Rasaka's Fang,3.5
+#Solo Levelling - A dagger carved from the venomous fang of Rasaka, this dagger is perpetually imbued with venom that afflicts whoever it cuts with paralysis and makes the wounds harder to heal.
+381. Rasaka's Venom,3.4
+#Solo Levelling - A pouch containing the refined venom of Rasaka, ingesting it completely grants you increased physical resistance in exchange for weakening your muscles. With poison resistance, you can resist the latter part.
+382. Knight Killer,2.7
+#Solo Levelling - A large dagger made for dealing with heavily armoured opponents, the stronger the armour an opponent is wearing, the more damage the dagger deals.
+383. Baruka's Dagger,2.9
+#Solo Levelling - A large dagger wielded by a frost elf chieftain. In addition to being extremely durable and sharp, this dagger increases the potency of ice and cold abilities that use it as a focus.
+384. Demon King's Daggers,3,1
+#Solo Levelling - A pair of daggers forged from the corpse of the demon king. These daggers are able to synchronize themselves with the user's strength, getting stronger proportional to their physical strength. these daggers increase the potency of unholy abilities that use it as a focus.
+385. Demon King's Longsword,4.2
+#Solo Levelling - A giant sword wielded by the demon king that has the ability to summon devastating thunderstorms from its blade with each swing. The stronger its user the stronger the lightning storms are.
+386. Kamish's Wrath,4.7
+#Solo Levelling - A pair of dragons made of the dragon Kamish, they are nigh unbreakable and sharper than any manmade blade. In addition, these blades synchronize with the user's mana and adjust their strength accordingly. The user can also increase their weight at will.
+386. Costume Wardrobe,1.8
+#A regular-looking closet containing an infinite amount of clothes ranging from lingerie, formal wear, cosplay etc. As long as the clothes are completely mundane you can pull any clothing weighing less than 5kg from it, and the clothes that will come out will be according to the desires of whoever reaches inside. Only 50 outfits can be taken out per day.
+387. Teleportation Amulet,4.4
+#An ornate platinum amulet that allows its wearer to teleport anywhere they can see with a 1-minute cooldown.
+388. Divine Crucifix,3.8
+#A holy cross crucifix blessed by a divine spirit, being in its presence immensely weakens any unholy and dark being and instantly kills weaker ones. Any holy or light ability channelled through it is increased in potency.
+389. Telepathic Implant,3.6
+#Invincible - A neural implant that allows the wearer to communicate two ways with a target in their range of perception. Can only communicate with one target at a time. This item manifests as a ticket that when torn automatically installs itself in your head.
+390. Ripperdoc Ticket,4.2
+#Cyberpunk 2077 - A ticket that when torn, transfers you over to the clinic of a mechanical Ripperdoc that you can request to install implants from Cyberpunk 2077 or ones that you bring in yourself into you for the right price. Beware, while top quality, his wares are rather expensive and you may need to barter. The moment you leave the clinic you are transported back to where you came from and you can only spend 24 hours inside the clinic. Restock Timer: 15 Days
+391. Clover Amulet,4.6
+#A golden amulet with a jade engraved into the shape of a 4-leaf clover that grants the user good luck.
+392. Holy Antidote,2.6
+#A vial containing a powerful holy antidote that can cure all diseases and ailments below the Legendary rank. Restock Timer: 7 Days
+393. Sandevistan,4.6
+#Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
+394. Omni Phone,3.3
+#A mobile phone that has everything you need, being able to connect to a network regardless of size, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
