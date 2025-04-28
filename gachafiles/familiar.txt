@@ -292,3 +292,47 @@
 #Demon Slayer - As the strongest Upper Moon Demon, Kokushibo has incredible physical abilities and regeneration but a severe weakness to light and holy. Kokushibo is an extremely skilled swordsman coupled with his demon abilities.
 158.Douma,4.2
 #Demon Slayer - As one of the Upper Moon demons, has incredible physical abilities and regeneration but a severe weakness to light and holy. Douma's Blood Art grants him great cryokinetic abilities. 
+159.Tionishia,2.6
+#Monster Musume - Tionishia is a female ogress with military and police training. As an ogress, she has immense strength, stamina and endurance. But contrary to her intimidating stature she is quite motherly.
+160.Rachnera Arachnera,2.9
+#Monster Musume - Rachnera is a female Arachne with skills in a variety of fields. As an Arachne, she has a large body and enhanced physical stats as well as the ability to produce stronger than steel silk on demand. She is also a master seamstress capable of weaving fashionable clothes in seconds.
+161.Doppel,2.9
+#Monster Musume - Doppel is a female(?) doppelganger with military and police training. As a doppelganger, she is capable of turning her body into that of any living creature and clothes she has seen but does not affect her stats as she is not much stronger than a baseline human. 
+162.Dremora Merchant,3.8
+#Skyrim - A Dremora Merchant from Oblivion that can be summoned to your side at any time to be haggled with, the merchant sells items and equipment unique to his world in exchange for gold coins or items. His prices aren't very good. He cannot interfere with the world in any way other than trading.
+163.Dio Brando,4.2
+#JoJo - Dio Brando, son of a petty thief who achieved Vampirism through the stone mask. As a vampire Dio is capable of absorbing lifeforce, granting Vampirism, creating undead, grafting flesh and manipulating his own body. In addition, Dio is a genius and extremely skilled as a vampire.
+164.DIO,5.4
+#JoJo - DIO, after a very long time under the sea the former hotheaded vampire has become wise and after being stabbed with the Stand Arrow he has developed The World. As a Vampire DIO is massively superhuman, can regenerate by drinking blood, manipulate his own body and create thralls. In addition, he possesses the stand The World, a phantom with similar physical abilities to him that can stop time for upwards of 10 seconds. 
+165.The Pillar Men,5.2
+#JoJo - You get the three pillar men with you, Whamuu, Esidisi and Kars. The pillar men are thousands of years old super vampires that can freely absorb people, regenerate and manipulate their own bodies in exchange for being vulnerable to sunlight. Esidisi is a master strategist, Whamuu is a genius warrior and Kars is a genius intellect.
+166.Kars,4.9
+#JoJo - Kars is the first true pillar man who unlocked his potential after inventing the stone mask. As a pillar man, he is thousands of years old, can absorb biological matter and manipulate his own body but is vulnerable to sunlight. He is a genius intellect and warrior.
+167.Esidisi,4.2
+#JoJo - Esidisi is a pillar man, a super vampire that is thousands of years old. As a pillar man, he is thousands of years old and can absorb biological matter and manipulate his own body but is vulnerable to sunlight. In addition, he is a great strategist and tactician.
+168.Whamuu,4.4
+#JoJo - Whamuu is a pillar man, a super vampire that is thousands of years old. As a pillar man, he is thousands of years old and can absorb biological matter and manipulate his own body but is vulnerable to sunlight. In addition, he is hailed as a fighting prodigy.
+169.Ultimate Kars,5.8
+#JoJo - Kars the former pillar man who has managed to acquire the form of a perfect lifeform. As a perfect lifeform, Kars can freely manipulate his body and biology as well as spawn independent entities from his flesh. On top of that, he is an incredible genius who can master most topics rather quickly.
+170.Master Hewg,4.5
+#Elden Ring - A rough misbegotten blacksmith who was so skilled he was ordered even by Marika herself. Hewg is one of the most expert blacksmiths, being able to forge most weapons and upgrade any weapon given to him provided you have the materials. His dream is to forge a weapon that can slay a god and he is capable of it.
+171.Parthunaax,4.7
+#Skyrim - One of the strongest and oldest of the dragons in Tamriel and the former right hand of Alduin, Parthunaax is a powerful dragon, but after casting away his former domineering nature he has become a wise sage, and is capable of teaching the Thu'um and other arts to those willing to learn. This doesn't mean however that he himself is weak.
+172.Durnhevir,4.1
+#Skyrim - An undead necromancer dragon that once served Alduin before being trapped in the Soul Cairn. As a dragon hailing from Tamriel Durnhevir is powerful but his true power comes from the art of necromancy he has cultivated.
+173.Neferpitou,5.2
+#Hunter x Hunter - As a Chimera Ant Royal Guard, Pitou is an extremely powerful Nen user with a massively superhuman physique and agility as well as incredible mastery over Nen. Alongside her extreme sensory abilities, she possesses the ability to puppeteer corpses to use as minions and summon Doctor Blythe, a potent healing ability that requires her to stand still and lower her guard to restore a target over time. Her trump card allows her to puppeteer her own body to strengthen herself.
+174.Nemesis,3.7
+#Resident Evil - A modified tyrant bioweapon created by the Umbrella Corporation. Tyrant possesses massively superhuman stats and great regeneration, being able to survive as long as he has enough living cells left. But its greatest strength is its ability to rapidly mutate and adapt. No, not anywhere close to Mahoraga levels.
+175.Grimm Wyvern,5.0
+#RWBY - A gigantic Grimm Wyvern, as a Grimm the Wyvern can sense and track negative emotions. Its gigantic size makes it a powerful mount being strong enough to sink warships. In addition, it can release Grimm fluid that spawns lesser Grimm that it can command.
+176.Alcina Dimitrescu,4.2
+#Resident Evil - Alcina is a former feudal lord who was transformed by a bioengineered parasite that fused with her body, granting her extreme regeneration, enhanced physical stats and shapeshifting. Although she does require regular intake of blood to function despite not being a vampire.
+177.Lust,3.0
+#Fullmetal Alchemist - A homunculus created by father branded with the sin of lust. As a homunculus, Lust has enhanced stats compared to a human. In addition, the philosopher's stone implanted in her as her core keeps her immortal by regenerating her whenever she dies by consuming one of the souls inside as fuel. She has the ability to turn her fingertips into long and almost monomolecular sharp flexible claws that she uses with expertise.
+178.Darkbeast Paarl,2.4
+#Bloodborne - A dark beast that has reanimated itself from the dead. As a large skeletal monster, Paarl is strong enough to demolish walls and is immune to conventional weapons, even high-calibre bullets. In addition, Paarl can generate and release electricity from its body at will.
+179.Kirin,4.0
+#Monster Hunter - A legendary dragon(?) Kirin resembles the mix of a unicorn, a lion and a dragon. Kirin is extremely fast and physically mighty, but its main ability is to summon down bolts of lightning at will in addition to its immunity to lightning.
+180.Valstrax,5.0
+#Monster Hunter - A legendary elder dragon, Valstrax is referred to as the Sky Comet Dragon, for good reason. In addition, being a mighty dragon, he has unique wings that allow it to expel the dragon element alongside to turn them into what are essentially dragon magic jet engines. It is strong enough to break sound several times over as a living dragon jet fighter.

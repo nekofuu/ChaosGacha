@@ -788,3 +788,35 @@
 #Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
 394. Omni Phone,3.3
 #A mobile phone that has everything you need, being able to connect to a network regardless of size, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
+395.Ender Pearl,3.2
+#Minecraft - A round crystalline pearl containing spatial energies, when thrown by someone, it teleports them to wherever the pearl breaks on. Restock Timer: 8 Hours
+396.Character Card Wolverine,5.0
+#A character card that allows you to give yourself or another the full healing factor of Wolverine for 10 minutes. 3 uses.
+397.Bronze Heart Ticket,1.5
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you slightly more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+398.Silver Heart Ticket,2.5
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+399.Gold Heart Ticket,3.5
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you slightly more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+400.Royal Heart Ticket,4.5
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you considerably more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+401.Cupid's Ticket,5.5
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them fall in love with you. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+402.Auto Doc,3.9
+#Fallout - An automatic autonomous advanced doctor station created in big MT. by Doctor Mobius. This large capsule can perform even the most complicated medical procedures with almost perfect expertise with simple instructions. Just hook it up to any sufficient power source.
+403.Blight Spewer,5.7
+#Calamity Mod - A technologically advanced flamethrower that spews clouds of Plauge Nanomachines that seek out flesh and quickly devour it from the inside out. The nanomachines quickly disintegrate after a few seconds as a safety precaution.
+404.Shadethrower,3.6
+#Calamity Mod - A modified flamethrower that turns regular burnable fuel into corrupted flames that rot whatever they burn rapidly.
+405.Heavenly Gale,7.8
+#Calamity Mod - A divine bow crafted from the essences of earth and cosmos. Whatever arrow is notched onto this bow is converted into Exotic resonance crystals. The arrows summon down resonant lightning wherever it strikes, powerful enough to flay even gods alive and rend the surface world.
+406.Telluric Gale,6.2
+#Calamity Mod - A bow crafted from the remains of the profaned goddess. Whatever arrow is nocked onto this bow is converted into powerful scorching bolts of divine holy flames powered by the user's energy.
+407.The Storm,4.7
+#Calamity Mod - A bow carved from the remains of the storm weaver, this bow can convert any arrow nocked into it into a bolt of lightning which scales with the power of its wielder.
+408.Hoarfrost Bow,4.2
+#Calamity Mod - A mystical bow made from the essence of the frozen castle that turns any arrow nocked to its string into one made of freezing mist which scales with the power of its wielder.
+409.Lunarian Bow,3.6
+#Calamity Mod - A bow crafted from the elements of the natural world, the user is capable of converting their own energy into energy arrows to shoot out of the bow with.
+410.Pheonix Feather,6.0
+#Black Souls - "Enraged by the haughty bird, god picked its wings clean" placing this feather on top of a corpse whose soul still exists and is not above legendary rank will revive them in exchange for burning the feather. Restock Timer: 720 hours

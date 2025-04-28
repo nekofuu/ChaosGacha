@@ -256,7 +256,7 @@
 131. Sexual Calibration,2.3
 #All of the minor inconveniences sex once had are now gone, forget about STDs, hygiene precautions, or unwanted pregnancies because you can adjust how all of those interact with you. In addition, you are very talented in the tantric arts.
 132. Golden Shot,1.2
-#Your little swimmers are the strongest in the world, 
+#Your little swimmers are the strongest in the world, any woman you cum inside of WILL get pregnant, even if they are more barren than the arid desserts your semen does not care.
 133. Ygdar Orus Li Ox,4.9
 #"You only live once" At the moment of your death, you are resuscitated and revived with all of your lethal wounds healed and some of your energy restored, once Ygdar Orus Li Ox is triggered this trait is deleted from your status.
 134. Hero Candidate,3.3
@@ -623,3 +623,61 @@
 #To Love, apparently they are a stranger to it. People don't seem to mind open displays of affection as long as you aren't too overt. 
 315.No Peeking,5.1
 #Information Gathering doesn't work against you, scrying spells fall apart, precognition fails, and cameras stop recording. 
+316.Battery Saver,4.6
+#Whenever you have an ability slot you aren't using, the other abilities cost less energy. If you have 3 slots and only use one, the ability in the first slot is 3x cheaper.
+317.Rule 63,3.3
+#"Where Banana?" Reality across all of existence has been twisted, warped, retconned and remade to make some men women.
+318.Monster Mater,2.8
+#"I really shouldn't have sex with that, buuut-" The more monstrous a member of the opposite sex is, the more they are attracted to you. Only works on things you yourself would be attracted to.
+319.Musk,2.0
+#Your smell is really good, a bit arousing even. 
+320.No Enemies,4.8
+#"You really don't" Everyone you meet has a good impression of you, even evil dictators, violent murderers or mindless beasts have a decent liking of you as soon as they get to know about you. Only works on named characters.
+321.My Friend Now,5.5
+#Everyone you meet starts off friendly to you as long as they don't have a preconceived opinion of you. You can walk up to Thanos and open a can of beer with him. Even death seems to like the cut of your gib.
+322.Uchiha,5.4
+#Naruto - You are a member of the Uchiha Clan, granting you increased martial talent, energy reserves, fire affinity and a natural sharingan that does not take up an ability slot. 
+323.Uzumaki,5.9
+#Naruto - You are a member of the Uzumaki clan, granting you increased life force and endurance. In addition, you can heal yourself and others by imbuing your blood with your energy and life force. And with training, you can unlock the ability to create sealing adamantine chains capable of suppressing and sealing energy.
+324.Hyuga,5.1
+#Naruto - You are a member of the Hyuga clan, granting you increased dexterity, energy reserves and fine control over your body and energy. In addition, you possess a natural Byakugan that does not take up an ability slot. You also may or may not have dormant alien-good genes.
+325.Senju,6.0
+#Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Natura Affinity.
+326.Hanma,2.8
+#Baki - You are a Hanma, you are incredibly genetically gifted, possessing increased resistance to poisons and your physical stats grow way faster. In addition, you have so much testosterone in you, any other men may as well be a girl in comparison. Your talent in martial arts is also greatly increased.
+327.Lesser Undead,2.5
+#Race - You are a lesser undead, once you get this trait you have to choose between being a zombie or a skeleton. As an undead, you have no stamina and instead consume energy for everything and get unique bonuses and demerits depending on the undead you end up as. Once a race trait is toggled it is permanent until contested.
+328.Greater Undead,3.8
+#Race - You are a greater Undead, once you activate this trait you transform into a Death Knight or Lich depending on your stats. As an undead, you don't have stamina and consume energy in its stead for everything and get unique bonuses and demerits depending on the undead you end up as.
+329.Fishman,4.6
+#Race(One Piece) - You are a fishman of a random hybrid, as a Fishman you are naturally stronger than humans with your enhanced physical stats. You can also breathe underwater and possess great water affinity. In addition, you can communicate with seabound creatures and learn Fishman Karate.
+330.Lunarian,6.2
+#Race(One Piece) - You are a Lunarian, a being of a legendary race. As a Lunarian you have massively increased physical stats, wings and even natural fire manipulation, as long as the fire on your back is lit your durability is massively increased. 
+331.Nightkin,4.9
+#Race(Fate) - A special kind of vampire developed from the blood of a dead apostle. As a Nightkin, you possess superhuman physical and magical abilities and have rewinding regeneration as long as you have blood. You can get stronger and eventually evolve to the next stage of undeath by consuming enough blood.
+332.Nightmare,5.2
+#Race(Tsukihime) - You are a special kind of vampire known as a Nightmare born from the blood of a Dead Apostle. As a Nightmare, you possess superhuman physical and magical abilities and have rewinding regeneration as long as you have blood. In addition, as a high-rank vampire, you can turn people into ghouls and have your own unique Elite rank ability you can use without an ability slot. You can get stronger and eventually evolve to the next stage of undeath by consuming enough blood.
+333.Dead Apostle,6.7
+#Race(Tsukihime) - You are a fully realized Dead Apostle, a blight upon the kands and possessing your own ability unique to yourself befitting your rank, granting you an epic ranked ability that does not take up an ability slot. In addition, you have vastly superior physical stats and have time rewinding regenerative immortality as long as you have blood in your body. You can turn humans and animals into your thralls as lower-ranking apostles. The more blood you consume the stronger you get and recover energy.
+334.Dead Apostle Ancestor,8.6
+#Race(Tsukihime) - You are a true Dead Apostle Ancestor, a crimson stain from the moon to the earth. As a Dead Apostle Ancestor you have immense physical and magical powers, your body naturally rewinds its own time whenever you are injured to restore your health as long as you have blood. You have your own Idea Blood, a Legendary Ability that suits you which you can freely use without an ability slot. Your blood can turn those who ingest it into fully fledged powerful vampires instantly. Any vampire and undead will acknowledge your existence as the ultimate vampire class.
+335.Beastmen,3.5
+#Race - You are a beastkin of a random animal such as a bear, rabbit cat, wolf etc. granting you enhanced physical stats, night vision as well as unique traits and biological features depending on what you are a hybrid of.
+336.Ghoul,4.2
+#Race(Tokyo Ghoul) - You are a ghoul, a flesh-eating superhuman with a powerful and flexible unique organ named a Kagune of your choosing. As a ghoul, you also possess formidable regeneration. But as a downside, you cannot digest anything other than human flesh and if you don't you dine for longer than two weeks you will slowly enter a feral state.
+337.One-Eyed Ghoul,5.3
+#Race(Tokyo Ghoul) - You are a One-Eyed Ghould, which despite how it sounds is more powerful than the average ghoul. As a One-Eyed Ghoul you have superhuman stats and a flexible super organ called a kagune of your choosing. You get stronger by consuming human flesh but unlike a normal ghoul, you don't need to and can simply eat human food.
+338.Vampire,3.7
+#Race(JoJo) - You are a vampire born of the Stone Mask created by the pillar man Kars. As a vampire you have amped physical stats, the ability to create ghould and vampires as well as manipulate your flesh. But you are deathly vulnerable to sunlight.
+339.Pillar Men,4.6
+#Race(JoJo) - You are a pillar man whose potential was unlocked by the stone mask. Granting you self bio kinesis, flesh absorption, thrall creation and massively increased physical stats in exchange for being vulnerable to sunlight.
+340.Perfect Lifeform,5.8
+#Race(JoJo) - You are a perfect lifeform, as a pillar man who had their true potential unlocked by the stone mask used with the super Aja you have enhanced physical and magical stats. In addition as the perfect lifeform, you can freely manipulate your own biology and the shape of your own body.
+341.Viltrumite,7.5
+#Race(Invincible) - You are a viltrumite, one of the fiercest warrior races of the galaxy. As a vitrumite, you possess an incredibly powerful body and the ability to freely fly. You are almost invulnerable to most things but are vulnerable to a specific sound frequency.
+342.Kryptonian,8.8
+#Race(DC) - You are a Kryptonian, enough said. Your physical and energy reserves increase the more sunlight you take, in addition, you have heat vision, ice breath, high-speed flight, no need to breathe, tactile telekinesis, X-ray vision, and probably more. Under the yellow sun you are basically a living god. 
+343.Saiyan,6.2
+#Race(Dragon Ball) - You are a Saiyan warrior, having a great natural physique and a monkey tail as a weakness. When exposed to a full moon you turn into a rampaging giant monkey with massively increased stats. Don't expect to be too strong too soon, even Goku needed decades of training from the greatest martial artists.
+345.Majin,7.3
+#Race(Dragon Ball) - You are a Majin, a descendant of Majin Buu, possessing a malleable gum-like physique with massively enhanced physical and magical stats. As a Majin you can survive and regenerate if even a handful of your body is left, in addition, you are able to absorb people and objects to strengthen yourself.
