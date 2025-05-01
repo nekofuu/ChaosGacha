@@ -333,7 +333,7 @@
 168. Wind Gods Ring,3.3
 #Blacksouls - An ornate silver ring from Wonderland, blessed by an unnamed god of wind, wearing it boosts the agility and reflexes of the wearer to superhuman levels.
 169. Thief's Ring,3.6
-#A magical ring worn by a famous thief known for their whimsy and mischief. This can carry 3 charges at a time and recovers a charge every hour.
+#A magical ring worn by a famous thief known for their whimsy and mischief. This can carry 3 charges at a time and recovers a charge every hour. You can use a charge to use the ability steal to steal an item on a person and bring it to your hands, the better the item the lesser the success rate. You can also spend a charge to muffle all noises you make for a minute or increase your dexterity and agility for a minute
 170. Windless Wrap,4.8
 #Blacksouls - A blue cloak that makes the user not disturb even the wind, while wearing this cloak you gain enhanced agility and reflexes, in addition, all sounds you make are muffled and you don't disturb the air around you as you move.
 171. 0 - The Fool,3.5 
@@ -820,3 +820,7 @@
 #Calamity Mod - A bow crafted from the elements of the natural world, the user is capable of converting their own energy into energy arrows to shoot out of the bow with.
 410.Pheonix Feather,6.0
 #Black Souls - "Enraged by the haughty bird, god picked its wings clean" placing this feather on top of a corpse whose soul still exists and is not above legendary rank will revive them in exchange for burning the feather. Restock Timer: 720 hours
+411.Grimm Pool,4.7
+#RWBY - A large jar containing evil black goop that summons lesser Grimm once it lands on a stable surface. The summoned lesser Grimm are loyal to you.
+412.The Stand Arrow,5.1
+#JoJo - An ornate arrow made out of a meteorite from outer space, those stabbed by this arrow are infected by it, either slowly succumbing to a severe fever or having enough willpower and potential to survive and awaken a stand(Roll a Platinum Ticket to decide which stand gets awakened in the target.)

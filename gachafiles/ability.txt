@@ -1668,6 +1668,62 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Dragon Ball - You are kin to Majin Buu, your body is compromised of amorphous pink blob like flesh with no bones or organs, you can freely morph your body and you are immortal and possess super regeneration as long a part of your body larger than a walnut remains and you have energy left. In addition, you possess greatly enhanced physical stats and the ability to absorb other people to gain a portion of their strength.
 836. Disaster Nature,7.3
 #JJK Hanami - Allows you to control and create plants of your own energy as well as plant related abilities equal to that of Hanami. Such as cursed buds that drain energy/mana, creating roots to bind, or you can draw energy/mana from existing nature to charge your own energy/mana.
+837.Shark Physique,2.8
+#You are able to turn into a shark or a shark hybrid at will. As a shark, you have enhanced physical stats that are further boosted underwater. You also possess incredibly sharp razor teeth and bite force enough to tear apart metal with ease. In shark form, you also have increased water affinity. As well as any other abilities the average Shark would otherwise possess.
+838.Octopus Physique,3.2
+#You are able to transform into an octopus or an octopus hybrid at will. As an octopus, you possess enhanced physical stats that are further boosted underwater. In addition, you can independently control any part of your without thought. You can also regenerate your own limbs and organs, albeit slowly. As well as any other abilities the average octopus would otherwise possess.
+839.Minotaur,4.7
+#You are able to transform into a minotaur, or partially into one. As the minotaur, the beast of the labyrinth you have massively enhanced strength, stamina, and durability in exchange for losing your inhibitions. You also possess formidable regeneration. With training, you might be able to retain your control over this form better.
+840.Outgun,2.4
+#This ability allows the user to transmute any material they are touching into any gun they are aware of as well as bullets. The power of the gun scales to the power of the material used.
+841.Capture Token,4.5
+#You are able to capture anything you have defeated inside of capture tokens, which are 5x5 rooms they cannot exit out of nor use their abilities in. You can instantly capture someone instead of killing them with this ability in an active spot. The target must not be able to resist. You can also transport people with tokens.
+844.Crystalline,4.6
+#Allows you to create and control gem-like crystals that you can conjure by expending your energy. The more energy you expend the more durable the crystals are. You can also exert telekinetic control over your crystals and spread them over surfaces you are touching.
+845.Crystal Caesar,5.2
+#You are able to create and control gem-like crystal constructs that you conjure by expending your energy. You have fine control over your crystals, being able to control them even in the form of powder, in addition, you can create simple crystal golems that can act semi-autonomously but turn to dust when you disable your ability, having crystal soldiers active slightly drains energy.
+846.Weaver,3.0
+#You are able to conjure threads made of energy under your control. The power of the threads and their numbers depend on the amount of energy you expend. You can control each thread like a limb but you lose control of it the moment they leave your body after which they dissipate.
+847.Kiring Phsyique,4.9
+#Monster Hunter - You are able to transform into a Kirin or a Kirin Hybrid at will. As a Kirin you possess enhanced physical stats and speed as well as increased lightning affinity. While in Kirin form or Hybrid you possess the ability to summon down powerful bolts of lightning from the sky.
+848.Remember Me?,4.1
+#No, they don't. While Remember Me is active, everyone who knows you temporarily forget about you and nobody you encounter can remember or recall your exact features. 
+849.Sprout,1.2
+#You are able to communicate with and control plants in your range to a minor degree. You can order plants to start growing faster, and imbue them with your energy to make them grow even faster. You can also change their general shape slightly.
+850.Sapling,2.1
+#You are able to create, communicate with and control plants in your range. You can make grass grow on fertile dirt, make roots dig through concrete, ripen plants, change their shape slightly, make trees grow fast enough to create natural barriers and harvest the bounty of nature. 
+851.Bloom,3.7
+#You are a chlorokinetic, allowing you to create, communicate with and control plants in your sensory range. You can make branches crawl out of the ground and snare your enemies, make trees break through the concrete, create and grow plant life on fertile soil, manipulate vines as whips, or simply grow an apple tree to get a ripe apple. 
+852.Verdance,4.7
+#You have formidable chlorokinetic abilities. Allowing you to create, communicate with and control plants in your sensory range. You are able to create plants out of the soil and boost any existing plant to supernatural levels, making wood harder than steel, bring down leaves sharper than razors, impale people with roots that erupt from the ground, or simply grow a berry bush for a quick snack. But you need a plant in your range or grow one to use your abilities on them.
+853.Overgrowth,5.6
+#You are a powerful chlorokinetic. Being able to create, reinforce, communicate with and control all plant life in your sensory range. You can take a withering sapling in your range and turn it into a house-sized tree, make roots erupt from the ground and swallow your foes, grow a forest from the dirt beneath your feet, you can grab a branch and reinforce it enough to cut a block of titanium in half, as long as you have enough energy of course. But you need a plant in your range or grow one to use your abilities on them.
+854.Flora,6.4
+#You are the master of plants. Being able to create, reinforce, communicate with and control all plant life in your sensory range. You can make a forest erupt from beneath your feet, create trees with wood stronger than metal, launch a handful of seeds and make them explode into vibrant plantlife, make the forest come to life, combine trees into a giant treant golem, as long as plants can do it, so can you, provided you have the energy required.
+855.Gaia,7.3
+#You are one with Mother Nature. Being able to create, reinforce, communicate with and control all plant life. You can make titanic verdant jungles erupt beneath your feet and swallow the world. Overrun armies with swathes of treants. Spear through titans with a spear of roots combined to over a kilometre in length. If you can do it with plants, you can do it, as long as you have enough energy only plants are the limit.  
+856.Spiritual Interaction,2.3
+#You are able to interact with the spiritual world and so are your abilities. Your perception extends down to the level of souls and spirits as well. 
+857.Bow and Arrow,2.4
+#You are able to conjure a bow and arrow made of energy in your hands to shoot down enemies and targets. The more energy you put into the arrow, the stronger it is.
+858.Sharpshooter,3.4
+#You are able to conjure a bow and arrow made of energy in your hands to shoot down enemies and targets, while aiming with the bow your shooting mastery is increased and your senses are sharpened. The more energy you put into the arrow, the stronger it is. You can also change the shape and size of your arrow.
+859.Oddyseus Draw,4.6
+#You are able to conjure a great bow and arrow made of energy in your hands to shoot down enemies and targets, while aiming with the bow your shooting mastery is increased and your senses are sharpened. Your arrow is strong enough to tear through most metals with ease and it will get stronger the more energy you imbue into it. You can also choose to alter the shape and size of your arrow.
+860.Hou Yi's Bow,5.4
+#You are able to conjure an imitation of the bow of the archer who shot down the sun using your energy and release arrows of destructive power by channelling your power through it, while aiming with the bow your shooting mastery is increased and your senses are sharpened. The arrows you unleash are stronger the more energy you imbue into them. You can also choose to alter the shape and size of your arrow.
+861.Artemis' Might,6.1
+#You are able to conjure a bow made of energy that channels the blessing of Artemis herself and unleashes powerful arrows that can pierce the toughest enemies. While aiming with the bow you are blessed by Artemis, increasing your shooting mastery and sharpening your senses while guiding your arrow. The arrows you unleash are stronger the more energy you imbue into them. You can also choose to alter the shape and size of your arrow.
+862.Bountiful Harvest,1.7
+#You are able to create ripe and tasty fruits and vegetables by expending your own energy. 
+863.Orchard,3.8
+#You are able to create fruits and vegetables out of your own energy. The fruit and vegetables you create are extremely refreshing and can have unique properties depending on your abilities.
+864.Bone Baron,4.8
+#You are able to create and control bones at will, being able to make them erupt from surfaces in your line of sight and summoning skeleton soldiers that can act semi-autonomously under your control. The soldiers are dispelled when the ability gets cancelled or switched out. The more soldiers you have the higher your energy drain.
+865.Summon Item,1.4
+#You are able to mark up to 10 items weighing less than your lifting strength that you can summon to your location at will and send back to where you last summoned them from.
+866.Silk Weaver,3.5
+#You are able to produce and control silk that you produce from your body, you can use it to grapple around, restrain targets, fasten objects etc. The durability of the silk and the amount you can produce scales with your physical stats. 
 867. Space Ripper Stingy Eyes,3.5
 #JoJo - No, you cannot change the name. Allows you to shoot out pressurized energy from your eyes that can cut steel and stone like it's made of foam even at base human level.
 868. Slip In,2.9
@@ -1891,7 +1947,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #JoJo - Allows you to affix objects to other objects or locations, objects that are affixed are completely inviolable and immovable without spacetime interference. In addition, all kinetic energy applied to the object during the time it was affixed will be applied to it the moment it's released. The larger the mass and energy of an object you affix, the more energy you consume. Keeping objects affixed consumes energy.
 974.Gate Creation,5.6
 #Allows you to create semi-permanent gates that you can teleport through, to create a gate through a location you have to be either incredibly familiar with the location or have been to it. To set a gate you need to focus for 1 minute. You can have up to 10 gates that exist at a time, you can improve this limit as you get stronger.
-975.Web Weaver,2.1
+975.Web Slinger,2.1
 #Allows you to shoot sticky and durable ropes of spider webs from your body, these webs dissolve naturally after an hour.
 976.Drake Form,3.2
 #Allows you to take on the form of a firebreathing drake or a hybrid at will. As a lesser dragon, becoming a drake grants you increased physical abilities and the ability to fly as well as breathe fire. 

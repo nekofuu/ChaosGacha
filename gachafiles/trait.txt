@@ -167,7 +167,8 @@
 86. Poseidons Kiss,2.1
 #You are blessed by the god of the seas Poseidon, you move underwater as naturally as you would above water, in addition, all mundane aquatic life is friendly to you.
 87. Tinker,3.5
-#You are a natural at building technology. All tinker abilities are more potent, in addition, it's far easier to innovate new tech and build tech. You can also push your specializations far more. (A/N: If you pulled this perk without having a tinker ability, reroll the ticket) 4/28288. Hacker,2.1
+#You are a natural at building technology. All tinker abilities are more potent, in addition, it's far easier to innovate new tech and build tech. You can also push your specializations far more. (A/N: If you pulled this perk without having a tinker ability, reroll the ticket) 4/28288. 
+88.Hacker,2.1
 #You are great at interfacing with technology and leveraging your skills to get into networks.  (A/N: Reroll if you are in a medieval world) 
 89. Empath,3.4
 #You really are an empath. You can easily tell what people are feeling, understand emotions better, and how to control your own far better.

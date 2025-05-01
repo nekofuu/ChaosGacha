@@ -336,3 +336,7 @@
 #Monster Hunter - A legendary dragon(?) Kirin resembles the mix of a unicorn, a lion and a dragon. Kirin is extremely fast and physically mighty, but its main ability is to summon down bolts of lightning at will in addition to its immunity to lightning.
 180.Valstrax,5.0
 #Monster Hunter - A legendary elder dragon, Valstrax is referred to as the Sky Comet Dragon, for good reason. In addition, being a mighty dragon, he has unique wings that allow it to expel the dragon element alongside to turn them into what are essentially dragon magic jet engines. It is strong enough to break sound several times over as a living dragon jet fighter.
+181.Mimikyu,3.0
+#Pokemon - A mysterious entity hiding beneath a shabby costume of another Pokemon in hopes of being loved and accepted due to its real appearance under the disguise being a severe cognito hazard. Mimikyu is capable of creating and controlling shadow constructs to attack and defend.
+182. Wooloo,1.5
+#Pokemon - Wooloo is the sheep Pokemon, which means it is a supernaturally cute and strong sheep with super luxurious wool that grows back entirely within 5 days compared to the average Wooloo. Despite being a powerful beast it has no combat instincts or skill so don't expect combat from it.
