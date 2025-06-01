@@ -131,7 +131,7 @@
 66. Dehydration,2.8
 #Allows the user to evaporate the moisture inside of an object or target through physical, you could turn trees into dust, crumble most rocks etc. Using it on a living target is much harder as they can resist the effects.
 67. Drought,3.6
-#Allows the user to remotely evaporate water in their sensory range by expending energy, the larger the quantity of water the more energy you need to expend. With enough training, you can even evaporate water 
+#Allows the user to remotely evaporate water in their sensory range by expending energy, the larger the quantity of water the more energy you need to expend. With enough training, you can even evaporate water inside of objects in your sensory range. Magical waters and water inside more powerful objects take more energy to evaporate.
 68. Water Manipulation,3.5
 #Allows the user to create and control water, the more energy they expend, the larger quantities of water they can create and control and the more force they can apply to the water. 
 69. Hydrokinesis,4.6
@@ -2007,3 +2007,13 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #Naruto - A Kekkei Genkai that allows the user to grow bones and bone constructs on and out of their body. In addition, the user can manipulate the shape of their bones and reinforce them by increasing their density. They can also manipulate their own skeleton to increase their defence.
 1003.All Killing Ash Bones,6.5
 #Naruto - All Killing Ash Bones allows the user to control their own skeleton and grow bone constructs out of their own body. They are able to reinforce these bones and if they manage to pierce the body of a living being they start deteriorating down to the molecular level until they die. The sure kill effect's potency is dependent on the power difference between the user and the target.
+1004.Prophecy,4.4
+#You are able to tell the future across a large timeframe as prophecies. Although they aren't very accurate, your prophecies can point you towards crucial information or important things. The vaguer the prophecy the less energy you require to tell it.
+1005.Future Sight,5.8
+#You are able to tell the future, across a short or longer span of time. The more seconds you look into the future, the more energy you expend. The future you see is the future that would have happened had you not used Future Sight. Overuse can cause temporary brain bleeding.
+1006.Future Reading,3.2
+#You can read the near future. Being able to tell what can happen in a small time frame that you can train to increase. The future you read is not absolute but very probable, the more knowledge you have about the situation, the more accurate your readings. 
+1007.Future Prediction,3.7
+#You can predict the future. Allowing you to calculate the future of a target. You can predict the chances of a dice rolling a 6, or what the roll of a slot machine is going to give. What move your opponent is going to open up with or what stocks are going to rise and fall. The more information and better sensory abilities you have, the better your predictions.  
+1008.Foresight,3.5
+#Yomi Hustle - Allows you to place a foresight, an afterimage of yourself in anywhere in your range of perception. At any moment you teleport to the location of this foresight but it disappears if you leave within 100 meters of it or leave it for more than 1 hour, it also dissipates when damaged. You can only create a single Foresight but you can increase that number by training.

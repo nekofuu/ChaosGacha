@@ -381,7 +381,7 @@
 191. Hero Time,4.7
 #Can only be activated once a week, if you are fighting to protect someone all enhancement abilities receive a full rank boost.
 192. In Time of Need,4.0
-#Once every 100 hours you can restore your stamina and energy to full. 
+#-A Hero arises. Once every 120 hours you can restore your stamina and energy to full. Hours afterwards you will be extremely exhausted.
 193. Seamster,2.3
 #You are naturally very talented at sewing, you can spot flaws in clothing and easily make your own or fix others
 194. Wrath Made Manifest,6.6
@@ -422,8 +422,8 @@
 #Specialization - You are a natural-born shaper, shaping the body is second nature to you, all biological or body alteration abilities are easier to master and cost less energy.
 212. Non Binding Clause,5.3
 #That contract you just signed? The one with the soul bindings or magical enforcement? Yeah, unfortunately for them it's non-binding for you. At any time you choose to, you can destroy any contract or clause bound to you that you have agreed to. The fae will cry.
-213. Lil' Hercules,5.2
-#You are unusually strong, even as a regular human without powers you could rip a man in two with your bare hands and take a punch without flinching. This strength scales with you, 
+213. Lil' Hercules,5.5
+#You are unusually strong, even as a regular human without powers you could rip a man in two with your bare hands and are durable enough to take your own punches. This strength scales with your current physical abilities, you are always stronger than you should be.
 214. Peak Specimen,5.4
 #You are genetically the peak of your race, all those impurities or genetic defects your race could have had don't affect you, it's almost like you were selectively bred to be the peak specimen of your species.
 215. Ancestry,4.7
@@ -700,7 +700,7 @@
 #It's you against the world. The more you are outnumbered in a fight, the stronger you get. For an enemy to count they must be willing to inflict grievous harm on you. The upper limit is 1 vs 1000, this effect is cut in half for every ally you have against the outnumbering enemies.
 354.Duelist,4.1
 #It's time to duel! When in a one vs one fight your stats are increased. This trait is dispelled when any other combatant intervenes in the fight.
-355.Multitasking3.2
+355.Multitasking,3.2
 #You are very good at multitasking, being able to divide your attention into multiple sources without a decrease in efficiency. Your efficiency may decline with too many tasks at once.
 356.Scavenger,2.4
 #Whenever you go scavenging, whether it is for treasure, lost parts, artefacts, etc. You have a better chance of finding something useful.
@@ -724,3 +724,7 @@
 #You are a great disciple. You learn things faster and easier when taught personally by someone who has a higher skill level than you in the subject in question. In addition, it is easier to earn the favour of your teachers.
 366.Prodigious Pupil,4.1
 #You are THE Pupil. You learn things much faster and far more easily when taught personally by someone who has a higher skill level than you in the subject in question. In addition, it is easier to earn the favour of your teachers.
+367.The Taker,4.0
+#"You wake up with a dream, a harem full of... what the fuck?" You are the Taker, all beings of the opposite gender that are either Infernal, Holy or Divine find themselves more attracted to you and it is easier to earn their affection.
+368.Monstergirl Enthusiast,2.5
+#You seem to fancy some interests that most don't. Hybrid Girls or those of the opposite gender with monster or beast traits take more of a liking to you and it is easier to build relationships with them. And some monsters you encounter seem oddly humanoid and... compatible.

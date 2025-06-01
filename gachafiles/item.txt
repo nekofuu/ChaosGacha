@@ -459,11 +459,11 @@
 231. Monster Cell,6.7
 #One Punch Man - A cell resembling a virus the size of the human hand. Upon consumption, it makes the consumer unbelievably stronger and transforms them into a monstrous creature with an extended lifespan in exchange for making them unable to develop any further through natural means.
 232. Ability Ticket,5.5
-#A ticket that acts as a 10x Advantage Platinum Ability Gacha Ticket
+#A ticket that acts as a 6x Advantage Platinum Ability Gacha Ticket
 233. Trait Ticket,5.2
-#A ticket that acts as a 10x Advantage Platinum Trait Gacha Ticket
+#A ticket that acts as a 6x Advantage Platinum Trait Gacha Ticket
 234. Skill Ticket,5.1
-#A ticket that acts as a 10x Advantage Platinum Skill Gacha Ticket
+#A ticket that acts as a 6x Advantage Platinum Skill Gacha Ticket
 235. Uroboros Virus,4.6
 #Resident Evil - The Uroboros virus is a powerful virus that is capable of transforming hosts. If you aren't an exact match for the Virus to consider you a host, you will be transformed into an anomalous mass of blackened matter with incredible regenerative capability, if you are a match however, it will instead overhaul your body, granting you enhanced stats and bio immortality as the virus will regenerate and heal your body as well as being able to command it from your body. Or you could pour the vial into the ocean and watch the apocalypse.
 236. Tvirus,3.3 

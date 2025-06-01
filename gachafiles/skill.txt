@@ -29,7 +29,7 @@
 15. Intermediate Blade Weapon Mastery, 2.3
 #You are fairly skilled in handling bladed instruments and weapons such as swords and daggers. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.
 16. Intermediate Blunt Weapon Mastery, 2.1
-#You are fairly skilled in handling bladed instruments and weapons such as hammers, mauls and clubs. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.
+#You are fairly skilled in handling blunt instruments and weapons such as hammers, mauls and clubs. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.
 17. Intermediate Polearm Mastery, 2.6
 #You are fairly skilled in handling bladed instruments and weapons such as spears, halbers and sickles. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.
 18. Intermediate Item Construction, 3.3
@@ -344,9 +344,9 @@
 #Your ability to impart your skills and knowledge to others is on a divine level. You could train the average farmboy into a demigod with enough effort. There is no one you cannot teach.
 173. Divine Blade Weapon Mastery, 7.8
 #Your level of mastery with swords is divine, with training, there is nothing you cannot cut. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.
-174. Divine Blunt Weapon Mastery, 7.8
+174. Divine Polearm Mastery, 7.8
 #Your level of mastery with polearms is divine, with training, there is nothing you cannot stab, cut or strike. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.
-175. Divine Polearm Mastery, 7.8
+175. Divine Blunt Weapon Mastery, 7.8
 #Your level of mastery with blunt instruments is divine, with training, there is nothing you cannot crush and shatter. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.
 176. Divine Item Construction, 7.9
 #Your knowledge of creating artefacts and wonderous items is on the level of gods. The items you could create can be hailed as holy grails, if you have the skills, resources, time and abilities you could even make your own divine artefacts like a tesseract, a holy grail or even a Longinus.
@@ -402,3 +402,38 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 #Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
 202.Earthbending,4.5
 #Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
+203.Novice Performance,1.0
+#You know how to put in a performance. You are able to play all musical instruments enough to play basic songs, you can also sing decently, you can dance without tripping. You would fit right in with a high school band.
+204.Intermediate Performance,2.1
+#You are a qualified performer. Being able to play all basic musical instruments enough to play most songs on them, and you can sing most songs well enough that people may just like them. If you get on the dance floor you won't be an eyesore to anyone. You can assemble your own semi-successful band.
+205.Adept Performance,3.2
+#You are a great performer. You can play all musical instruments well enough to impress most people, and you are great at singing too, enough to capture people's attention with your tunes and have a flair for impressing crowds. You certainly know how to put on a show. You would have a very successful entertainer career.
+206.Expert Performance,4.1
+#You have the skills of an expert performer. You can play any instrument about as well as anyone can, and sing with a voice that impresses just about anyone. You can captivate large crowds with your performance, and imbue your emotions into your songs, you know how to sway crowds like an expert. You would be hailed as one of the classics and counted among the greats.
+207.Master Performance,5.6
+#You have mastered the art of putting on a performance. You can play any instrument well enough to impress the world, your voice when singing is nothing short of captivating. You can sway entire crowds, put on performances that make crowds weep or cheer, you know how to capture and sway crowds instinctively. Without a doubt, you would be hailed as one of the greatest artists and idols of all time.
+208.Novice Management,1.6
+#You are a novice at managing things. You know how to schedule your day, distribute your tasks, and attention to spend your time better. You would make a decent secretary. 
+209.Intermediate Management,2.6
+#You are fairly skilled at management tasks, you can split your attention adequately between tasks, distribute tasks, structure things, manage groups, etc. You would make a fine secretary or a small business owner.
+210.Adept Management,3.7
+#You are skilled at management tasks, you know how to distribute tasks, handle them efficiently, handle employees or minions, multitask efficiently and deal with financial problems efficiently. You could easily run your own company or be an excelling financial advisor. 
+211.Expert Management,4.6
+#You have become an expert in the art of management. Whether it is managing finances, people, assets, distributing tasks or managing your own attention and problems you can do so with brutal efficiency and expertise. You can easily run a multi-national company or a nation. 
+212.Master Management,5.8
+#You are a master of management. You can easily manage tasks, people, assets, finances, distribution of tasks, and just about anything needed to manage a large group such as a company or even a country. You can also freely split your attention between tasks seamlessly, almost like parallel processing. You can increase your mastery even further by training and experience. 
+213.Novice Discipline,1.2
+#You have basic discipline. You are able to endure slight hardship, able to force yourself to eat things you don't want to eat and study when you don't want to but your discipline is not that much greater than the average person.
+214.Intermediate Discipline,2.5
+#Your discipline is remarkable. You are fairly disciplined, being able to endure hardship such as discomfort and pain without audible complaints. You can force yourself to train even when you don't want to and get out of bed even when it's very comfortable, you are pretty good at maintaining focus. People would say you have an excellent work ethic.  
+215.Adept Discipline,3.6
+#Your dedication and focus are admirable. You are very disciplined, being able to focus on tasks without falling to distractions, you are able to grit your teeth and get it done, even when in pain you can push on. You are able to push through discomfort, annoyance, and pain to get whatever job you need to get done. It is hard to use mental abilities on you. 
+216.Expert Discipline,4.8
+#You have a mind made of iron. Your focus is sharp as a blade, if you do not want to be interrupted you won't be, if you know you need to keep going, you will. You can endure the toughest of training, even if your body starts breaking down you can force it to keep going for longer. You are very resistant to mental influences and effects.
+217.Master Discipline,6.0
+#You are the master of your own mind, the god of your own ship. Pain has no effect on your abilities, you can endure the toughest of punishments even if you think you can't. Your focus cannot be shaken, your discipline is unmatched. Your mind cannot be shaken by those weaker than yourself, and even then they will not have a good time. You are as disciplined as Batman himself. 
+218.Rokushiki,5.0
+#One Piece - A special superhuman martial arts developed for only the most expert and skilled of the Marines and Cipher Pol agents. Rokushiki consists of 6 different special superhuman techniques and a secret 7th one they have achieved mastery over the others. You start with knowledge of all techniques but have to train to use them.
+219.Caryll Runecraft,4.2
+#The Outer Ones beyond the stars whisper to you, and allow you to catch glimpses of their knowledge in the form of runes. You can memorize the runes of the Outer Gods to acquire some boons. But you will have to study to memorize the runes given to you. You can only have three runes active at a time 
+List of Runes: https://bloodborne.wiki.fextralife.com/Caryll+Runes

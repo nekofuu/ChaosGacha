@@ -376,3 +376,29 @@
 #Fairy Tail - Aries is a Celestial Spirit, representing the Aries Constellation. Aries, while not a very skilled melee combatant is a master in wool magic, being able to conjure and control wool. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.
 200.Libra,3.4
 #Fairy Tail - Libra is a Celestial Spirit, representing the Libra Constellation. Libra is a capable melee fighter but her real strength lies in her mastery over gravity magic, being able to change the weight of her targets at will. As a Celestial Spirit, she is unable to be killed by normal means and her power scales with her owners.
+201.Stray Cat,2.0
+#JoJo - A plant... cat...? Creature of sorts, Stray Cat is a feline whose soul fused with a plant. Stray Cat is capable of Aerokinesis, allowing them to launch invisible air bullets stronger than regular bullets or use bubbles as very dense shields. But they get very sleepy when covered by darkness.
+202.Ship,4.8
+#Ben 10 - Ship is an adolescent Galvanic Mechamorph, possessing all of their abilities to a lesser extent. He possesses an amorphous body that can merge with any technology to possess it and reconfigure it while improving its powers.
+203.Zs Skayr,6.7
+#Ben 10 - Zs Skayr is a High Ecto Lord ruling over Ectonurites. As a High Ectonurite, he is an extremely powerful ghost, having formidable physical strength, being able to freely fly, phase through physical objects, possess living beings, use telekinesis and manipulate dark energy to use as projectiles.
+204.Vulpimancer,3.5
+#Ben 10 - A large bestial orange alien canine with quil-like fur, they are larger than the average man and have superhuman human physicals enough to shred steel like cardboard and extreme athletics. Despite being blind Vulpimancers have a sense of smell and hearing that far surpass any mundane being, being able to track scents across cities and being able to distinguish smells to extreme levels to the point of possessing a 360-degree sensory range from their sense of smell.
+205.Null Guardians,4.0
+#Ben 10 - A pack of beings originating from the Null Void. They are giant tentacled flying beastlike creatures capable of firing beam breaths and sensing and tracking Mana/Energy signatures. You start with 1 guardian, and get more under your command in relation to your maximum energy levels. If a Null Guardian dies you can recover them over time.
+206.Herbie,1.2
+#The Love Bug - Herbie is a sentient and self-driving Volkswagon Beetle with unusually great performance better than it should be capable of. He will slowly repair himself when unsummoned in the case of getting damaged.
+207.Iron Golem,2.8
+#Hota - Stone Golems created from a mix of excellent craftsmanship and magic. Iron Golems are very resistant against magic and have incredible defence paired with powerful physical abilities, being able to tear a grown in half with ease. You start with 4 golems and are able to summon more scaling with your Maximum energy levels and physical abilities.
+208.Diamond Golem,4.1
+#Hota - Diamond Golems created from a mix of incredible craftsmanship and magic lost to the modern ages. Diamond Golems are unbelievably durable, being downright immune to most mundane arms below missiles and are mostly immune to all magic below Epic tier. They are also very capable of tearing steel with their bare hands. You start with 4 golems and are able to summon more scaling with your Maximum energy levels and physical abilities.
+209.Regirock,4.6
+#Pokemon - Regirock is an ancient Pokemon formed from stones created in the image of Regigigas. Regirock is incredibly durable and has great physical stats, in addition, they are able to release beams of destructive energy and possess Geokinetic abilities. When they are damaged, Regirock can repair themselves by assimilating the rocks they find.
+210.Regice,4.9
+#Pokemon - Regice is an ancient Pokemon formed from the coldest glaciers in the Arctic by Regigigas. Regi is resistant against magic and possesses potent cryokinetic abilities, being able to fire out freezing beam attacks, create and manipulate frigid freezing winds and much more. If they are damaged they can assimilate more ice into their body to heal.
+211.Registeel,4.3
+#Pokemon - Registeel is an ancient Pokemon formed from alien metal by Regigas. Due to having its body tempered by tens of thousands of years by the pressure of the planet Registeel's metal body is incredibly difficult to damage. Registeel is capable of firing powerful beams of destructive energy and unleashing metal and electrokinetic attacks from its body. In the event they are damaged, Registeel will slowly repair their body over time.
+212.Regigigas,7.2
+#Pokemon - Regigigas is an ancient titan that used to be worshipped by humanity standing as large as the mountains themselves. Regigigas is known as the continent puller, and its strength and durability do justice to this fact. In addition, Regigigas can unleash powerful beams of mass destruction and surprisingly can craft golems like the Regi's out of natural materials of the world.
+213.Jigglypuff,2.8
+#Pokemon - An incredibly cute furry creature, Jiggly is a talented actor and singer, its real power lies in its ability to sing lullabies and songs that can put whoever hears them to sleep. The stronger a target is in relation to Jigglypuff the less they are affected.
