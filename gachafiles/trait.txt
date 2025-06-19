@@ -59,7 +59,7 @@
 32. Taming specialist,2.6
 #You are skilled at the art of turning a wild animal into a domesticated one.
 33. Bitch Breaker,2.9
-#Sometimes all a bad attitude needs is a good fucking, you are an expert at correcting attitudes through sex correction.
+#(Nsfw)Sometimes all a bad attitude needs is a good fucking, you are an expert at correcting attitudes through sex correction.
 34. Sunshine Boy,2.4
 #You exude a vibe of goodness and purity, good-aligned beings like you more.
 35. Bad Boy Charm,2.4
@@ -109,7 +109,7 @@
 57. Prophecy,6.7
 #You are able to see the future in your dreams, with or without your consent.
 58. Winner Takes All,5.0
-#When you win against someone, you can extract a reward from them forcefully.
+#When you win against someone, you can extract a reward from them forcefully. The reward you extract must be proportional to the victory you have achieved. Minor victories equal minor rewards while winning a fight to the death would be a reward equal in value to their life. The reward must be something they are capable of granting you.
 59. Natural Scent,2.4
 #Upgrade of Perfumer - You smell really good, even your sweat does, and your natural body odor is like perfume that most people like. You never have to worry about smelling bad ever again.
 60. Poisonous,0.2
@@ -255,7 +255,7 @@
 130. Feline Friend,2.2
 #You are a friend to all cats kind. All felines and feline-related beings are more favorable towards you and it is easier to earn their affection. In addition, you are inordinarily flexible.
 131. Sexual Calibration,2.3
-#All of the minor inconveniences sex once had are now gone, forget about STDs, hygiene precautions, or unwanted pregnancies because you can adjust how all of those interact with you. In addition, you are very talented in the tantric arts.
+#(Nsfw)All of the minor inconveniences sex once had are now gone, forget about STDs, hygiene precautions, or unwanted pregnancies because you can adjust how all of those interact with you. In addition, you are very talented in the tantric arts.
 132. Golden Shot,1.2
 #Your little swimmers are the strongest in the world, any woman you cum inside of WILL get pregnant, even if they are more barren than the arid desserts your semen does not care.
 133. Ygdar Orus Li Ox,4.9
@@ -497,7 +497,7 @@
 251. Skyward,4.2
 #You belong to the skies, all wind-based abilities are more potent, cost less energy to use, and are easier to master. In addition, you recover energy faster when in the sky.
 252. Electric Sheep,3.6
-#Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine with greater ease. (A/N: Reroll if you don't have a thinker ability)
+#Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine and network with greater ease. (A/N: Reroll if you don't have a thinker ability)
 253. Flexible,1.7
 #You are inordinately flexible, even more so than an expert contortionist.
 254. Demon King,5.6
@@ -506,12 +506,12 @@
 #You are the True Hero blessed by the divines themselves. All Light and Holy-based abilities are greatly enhanced alongside your physical abilities. Beings aligned with the Divine/Clergy are more favorable toward you and are more likely to view you with reverence and affection, and to reward you for your merits and service to them. In addition, all blessings are stronger and last longer on you. Whenever you are combating a creature in order to save someone you gain a temporary enhancement to all of your stats depending on your willpower and the stakes.
 256. Chosen Champion,7.7
 #You are the chosen Hero of Humanity. All Light and Holy-based abilities are increased by a rank if they are below Mythical rank and your base physical abilities are massively enhanced. Beings aligned with the Divine/Clergy are more favorable toward you view you with reverence and affection, and reward you for your merits and service to them. All blessings are permanent for you. Whenever you are fighting a creature in order to save someone you gain a temporary enhancement to all of your stats depending on your willpower and the stakes.
-257. Alluring Whisper,3.1
-#You have a smooth, buttery and attractive voice that belongs to a top-tier singer, in addition, your voice can also be used to arouse people and to sound more convincing. Enhances your voice-based abilities.
+257. Alluring Whisper,2.8
+#(Nsfw)You have a smooth, buttery and attractive voice that belongs to a top-tier singer, in addition, your voice can impress even the most picky hardasses and used to sound more convincing. Enhances your voice-based abilities.
 258. Charisma,2.5
 #You have a sort of charismatic presence around you, an aura that just pulls people in and makes you seem like more in their eyes. 
 259. Sensual Prescence,3.6
-#You are a sensual kind of presence around you, it's not exactly too noticeable but people find themselves more attracted to and aroused by you. The longer they are exposed to your presence the higher the effects, but only works on people friendly to you.
+#(Nsfw)You are a sensual kind of presence around you, it's not exactly too noticeable but people find themselves more attracted to and aroused by you. The longer they are exposed to your presence the higher the effects, but only works on people friendly to you.
 260. Harem Lord,2.7
 #You are an aspiring harem enthusiast. Women and society as a whole mind you having a harem a lot less, it still won't be easy building your harem of beauties but it will be a lot less of a hassle. 
 261. Harem King,3.3
@@ -543,7 +543,7 @@
 274. Yog's Blessing,4.6
 #Rest assured knowing that the best girl is rooting for you. Thanks to Yog's blessing you are granted safe passage, all drawbacks from Space-related abilities are mitigated. In addition, they also cost less energy and have far higher range. You also have incredible resistance against Space attribute attacks.
 275. Carnal Engine,2.7
-#You are an eternal engine when it comes to carnal activity, while performing sexual actions your stamina recovery, endurance, and resilience are massively boosted, you can go on for literal days without rest.
+#(Nsfw)You are an eternal engine when it comes to carnal activity, while performing sexual actions your stamina recovery, endurance, and resilience are massively boosted, you can go on for literal days without rest.
 276.Four Leaf Clover,2.7
 #You are pretty lucky, not to the point where it's blatantly supernatural but the scales of fate are skewed towards you.
 277.Rabbits Foot,3.7
@@ -621,7 +621,7 @@
 313.Paper Trail,1.8
 #For some reason you are always carrying the relevant paper or information with you. And so do your familiars apparently. Just reach into your pocket and you can find whatever legal identification you need.
 314.No Strangers,2.1
-#To Love, apparently they are a stranger to it. People don't seem to mind open displays of affection as long as you aren't too overt. 
+#(Nsfw)To Love, apparently they are a stranger to it. People don't seem to mind open displays of affection as long as you aren't too overt. 
 315.No Peeking,5.1
 #Information Gathering doesn't work against you, scrying spells fall apart, precognition fails, and cameras stop recording. 
 316.Battery Saver,4.6
@@ -629,9 +629,9 @@
 317.Rule 63,3.3
 #"Where Banana?" Reality across all of existence has been twisted, warped, retconned and remade to make some men women.
 318.Monster Mater,2.8
-#"I really shouldn't have sex with that, buuut-" The more monstrous a member of the opposite sex is, the more they are attracted to you. Only works on things you yourself would be attracted to.
+#(Nsfw)"I really shouldn't have sex with that, buuut-" The more monstrous a member of the opposite sex is, the more they are attracted to you. Only works on things you yourself would be attracted to.
 319.Musk,2.0
-#Your smell is really good, a bit arousing even. 
+#(Nsfw)Your smell is really good, a bit arousing even. 
 320.No Enemies,4.8
 #"You really don't" Everyone you meet has a good impression of you, even evil dictators, violent murderers or mindless beasts have a decent liking of you as soon as they get to know about you. Only works on named characters.
 321.My Friend Now,5.5
@@ -699,7 +699,7 @@
 353.Man vs World,4.8
 #It's you against the world. The more you are outnumbered in a fight, the stronger you get. For an enemy to count they must be willing to inflict grievous harm on you. The upper limit is 1 vs 1000, this effect is cut in half for every ally you have against the outnumbering enemies.
 354.Duelist,4.1
-#It's time to duel! When in a one vs one fight your stats are increased. This trait is dispelled when any other combatant intervenes in the fight.
+#It's time to duel! When in a one vs one fight your stats are increased. This trait is dispelled when any other combatant intervenes in the fight. But people are less likely interrupt any duels you get into.
 355.Multitasking,3.2
 #You are very good at multitasking, being able to divide your attention into multiple sources without a decrease in efficiency. Your efficiency may decline with too many tasks at once.
 356.Scavenger,2.4
@@ -727,4 +727,18 @@
 367.The Taker,4.0
 #"You wake up with a dream, a harem full of... what the fuck?" You are the Taker, all beings of the opposite gender that are either Infernal, Holy or Divine find themselves more attracted to you and it is easier to earn their affection.
 368.Monstergirl Enthusiast,2.5
-#You seem to fancy some interests that most don't. Hybrid Girls or those of the opposite gender with monster or beast traits take more of a liking to you and it is easier to build relationships with them. And some monsters you encounter seem oddly humanoid and... compatible.
+#(Nsfw)You seem to fancy some interests that most don't. Hybrid Girls or those of the opposite gender with monster or beast traits take more of a liking to you and it is easier to build relationships with them. And some monsters you encounter seem oddly humanoid and... compatible.
+369.Reapers Presence,4.4
+#Upgrade to Terrifying Presence - The reaper is here and they know it. Your presence is that of nightmares, you can make a grown man shit himself without saying a word. If you want to, every gesture of yours seems like a death threat. Acting like the scariest thing they have seen comes naturally to you. 
+370.Magic Is Not Real,7.4
+#You heard it, it's not real, all just nerds pretending with smoke and mirrors. All magic is completely nullified against you, a god of magic could drop the big bang on you but as long as it was magic you wouldn't get scratched, because magic is not real, obviously. But as magic is not real you also cannot use it to any extent as long as this trait is active.
+371.Summoner,4.5
+#You are a summoner, summoning and commanding creatures, familiars, spirits and summons come naturally to you. All Familiars get enhanced stats and consume less energy. The potency of all projection-type abilities and spells is increased, it is easier to build affection and loyalty with summons and contracted entities.
+372.Brand of Tzeentech,5.8
+#Warhammer 40k - You wear the brand of Tzeentech, the Changer of Ways. Greatly speeding up your comprehension and learning abilities. Allowing you to improve in skill and magic far faster. In addition, you are capable of spells that you otherwise wouldn't be able to learn due to restrictions like racial differences. Note: Brands do not connect you to the  Chaos Gods or Warp.
+373.Brand of Slaneesh,4.6
+#Warhammer 40k - You wear the brand of Slaanesh, the Lord of Pleasure. Greatly increasing your understanding of others, you can vaguely feel the emotions of others, in addition, your presence is naturally more charismatic and alluring to others. Note: Brands do not connect you to the  Chaos Gods or Warp.
+374.Brand of Khorne,5.3
+#Warhammer 40k - You wear the brand of Khorne, the Blood God. Greatly increasing your propensity for combat, your instincts are greatly heightened in the midst of combat, you have greater intuition into using any weapon or skill in combat, making you a natural killing machine. You can track blood and are able to sense killing intent like it is second nature. Note: Brands do not connect you to the  Chaos Gods or Warp.
+375.Brand of Nurgle,5.4
+#Warhammer 40k - You wear the brand of Nurgle, the Plague Father. Making you immune to all poisons, toxins, and diseases below Legendary rank and greatly increases your resistance to those above Legendary rank. The brand also heightens your understanding of poisons, toxins, and diseases, increasing the potency of abilities and spells relating to it as well as increasing your ability to cure them. Note: Brands do not connect you to the  Chaos Gods or Warp.

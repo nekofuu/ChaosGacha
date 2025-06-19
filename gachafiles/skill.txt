@@ -57,7 +57,7 @@
 29. Sun breathing, 4.4
 #Demon Slayer - Sun Breathing is a specialized swordsmanship style and breathing technique created by the legendary swordsman Yoriichi Tsugikuni that mimics the sun and replicates it with the user's movements, techniques, and abilities. All techniques and forms are extremely varied and have no set pattern, making them the most versatile and effective against enemies. With magical power, solar flames that are effective against unholy can be manifested.
 30. Intermediate Kama Sutra, 2.2
-#You are experienced in the sexual arts, being skilled at pleasuring your partner and being a pleasant recipient. You know how to spot arousal and what your partner responds to.
+#(Nsfw)You are experienced in the sexual arts, being skilled at pleasuring your partner and being a pleasant recipient. You know how to spot arousal and what your partner responds to.
 31. Intermediate Taming, 2.1
 #You are good at taming and training wild creatures, making them submit to you, making them obedient, submissive and loyal to you. Also being good at learning how to tame specific creatures. This can also be applied to people to an extent.
 32. Intermediate Pressure Points, 3.8
@@ -129,7 +129,7 @@
 65. Novice Item Construction, 2.1
 #You know how to create minor enchanted and special items, not anything that can be called a proper item but things like a plate that heats itself up or a mask that purifies air are possible as long as you have the proper knowledge base.
 66. Novice Kama Sutra, 1.5
-#You are reasonably talented in the carnal arts, you know what goes where and how to pleasure your partner as well as what not to do during coitus.
+#(Nsfw)You are reasonably talented in the carnal arts, you know what goes where and how to pleasure your partner as well as what not to do during coitus.
 67. Novice Taming, 1.1
 #You know how to tame wild creatures, but not very precisely. With trial and error, you can probably tame a creature but it won't be easy, though you can easily tame and train mundane animals.
 68. Novice Massage, 1.2
@@ -177,7 +177,7 @@
 89. Adept Item Construction, 4.9
 #You know how to create enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that deploys a fire barrier in an emergency, or if you have the ability of teleportation you could create a ring that teleports people to a set location etc.
 90. Adept Kama Sutra, 3.3
-#You are very talented in the carnal art, being able to spot signs of arousal and attraction, in addition, you instinctively know how to pleasure your partner in bed and be a very pleasant recipient, enhancing pleasure for both of you.
+#(Nsfw)You are very talented in the carnal art, being able to spot signs of arousal and attraction, in addition, you instinctively know how to pleasure your partner in bed and be a very pleasant recipient, enhancing pleasure for both of you.
 91. Adept Taming, 3.1
 #You are great at taming, making beings submit to your ownership or superiority. You know how to gain the obedience and loyalty of eligible families and people to a lesser extent. You are also good at training them too.
 92. Adept Massage, 3.6
@@ -225,7 +225,7 @@
 113. Expert Item Construction, 5.7
 #You know how to create great enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that deploys fireballs, walls of fire and makes the user resistant to fire, or if you have the ability of teleportation you could create a ring that teleports people to a set location etc.
 114. Expert Kama Sutra, 4.5
-#You are an expert in the carnal, being intimately familiar with picking up signs of arousal and pleasuring your partners in bed. Unless your partner is completely frigid, no one will leave your bed unsatisfied, your skill in bed is unmatched by most. If you were given magic you could probably create Eromancy.
+#(Nsfw)You are an expert in the carnal, being intimately familiar with picking up signs of arousal and pleasuring your partners in bed. Unless your partner is completely frigid, no one will leave your bed unsatisfied, your skill in bed is unmatched by most. If you were given magic you could probably create Eromancy.
 115. Expert Taming, 4.1
 #You are an expert in taming and domestication. You know how to turn a ferocious beast into your best buddy, and you know how to skillfully train creatures to gain their obedience and their loyalty. This can also be applied to people to a lesser extent.
 116. Expert Massage, 4.0
@@ -273,7 +273,7 @@
 137. Master Item Construction, 6.3
 #You know how to create epic enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that allows the user to use fire magic themselves at a lower level.  If you had an ability like superhuman, you could create a ring that turns the average Joe into a super soldier. Stronger enchantments demand stronger base materials.
 138. Master Kama Sutra, 6.5
-#You are a true master of lovemaking and passion, no mortal man can match your mastery over the carnal arts, and the bodies of your partners may as well be putty in your hands, even gods would be rendered to helpless messes with your lovemaking skills.
+#(Nsfw)You are a true master of lovemaking and passion, no mortal man can match your mastery over the carnal arts, and the bodies of your partners may as well be putty in your hands, even gods would be rendered to helpless messes with your lovemaking skills.
 139. Master Taming, 5.1
 #You are a true master tamer. You can turn even the most ferocious bloodthirsty manic beast into a living room pet. You are a master at also training familiars to gain their obedience and loyalty. This can also apply to people to a lesser extent.
 140. Master Massage, 5.5
@@ -437,3 +437,9 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 219.Caryll Runecraft,4.2
 #The Outer Ones beyond the stars whisper to you, and allow you to catch glimpses of their knowledge in the form of runes. You can memorize the runes of the Outer Gods to acquire some boons. But you will have to study to memorize the runes given to you. You can only have three runes active at a time 
 List of Runes: https://bloodborne.wiki.fextralife.com/Caryll+Runes
+220.Novice Conceptualization,1.9
+#Conceptualization is your ability to understand what shouldn't be, in essence, it is your ability to comprehend the mystical, magical and eldrich. You have an easier time comprehending, understanding and learning mystical and exotic effects but so much above the average person. 
+221.Intermediate Conceptualization,2.9
+#Conceptualization is your ability to understand what is beyond the mundane. You are an intermediate at comprehending the Mystical and Esoteric. You learn and master magic faster, and you are better at understanding the composition of abilities and esoteric effects. 
+222.Adept Conceptualization,3.9
+#Conceptualization is your ability to understand what is beyond the mundane and inexplicable. With this level, your mind probably won't be shattered by hearing the old ones whisper. Magic and Esoteric make more sense to you when you see them, you understand, learn, and develop magic more easily and have a better time understanding the mystical side of reality.

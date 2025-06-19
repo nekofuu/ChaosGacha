@@ -359,7 +359,7 @@
 181. X - Wheel of Fortune,2.5 
 #Tarot Card - Temporarily swaps all active powers with random powers of the same rarity for 1 hour, (For writing: done by rolling the gacha that corresponds with said rarity). 120 Hour Cooldown
 182. XI - Justice,3.0 
-#Tarot Card - Clears all abnormal status effects in a 10-meter radius
+#Tarot Card - Clears all abnormal status effects such as disease, poison, curses and charms Epic rank and below in a 10-meter radius. Cooldown: 120 hours.
 183. XII - The Hanged Man,1.5 
 #Tarot Card - Allows you to absorb all of the wounds and ailments of a target while lessening their intensity by 20%. 120 Hour Cooldown
 184. XIII - Death,5.4
@@ -902,3 +902,39 @@
 #Fairy Tail - A sealed sword imbued with extremely uncontrollable amounts of magical power. The moment the sword is unsheathed it will produce a slash that can cut through several city blocks like butter at minimum. It is advised to keep it inside the sheath.
 451.Magic Ticket,4.7
 #Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
+452.Fev Vat,4.0
+#Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.
+453.Null Void Projector,6.8
+#Ben 10 - A handheld projection gun that allows the user to open portals to the Null Void or send whatever they hit into the Null Void. It requires recharging between shots but hey, whatever you sent there is no longer your problem. Incapacitating someone with the Null Void does not grant a feat.
+454.Tome of Destruction,3.7
+#Skyrim - A tome that compiles the various destruction spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)
+455.Tome of Restoration,4.6
+#Skyrim - A tome that compiles the various restoration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Restoration_(Skyrim)
+456.Tome of Conjuration,5.7
+#Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+457.Tome of Alteration,4.9
+#Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+458.Tome of Illusion,4.2
+#Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+459.Potarra Earrings,5.5
+#Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
+460.Celestial Bronze,2.6
+#Percy Jackson - A mythical metal native to Mount Olympus. Celestial Bronze possesses the property of being deadly to any magical or mythical being while being completely harmless to anything mundane, passing through them like it's not even there. You get 3 10kg bars. Restock Timer: 24 Hours
+461.Stygian Iron,3.4
+#Percy Jackson - Stygian Iron is a metal native to the River Styx of the underworld. This metal has the property of being able to destroy or absorb the essences of those it kills. Additionally, it is extremely durable and amplifies the power of darkness, necromancy, or infernal abilities. You get 3 10kg bars. Restock Timer: 24 Hours
+462.Ebony Blade,5.7
+#Skyrim - A Daedric Artifact owned by Mephala, Ebony is an indestructible and sharp katana that is capable of absorbing a portion of the vitality of those it has slain and imbue it into the wielder to heal them of their injuries. It is also capable of silencing those it strikes preventing them from casting magic. This blade is strengthened by slaying those who consider you as a friend with its blade.  
+463.Emperors Blade,6.4
+#Samurai Jack - The ultimate divine blade against evil forged by Odin, Ra and Rama that represents all good in the world. It can only be used in the hands of the righteous and good. The blade is completely unbreakable and incredibly sharp, being reinforced by the user's spirit. Any creature of darkness or infernal will get parts of its body vaporized when damaged by the sword. Massively amplifies the power of holy and light abilities when used as a focus.
+464.Stopwatch,8.5
+#A stopwatch that allows the user to stop the time of the universe around them when used, often employed by Ugly Bastards or people whose hair obscures their eyes. 
+465.Ricks Portal Gun,7.2
+#Rick and Morty - A portal gun built by one of the smartest yet stupidest and drunkest inventors in the multiverse. This portal gun is capable of opening portals to any non-spatial blocked location including other universes as long as you know the location's co-ordinates or specifications. The portal fluid refills every 24 hours.
+466.Ring of the Bull,3.1
+#This golden ring ruby ring grants its wearer increased strength and endurance when worn. These increased stats are half a flat boost and half a percentage boost.
+467.Riptide,2.2
+#Percy Jackson - Riptide is the sword of the demigod son of Poseidon made of Celestial bronze. Making it exceptionally durable and sharp while being unable to hurt anything or anyone mundane. In addition it is able to switch between the form of a pen and a sword at will for you to decide which is stronger. Boosts the power of water affinity when used as a focus.
+468.Helm of Darkness,5.8
+#Percy Jackson - One of Hades' symbols of power, this ornate helmet allows whoever wears it to become completely invisible to all senses, pass through walls and melt into shadows. In addition, they are able to radiate an aura of primordial fear when using it. Using the helmet's abilities consumes the energy of the user.
+469.Hyperbolic Time Chamber,5.8
+#Dragon Ball - This Hyperbolic Time Chamber allows whoever enters to spend time training inside the gravity-enhanced dimension or just use the safe part as a hideout. The time dilation of the Time Chamber is 3 to 1 meaning three days inside equal to one day outside. You can access the Time Chamber From any door place your hands on.

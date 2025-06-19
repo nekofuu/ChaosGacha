@@ -991,9 +991,9 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 496.Record,2.7
 #Trash Count - Allows you to record your sight into your mind, recorded information is engraved in memory even better than photographic memory as you can recall it in absolutely perfect detail at any time as if yo are actively thinking about it all the time.
 497.Arousal,3.6
-#Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
+#(Nsfw)Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
 498.Audacity,4.6
-#Allows you to go unnoticed by people, they try to ignore you to the best of their ability, you can pick the lock to someone's house, grab their wallet while they are having dinner, grope their wife and leave without them even commenting on it. Stronger targets are less affected by this and will notice actions that are drastic, this ability consumes energy and stamina to keep active.
+#Allows you to go unnoticed by people, they try to ignore you to the best of their ability, you can pick the lock to someone's house, grab their wallet while they are having dinner, kill their wife and leave without them even commenting on it. Stronger targets are less affected by this and will notice actions that are drastic, this ability consumes energy and stamina to keep active.
 499.Mind Reading,4.5
 #Allows you to read the mind of a target you are focused on, allowing you to read their surface thoughts, emotions or even deeper thoughts and opinions. The stronger the target, the higher the energy drain.
 500. Telepathy,4.9
@@ -1199,7 +1199,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 600.Sea Snake Form,5.8
 #Allows you to transform into a sea snake or a sea snake hybrid at will, largely boosting your physical abilities and giving you minor regeneration as well as water breathing and mobility. You can also unleash a lethal poison breath.
 601.Tantric Healing,3.3
-#Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
+#(Nsfw)Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
 602.Assembly,4.3
 #Allows you to automatically assemble any parts you have access to into any item you have created or built with your own hands before or know how it's made. You can also create lesser versions of the items if the materials you have are subpar.
 603.Pearl Jam,3.9
@@ -2017,3 +2017,33 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #You can predict the future. Allowing you to calculate the future of a target. You can predict the chances of a dice rolling a 6, or what the roll of a slot machine is going to give. What move your opponent is going to open up with or what stocks are going to rise and fall. The more information and better sensory abilities you have, the better your predictions.  
 1008.Foresight,3.5
 #Yomi Hustle - Allows you to place a foresight, an afterimage of yourself in anywhere in your range of perception. At any moment you teleport to the location of this foresight but it disappears if you leave within 100 meters of it or leave it for more than 1 hour, it also dissipates when damaged. You can only create a single Foresight but you can increase that number by training.
+1009.Tinker PvZ,5.2
+#Plants vs Zombies - Allows you to genetically engineer plants from Plants vs Zombies. Such as flowers that turn sunlight into energy, ones that punch people or breathe fire. The more powerful and esoteric a plant is the more resources you need to produce them.
+1010.Labyrinthian,7.1
+#You are the legendary minatour of myth. Your physical abilities are amplified to an inhuman level, especially your strength and endurance in addition to gaining the traits of a bull. In addition, you can turn any area you are in into a labyrinth, allowing you to shuffle all points of entry and exit in an era to lead to wherever you want. Even a future reader would get stuck for a hundred years in a forest.
+1011.Hyper,6.5
+#You are not just super, you are HYPER! You have extreme physical abilities and flight, the classic super package taken to the extreme. The more energy you expend the stronger and faster you are.
+1012.Divinity Healing,8.6
+#You are a god of healing and restoration, possessing domain over all healing allowing you to perform miracles governing your domain by expending energy. For you, death may as well be the same as sleeping and mythical poisons a mild cold.
+1013.Law of Restoration,7.5
+#Allows you to enforce the Law of Restoration on a target. When the law is enforced the target is forcefully restored to whatever state it is deemed "restored" in. Even corpses can be restored to life, even erasure can be reversed as long as something remains. The more powerful, damaged or abnormal a target is the more energy you need to expend. As long as it is slotted in, it will activate on yourself at the moment of your death.
+1014.Inner Isles,5.8
+#There is an island inside of your being. Using this ability you can create doors to a spatial dimension inside of your existence, manifesting as a small island in the middle of a vast ocean with no life in sight, the island does contain vegetation though. Creating larger doors and maintaining doors can consume energy. 
+1015.Sea Serpent of the End,7.7
+#DxD - Allows you to transform into the Sea Serpent of the End, Leviathan. As Leviathan, a giant mythical sea snake monster you can control all water in your range on a massive scale, being able to tilt seas and drown cities, you can create even more water serpents or summon rains that cause floods. All water-based abilities and effects are massively amplified when using it.
+1016.Gradual Transformation,3.6
+#You can gradually transform your body into any shape, but due to the transformation being slow, it must be used carefully. It would take roughly 3 hours to slowly turn into a cat and you cannot increase or decrease your mass by more than 500% 
+1017.Meltdowner,6.1
+#Toaru - Meltdowner allows the user to create and control Particle Waveform High-Speed Canons out of altered electrons. Or in more simple it allows them to unleash incredibly powerful and hot electron beams from their body capable of slicing through any metal like its paper. The more energy you expend the stronger beams you can unleash.
+1018.Curse Breaker,3.6
+#Curse Breaker allows you to break curses by touching them or an area around you with some training. The strength of the curses and charms you can break scales with the amount of energy you expend.
+1019.Shatter Curse,5.2
+#Upgrade to Curse Breaker - No curse is safe around you. You are able to dispel and break all curses you touch. The strength of the curses you can break is equal to the amount of energy you expend. With enough energy you can break the curses of gods.
+1020.Mystical Eyes of Purity,6.4
+#Mystical Eye of the Pure World, using these mystical eyes you can cleanse any target you lock your sight on, allowing you to break curses, cleanse disease and poison, dispel charms and otherwise any status effect that goes against the natural state of the target. The more powerful an affliction the more energy you have to expend and the more strain your eyes suffer.
+1021.Point of View,2.5
+#Allows you to adjust your viewpoint into three different settings, 1st person is your regular perception, 2nd person allows you to see through the eyes of anyone you are looking and 3rd person allows you to look at things like you have a camera around you that you can rotate as you like.
+1022.Minimap,2.9
+#You have a minimap in the corner of your vision that automatically maps where you go, and reveals the location of enemies in places you have seen as long as you know they are hostile to you. You can enlarge and zoom the minimap as you like.ç
+1023.Megamap,4.4
+#You have a megamap in the corner of your vision, the cooler version of a minimap. The mega map maps everything within a 2.5km radius wherever you step into and keeps track of all living beings' insides, marking them as red or blue depending on whether they are hostile or not. The map is real-time, so it can also be used for satellite viewing.
