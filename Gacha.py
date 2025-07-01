@@ -6,6 +6,9 @@ import os
 import re
 import webbrowser
 import subprocess
+pgmode = 0
+classicfamiliar = 0
+scifi = 0
 
 def read_file_with_weight(filename,avg,min,max): # Creates a list of the available gacha pulls within the rarity range
     elements = []
@@ -17,6 +20,9 @@ def read_file_with_weight(filename,avg,min,max): # Creates a list of the availab
     minrarity = float(min)
     avgrarity = float(avg)
     maxrarity = float(max)
+    pgtext = "(Nsfw)"
+    familiartext = "(Character)"
+    scifitext = "(Tech)"
     if filename == 'random':
         filename = ['ability','item','familiar','trait', 'skill']
         filename = random.choice(filename)
@@ -39,6 +45,28 @@ def read_file_with_weight(filename,avg,min,max): # Creates a list of the availab
                     descriptions.append(' '.join(tempdescription).strip())
                     tempdescription = []
             else: # If the line doesn't start with a number heading it is a part of the description.
+                if pgtext in line:
+                    if pgmode:
+                        elements.pop()
+                        weights.pop()
+                        rarities.pop()
+                        continue
+                    line = line.replace(pgtext, "")
+                    print("Replaced:" + line)
+                if familiartext in line:
+                    if classicfamiliar:
+                        elements.pop()
+                        weights.pop()
+                        rarities.pop()
+                        continue
+                    line = line.replace(familiartext, "")
+                if scifitext in line:
+                    if scifi:
+                        elements.pop()
+                        weights.pop()
+                        rarities.pop()
+                        continue
+                    line = line.replace(familiartext, "")
                 tempdescription.append(line)
     if (tempdescription):
         descriptions.append(' '.join(tempdescription).strip())
@@ -224,23 +252,67 @@ class TextRedirector:
 
 def open_settings():
     global settings_window
+    global familiar_button
+    global pg_button
+    global scifi_button
     if settings_window and settings_window.winfo_exists():  # Check if window already exists
         settings_window.lift()  # Bring existing window to front
         return
     settings_window = Toplevel(root)
     settings_window.title("Settings")
-    settings_window.geometry("250x200")
+    settings_window.geometry("280x400")
     settings_window.configure(background='#1f1f1f', highlightbackground="#646464", highlightthickness=3)
     settings_window.resizable(False, False)
     logs_button = Button(settings_window, text='Enable Logs', width=12, command=lambda: toggle_logs(), font=(selectedfont, 12), background='#111', fg='#FFF')
-    logs_button.place(x=125, y=40, in_=settings_window, anchor="center")
+    logs_button.place(x=138, y=40, in_=settings_window, anchor="center")
     text_options = ["Courier", "Arial", "Times New Roman", "Comic Sans MS", "Papyrus", "Wingdings"]
     if font_selection.get() == "":
         font_selection.set("Courier")
     font_menu = OptionMenu(settings_window, font_selection, *text_options)
-    font_menu.place(x=125, y=100, in_=settings_window, anchor="center")
+    font_menu.place(x=138, y=100, in_=settings_window, anchor="center")
     font_menu.configure(pady=10, padx=30, background='#1f1f1f', activebackground='#1f1f1f', foreground='white', activeforeground='white')
     font_selection.trace_add("write", update_font)
+    pg_button = Button(settings_window, text='PG Mode: Off', width=24, command=lambda: togglefilter("pgmode"), font=(selectedfont, 12), background='#111', fg='#FFF')
+    pg_button.place(x=138, y=160, in_=settings_window, anchor="center")
+    familiar_button = Button(settings_window, text='Classic Familiars: Off', width=24, command=lambda: togglefilter("classicfamiliar"), font=(selectedfont, 12), background='#111', fg='#FFF')
+    familiar_button.place(x=138, y=200, in_=settings_window, anchor="center")
+    scifi_button = Button(settings_window, text='No Scifi: Off', width=24, command=lambda: togglefilter("scifi"), font=(selectedfont, 12), background='#111', fg='#FFF')
+    scifi_button.place(x=138, y=240, in_=settings_window, anchor="center")
+    text_options = ["Courier", "Arial", "Times New Roman", "Comic Sans MS", "Papyrus", "Wingdings"]
+    updateoptions()
+
+def togglefilter(filtertype):
+    global pgmode
+    global classicfamiliar
+    global scifi
+    if filtertype == "pgmode":
+        pgmode = pgmode ^ 1
+    elif filtertype == "classicfamiliar":
+        classicfamiliar = classicfamiliar ^ 1
+    elif filtertype == "scifi":
+        scifi = scifi ^ 1
+    updateoptions()
+
+def updateoptions():
+    global settings_window
+    global familiar_button
+    global pg_button
+    global scifi_button
+    global pgmode
+    global classicfamiliar
+    global scifi
+    if pgmode:
+        pg_button.config(text="PG Mode: On")
+    else:
+        pg_button.config(text="PG Mode: Off")
+    if classicfamiliar:
+        familiar_button.config(text="Classic Familiars: On")
+    else:
+        familiar_button.config(text="Classic Familiars: Off")
+    if scifi:
+        scifi_button.config(text="No Scifi: On")
+    else:
+        scifi_button.config(text= "No Scifi: Off")
 
 def update_font(*args):
     global selectedfont
