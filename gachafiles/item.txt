@@ -32,10 +32,10 @@
 #DxD - One of the strongest Holy Swords. The legendary Durandal is said to be unbreakable and capable of severing anything, in addition, the Durandal can release a destructive aura in accordance to its user's wishes by expending their energy. This sword is extremely difficult to use for an inexperienced user.
 17. Sword Birth, 5.0
 #DxD - A sacred gear created by god. It allows the user to conjure constructs of demonic swords with varying properties depending on the user's capabilities and skill. Swords that absorb flame or ones that are exceptionally sharp are just a few of the many examples. The user cannot create a sword that does something they themselves cannot do.
-18. A skeleton, 0.1
+18. A skeleton, 0.3
 #An ordinary human skeleton from a completely ordinary person
 19. Auric Tesla Armor, 7.0
-#Calamity Mod - A power armor modeled after the one worn by the God Slaying Tyrant Yharim, wearing this armor grants an extreme boost to physical abilities, rare rank regeneration, hovering, and an extremely fast dash that can be activated every 10 seconds. This armor is managed by a virtual intelligence that controls its systems
+#(Tech)Calamity Mod - A power armor modeled after the one worn by the God Slaying Tyrant Yharim, wearing this armor grants an extreme boost to physical abilities, rare rank regeneration, hovering, and an extremely fast dash that can be activated every 10 seconds. This armor is managed by a virtual intelligence that controls its systems
 20. Enuma Elish, 8.7
 #Fate Gilgamesh - The Sword of Rupture, Ea. Granted by the gods to King Gilgamesh, this sword was forged before the concept of swords was created. The sword is capable of releasing red winds capable of dislocating and shredding spacetime without expending the user's energy, in addition, it can act as a mortar when its full power is unleashed, allowing the user to unleash a beam that removes the texture of the world, essentially annihilating everything in its path. 
 21. Pokeball Set, 3.3
@@ -87,11 +87,11 @@
 44. Character Card Destinys Child, 5.6
 #Legendary Mechanic - Predict an 'opportunity' in the future. Can indicate a mission, an item, an action of a certain person… etc. The vision is accurate and detailed. This item has 5 uses and after 5 uses it will fade away.
 45. HF Murasama, 4.7
-#Metal Gear Rising Revengence - A crimson mechanical blade that vibrates at unreal frequencies, making it capable of slicing through almost anything.
+#(Tech)Metal Gear Rising Revengence - A crimson mechanical blade that vibrates at unreal frequencies, making it capable of slicing through almost anything.
 46. Playful Cloud, 4.1
 #JJK - A cursed three-sectioned staff that amplifies in destructive power the higher the strength of its user.
 47. Pokedex,4.3
-#Pokemon - A smart handheld device that can scan, identify, categorize, and analyze any race or species of creature in less than 10 seconds.
+#(Tech)Pokemon - A smart handheld device that can scan, identify, categorize, and analyze any race or species of creature in less than 10 seconds.
 48. The Infinite Magazine,4.0
 #A magazine that can morph into the magazine of any projectile shooting weapon and will supply it with infinite amounts of the ammo it uses as long as it stays attached.
 49. Ticket to Belethor's General Goods,4.2
@@ -107,7 +107,7 @@
 54. Furniture Catalog,3.5
 #Allows you to instantly buy and get delivered any mundane furniture in your current world to your location via teleportation, all pieces of furniture cost their manufacturing cost. Cannot be accessed while in combat or in hostile territory.
 55. Abyssal Diving Suit,4.2
-#Calamity Mod - An extremely tough power armor suit designed for deep sea exploration, and deep sea as in 3,000km under the sea deep, this suit is capable of easily adapting to any underwater condition whether its poison, corrosion, sea pressure, this suit will perform perfectly, allowing you to move and live in any underwater condition with ease. 
+#(Tech)Calamity Mod - An extremely tough power armor suit designed for deep sea exploration, and deep sea as in 3,000km under the sea deep, this suit is capable of easily adapting to any underwater condition whether its poison, corrosion, sea pressure, this suit will perform perfectly, allowing you to move and live in any underwater condition with ease. 
 56. Grand Gelatin,4.8
 #Calamity Mod - A rainbow-colored gel in an ornate glass bottle, if you consume the grand gelatin you gain Advanced Poison Resistance, as well as a sizeable boost to your vitality and agility.
 57. Ring of Swiftness,2.1
@@ -165,7 +165,7 @@
 83. Absorption Line,4.7
 #DxD - A sacred gear created by god, allows the user to conjure energy lines that they can attach to targets to siphon their energy and restore their own. The lines can also be used to bind opponents or swing around like Spiderman.
 84. Dreadons Gaming Chair,4.9
-#Calamity Mod - An incredibly powerful floating chair that is a marvel of technology, it has more calculation power than even the strongest supercomputers, can fly at supersonic speeds, and has powerful forcefields to guard whoever is sitting on it, the ultimate gaming chair.
+#(Tech)Calamity Mod - An incredibly powerful floating chair that is a marvel of technology, it has more calculation power than even the strongest supercomputers, can fly at supersonic speeds, and has powerful forcefields to guard whoever is sitting on it, the ultimate gaming chair.
 85. Returner's Clock,4.9
 #An ornate antique hand clock, this clock has 3 charges that cannot be refilled. You can use this watch to return to the morning of the current day by spending a charge. Once all 3 charges are spent, this clock will turn into dust.
 86. Havels Greatshield,2.2
@@ -239,15 +239,15 @@
 121. Tome of the Starscourge,4.7
 #Elden Ring - A magical tome containing the studies and records of Radahn the Starscourge, allowing its reader to study it to learn and harness his gravity magic. Spell List: https://eldenring.wiki.fextralife.com/Gravity+Sorceries
 122. Cruise Ship,3.0
-#A large luxury cruise ship that is 350 meters long and 80 meters wide, the cruise ship is manned by automatons that cannot perform any duty other than the ones they are assigned to in the ship. In addition, this ship has infinite fuel in its engine.
+#(Tech)A large luxury cruise ship that is 350 meters long and 80 meters wide, the cruise ship is manned by automatons that cannot perform any duty other than the ones they are assigned to in the ship. In addition, this ship has infinite fuel in its engine.
 123. Tank,1.2
-#A large indistinct military tank with infinite fuel and tank shells inside of it. Fuel and shells cannot be taken out of the vehicle. 
+#(Tech)A large indistinct military tank with infinite fuel and tank shells inside of it. Fuel and shells cannot be taken out of the vehicle. 
 124. Pocket Armory,2.2
 #A large grey duffel bag containing a copy of every cold weapon made from high-quality steel, you can take any one weapon out at a time from this bag, if you put the weapon back, the next time you take it out, it will be back in perfect condition.
 125. Servant Voucher,5.3
 #A coupon that allows you to summon your own Heroic Spirit for free, the summoned heroic spirit depends on you as a person. The servant is bound to you in standard Grail War style, with them receiving mana through you via coitus and you possessing 3 command seals to give absolute commands to them. Cannot summon Divine Servants(Divinity above C or Explicitly a god) or Servants that qualify for a Grand position.
 126. Stimpack,2.3
-#Fallout - A potent medical tool from a post-apocalypse world. A stim pack is a syringe pack filled with modified stem cells and healing agents that boost the human body's natural regenerative properties into overdrive. WARNING: Usage of the stimpack without enough nutrients or minerals in the body can cause more harm than good. Restock Timer: 24 hours
+#(Tech)Fallout - A potent medical tool from a post-apocalypse world. A stim pack is a syringe pack filled with modified stem cells and healing agents that boost the human body's natural regenerative properties into overdrive. WARNING: Usage of the stimpack without enough nutrients or minerals in the body can cause more harm than good. Restock Timer: 24 hours
 127. Staff of the Pheonix,5.9
 #An ornate staff carved out of pure ruby with gold engravings, using this staff as a focus for using fire abilities and spells increases their power and reduces their cost.
 128. Moonlight Greatsword,3.1
@@ -327,7 +327,7 @@
 165. Evil Eye Ring,2.2
 #Blacksouls - "Did the eye just move?" A gold ring topped with a ruby in the shape of an eye, wearing this ring grants the user minor regeneration.
 166. Hydrogen Bomb,3.8
-#A Hydrogen Bomb and a remote detonator for it, simple as. Try not to end up in the blast zone.
+#(Tech)A Hydrogen Bomb and a remote detonator for it, simple as. Try not to end up in the blast zone.
 167. Cheshire Cats ring,2.1
 #Blacksouls - A gold ring with the engraving of a cat that looks suspiciously smug. When wearing this ring, you are immune to falling damage even if you drop from 100,000 kilometers.
 168. Wind Gods Ring,3.3
@@ -397,7 +397,7 @@
 200. Ice Blade,2.8
 #Terraria - A saber crafted from solid ice enchanted with magic so that it holds its sharpness. You can release frigid energy from this blade using your own energy and using this blade as a focus for ice abilities increases their potency.
 201. Space Dolphin Machine Gun,3.8
-#Terraria - A dolphin from space that has been expertly crafted into a futuristic sci-fi machine gun that can shred through any mundane material but its speed will make it rather difficult to keep up with its ammo consumption. 
+#(Tech)Terraria - A dolphin from space that has been expertly crafted into a futuristic sci-fi machine gun that can shred through any mundane material but its speed will make it rather difficult to keep up with its ammo consumption. 
 202. Onyx Blaster,2.9
 #Terraria - A shotgun crafted from shards of pure darkness. This gun does not consume bullets but instead converts energy/mana into shards of dark onyx bullets that deal unholy damage.
 203. Death's Sickle,4.2
@@ -415,7 +415,7 @@
 209. Heavy Blade,2.9
 #A very durable longsword that you can control the weight of, going from 5kg at lightest to 50,000kg at heaviest. 
 210. Metal Gear Excelsus,6.7
-#Metal Gear - A gigantic multi-city block-sized arachnid mech with retractable blades and giant plasma canons coupled with uncanny amounts of mobility and dexterity. In addition, this mech was designed to be able to withstand advanced nuclear weaponry and its durability reflects it. It is constantly maintained and repaired by its fleet of nanomachines and even has living quarters.
+#(Tech)Metal Gear - A gigantic multi-city block-sized arachnid mech with retractable blades and giant plasma canons coupled with uncanny amounts of mobility and dexterity. In addition, this mech was designed to be able to withstand advanced nuclear weaponry and its durability reflects it. It is constantly maintained and repaired by its fleet of nanomachines and even has living quarters.
 211. The Straw Hat,0.7
 #One Piece - Holds a lot of sentimental value to a certain sun god but not much material value.
 212. Modified Compound V,3.4
@@ -425,7 +425,7 @@
 214. Byakugan,4.4
 #Naruto - A pair of byakugan plucked freshly from a Neji Hyuga who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
 215. Iron Man Armor Mark 3,7
-#Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.
+#(Tech)Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.
 216. Infinity Gauntlet,2.6
 #Marvel - You have the gauntlet, it's pretty damn durable, but the stones are not included.
 217. Greed's Coin,4.8
@@ -443,13 +443,13 @@
 223. Goku Uniform 3star,5.5
 #Kill La Kill - A uniform made of 30% Life Fibers, granting their wearers superhuman physical abilities strong enough to demolish entire buildings. The uniforms themselves are also extremely durable, even more than carbon fiber. You can choose the colors and design before taking it out. By consuming your own vitality you can unlock a second form of the uniform that increases its abilities even further.
 224. Your Laptop,3.6
-#Your laptop from back on earth, or whatever computer you had, still connected to the internet you had back on earth. 
+#(Tech)Your laptop from back on earth, or whatever computer you had, still connected to the internet you had back on earth. 
 225. Infinite Bowl of Spaghetti,1.5
 #A bowl containing an infinite amount of spaghetti, it cannot be poured out but you can take servings out infinitely, the spaghetti that comes out is always comfortably warm and tastes pretty good.
 226. Kanaedas Bike,1.3
-#Akira - A very fancy and fast sci-fi-ish bike, very iconic.
+#(Tech)Akira - A very fancy and fast sci-fi-ish bike, very iconic.
 227. Any Vehicle Voucher,3.1
-#You can exchange this voucher any time for any Mundane Vehicle available in your world, ranging from a supercar to a cruise ship, the vehicle will teleport in front of you with all of the legal work taken care of.
+#(Tech)You can exchange this voucher any time for any Mundane Vehicle available in your world, ranging from a supercar to a cruise ship, the vehicle will teleport in front of you with all of the legal work taken care of.
 228. Refined Heart-Shaped Herb,4.3
 #Marvel - A mystical herb from Wakanda blessed by the goddess Bast. This harvest has been refined to filter out any harmful side effects and mystical strings attached, making it completely safe to consume. Consuming it grants enhanced strength, speed, stamina, durability, reflexes, agility, and instincts. Restock Timer: 240 Hours
 229. Senzu Bean,5.9
@@ -477,7 +477,7 @@
 240. Cloak of Levitation,4.6
 #Marvel - A relic belonging to the sorcerer supreme. This cloak allows its user to fly freely, but not only that but it is also self-aware and can act on its own to pull its wearer out of danger and hinder their opponents.
 241. plague Canister,5.7
-#Calamity Mod - A canister containing the plague, a self-replicating nanomachine virus that devours biomass and turns any living thing into a mindless biomechanically enhanced zombie to add to its own hivemind. Releasing this thing without sufficient biokinetic or techno mastery is basically dooming the entire world, thankfully without a core they lack a hivemind to gather around as a command center.
+#(Tech)Calamity Mod - A canister containing the plague, a self-replicating nanomachine virus that devours biomass and turns any living thing into a mindless biomechanically enhanced zombie to add to its own hivemind. Releasing this thing without sufficient biokinetic or techno mastery is basically dooming the entire world, thankfully without a core they lack a hivemind to gather around as a command center.
 242. Mehrunes Razor,7.1
 #Skyrim - A blade belonging to the Daedric prince Mehrunes Dagon, this dagger is capable of cutting anything the user can interact with, space, time, soul, connections, etc. The only limit to what it can cut is the user, not the dagger.
 243. Skeleton Key,8.2
@@ -677,7 +677,7 @@
 339. Portable Pharmacy,3.2
 #A simple satchel that you can pull out any item that you could otherwise find at an average pharmacy.
 340. Droid Factory,4.8
-#Star Wars - An autonomous factory that produces Star Wars droids as long you can provide it with materials.
+#(Tech)Star Wars - An autonomous factory that produces Star Wars droids as long you can provide it with materials.
 341.Flowing Water Crushing Rock Fist Manual,6.8
 #One Punch Man - A book containing detailed instructions on how to train in the art of Flowing Water Crushing Rock Fist created by Bang. Those without the manual cannot replicate the martial arts.
 342.Grimoire of Izalith,4.6
@@ -691,7 +691,7 @@
 346. Rites of the Dragon Cult,4.9
 #Elden Ring - Rites of the Dragon Cult, studying these allows one to learn of the miracles performed by the dragon cult by imitating the power of the great dragons. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Cult+Incantations
 347. Capsule Case,4.7
-#Dragon Ball - A case containing 20 capsules made by Capsule Corp. The capsules contain a House, fridge, oven, large quantities of preserved foods, a boat, a high tech motorcycle, etc. Any slightly upgraded mundane appliance or vehicle is a capsule in this case. Restock timer 48 hours.
+#(Tech)Dragon Ball - A case containing 20 capsules made by Capsule Corp. The capsules contain a House, fridge, oven, large quantities of preserved foods, a boat, a high tech motorcycle, etc. Any slightly upgraded mundane appliance or vehicle is a capsule in this case. Restock timer 48 hours.
 348. Rites of the Edtree,5.2
 #Elden Ring - Rites of the old ones who used to worship the ancient Erdtree. Studying these rites allows learning of the miracles of the Erdtree. Spell List: https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 349. Grimoire of Spatial Magic,6.8
@@ -741,11 +741,11 @@
 371.Dragon Slayer,2.6
 #Berserk - "It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron." A massive dull unwieldy sword larger than a man, this sword is supernaturally durable and having bathed in the blood of countless spirits and astral beings is capable of harming and killing the immaterial.
 372.Wastelanders Survival Kit,2.5
-#Fallout - A survival kit containing the loadout of a true courier. Containing an Elite Riot Gear, A fully modified Anti-Material Sniper Rifle, a Riot Shotgun, A .44 Magnum revolver, A bowie knife, 5 repair kits, 10 stim packs, 5 doctors bags, and 200 ammo for each weapon. No way to be caught lacking in the wastes now.
+#(Tech)Fallout - A survival kit containing the loadout of a true courier. Containing an Elite Riot Gear, A fully modified Anti-Material Sniper Rifle, a Riot Shotgun, A .44 Magnum revolver, A bowie knife, 5 repair kits, 10 stim packs, 5 doctors bags, and 200 ammo for each weapon. No way to be caught lacking in the wastes now.
 373. The Courier's Stash,1.5
-#Fallout - A stash every courier needs to have around just in case they get robbed, shot in the head and left for the dead. This large briefcase contains a lightweight metal armour, a double-barrel shotgun with 20 packs of 20 shells, 4 basic repair kits, and 5 stim packs. 
+#(Tech)Fallout - A stash every courier needs to have around just in case they get robbed, shot in the head and left for the dead. This large briefcase contains a lightweight metal armour, a double-barrel shotgun with 20 packs of 20 shells, 4 basic repair kits, and 5 stim packs. 
 374.Hei Gui Stealth Suit,2.8
-#Fallout - A special armour designed by China made for infiltration and stealth missions given to special units. In addition to its dense armour and mesh, the stealth suit is capable of emitting a forcefield that bends light around it to make the user invisible.
+#(Tech)Fallout - A special armour designed by China made for infiltration and stealth missions given to special units. In addition to its dense armour and mesh, the stealth suit is capable of emitting a forcefield that bends light around it to make the user invisible.
 375.Feng Shui Engine,4.3
 #Street Fighter - An advanced prosthetic eye that houses a miniature Tandem Engine, allowing it to generate extreme amounts of Artificial Qi to massively enhance all of the user's physical abilities. However overuse may cause strain.
 376.Enma,4.4
@@ -753,9 +753,9 @@
 377.Shusui,3.6
 #One Piece - A masterpiece sword once wielded by the mythical samurai Ryuma, this sword's blade has permanently blackened from absorbing Ryuma's hardening over time. This sword is nigh unbreakable, sharper than a razor and is an excellent conductor of energy.
 378.Pip-Boy 3000,2.4
-#Fallout - The Pip-Boy, otherwise known as the Personal Information processor, is a more versatile and robust computer that is worn on the wrist and powered by an internal fission battery. Pip Boy is capable of autonomously monitoring the health of its wearer, connecting to networks, map areas, shining light etc. An all-around solid multitool.
+#(Tech)Fallout - The Pip-Boy, otherwise known as the Personal Information processor, is a more versatile and robust computer that is worn on the wrist and powered by an internal fission battery. Pip Boy is capable of autonomously monitoring the health of its wearer, connecting to networks, map areas, shining light etc. An all-around solid multitool.
 379.Power Fist,2.9
-#Fallout - A pneumatic standard power fist that can help the average Joe put a crater on the wall with their fist. The power fist adds a static power boost to your punches to the level of a superhuman. But in the hands of someone who is already a superhuman, it is not too helpful.
+#(Tech)Fallout - A pneumatic standard power fist that can help the average Joe put a crater on the wall with their fist. The power fist adds a static power boost to your punches to the level of a superhuman. But in the hands of someone who is already a superhuman, it is not too helpful.
 380. Rasaka's Fang,3.5
 #Solo Levelling - A dagger carved from the venomous fang of Rasaka, this dagger is perpetually imbued with venom that afflicts whoever it cuts with paralysis and makes the wounds harder to heal.
 381. Rasaka's Venom,3.4
@@ -777,15 +777,15 @@
 388. Divine Crucifix,3.8
 #A holy cross crucifix blessed by a divine spirit, being in its presence immensely weakens any unholy and dark being and instantly kills weaker ones. Any holy or light ability channelled through it is increased in potency.
 389. Telepathic Implant,3.6
-#Invincible - A neural implant that allows the wearer to communicate two ways with a target in their range of perception. Can only communicate with one target at a time. This item manifests as a ticket that when torn automatically installs itself in your head.
+#(Tech)Invincible - A neural implant that allows the wearer to communicate two ways with a target in their range of perception. Can only communicate with one target at a time. This item manifests as a ticket that when torn automatically installs itself in your head.
 390. Ripperdoc Ticket,4.2
-#Cyberpunk 2077 - A ticket that when torn, transfers you over to the clinic of a mechanical Ripperdoc that you can request to install implants from Cyberpunk 2077 or ones that you bring in yourself into you for the right price. Beware, while top quality, his wares are rather expensive and you may need to barter. The moment you leave the clinic you are transported back to where you came from and you can only spend 24 hours inside the clinic. Restock Timer: 15 Days
+#(Tech)Cyberpunk 2077 - A ticket that when torn, transfers you over to the clinic of a mechanical Ripperdoc that you can request to install implants from Cyberpunk 2077 or ones that you bring in yourself into you for the right price. Beware, while top quality, his wares are rather expensive and you may need to barter. The moment you leave the clinic you are transported back to where you came from and you can only spend 24 hours inside the clinic. Restock Timer: 15 Days
 391. Clover Amulet,4.6
 #A golden amulet with a jade engraved into the shape of a 4-leaf clover that grants the user good luck.
 392. Holy Antidote,2.6
 #A vial containing a powerful holy antidote that can cure all diseases and ailments below the Legendary rank. Restock Timer: 7 Days
 393. Sandevistan,4.6
-#Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
+#(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
 394. Omni Phone,3.3
 #A mobile phone that has everything you need, being able to connect to a network regardless of size, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
 395.Ender Pearl,3.2
@@ -797,17 +797,17 @@
 398.Silver Heart Ticket,2.5
 #Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
 399.Gold Heart Ticket,3.5
-#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you slightly more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
+#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you a lot more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
 400.Royal Heart Ticket,4.5
 #Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you considerably more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
 401.Cupid's Ticket,5.5
 #Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them fall in love with you. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.
 402.Auto Doc,3.9
-#Fallout - An automatic autonomous advanced doctor station created in big MT. by Doctor Mobius. This large capsule can perform even the most complicated medical procedures with almost perfect expertise with simple instructions. Just hook it up to any sufficient power source.
+#(Tech)Fallout - An automatic autonomous advanced doctor station created in big MT. by Doctor Mobius. This large capsule can perform even the most complicated medical procedures with almost perfect expertise with simple instructions. Just hook it up to any sufficient power source.
 403.Blight Spewer,5.7
-#Calamity Mod - A technologically advanced flamethrower that spews clouds of Plauge Nanomachines that seek out flesh and quickly devour it from the inside out. The nanomachines quickly disintegrate after a few seconds as a safety precaution.
+#(Tech)Calamity Mod - A technologically advanced flamethrower that spews clouds of Plauge Nanomachines that seek out flesh and quickly devour it from the inside out. The nanomachines quickly disintegrate after a few seconds as a safety precaution.
 404.Shadethrower,3.6
-#Calamity Mod - A modified flamethrower that turns regular burnable fuel into corrupted flames that rot whatever they burn rapidly.
+#(Tech)Calamity Mod - A modified flamethrower that turns regular burnable fuel into corrupted flames that rot whatever they burn rapidly.
 405.Heavenly Gale,7.8
 #Calamity Mod - A divine bow crafted from the essences of earth and cosmos. Whatever arrow is notched onto this bow is converted into Exotic resonance crystals. The arrows summon down resonant lightning wherever it strikes, powerful enough to flay even gods alive and rend the surface world.
 406.Telluric Gale,6.2
@@ -827,7 +827,7 @@
 413.Wolverine's Skeleton,3.4
 #Marvel - Wolverine's Adamantium Bonded Skeleton freshly picked off of his body as he was sleeping. As the skeleton is bonded with Adamantium it is virtually unbreakable albeit a bit short. Don't worry about a Wolverine regenerating from it as all genetic material has been scrubbed clean.
 414.Nano Machine heart,6.4
-#Metal Gear Rising Revengance - A super high-tech nanomachine heart that belonged to Senator Armstrong. By having this heart implanted in you, it gives you access to powerful nanomachines that enhance your physiology massively, allow you to absorb other nanomachines, drain electricity to charge itself and harden in response to physical trauma or on command. 
+#(Tech)Metal Gear Rising Revengance - A super high-tech nanomachine heart that belonged to Senator Armstrong. By having this heart implanted in you, it gives you access to powerful nanomachines that enhance your physiology massively, allow you to absorb other nanomachines, drain electricity to charge itself and harden in response to physical trauma or on command. 
 415.Danzo's Right Arm,6.5
 #Naruto - Danzo's Right Arm torn fresh off of the torso in mint condition. This right arm is made up of Hashirama cells and implanted with 10 sharingans. You can either implant this arm onto your own body to enjoy the benefits of Sharingan and Hashirama cells or dismantle it to use all parts separately.
 416.Hashirama Cells,5.4
@@ -845,13 +845,13 @@
 422.Lightning Release Jutsu Scroll,5.7
 #Naruto - A large scroll containing information on all Lightning Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Lightning Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll. 
 423.T-51b Power Armor,2.6
-#Fallout - A set of power armour developed before the Great War and mass-produced for soldiers to wear. This power armour is strong enough to shrug off low-calibre bullets and allow the average man to lift a car overhead. The power armour is powered by a fusion core that gets replaced by a new one every 24 hours.
+#(Tech)Fallout - A set of power armour developed before the Great War and mass-produced for soldiers to wear. This power armour is strong enough to shrug off low-calibre bullets and allow the average man to lift a car overhead. The power armour is powered by a fusion core that gets replaced by a new one every 24 hours.
 424.Gene Seed Ticket,4.2
-#Warhammer 40k - A ticket that when ripped transports you to a room full of robotic surgeons that allow you to undergo the creation procedure of a Transhuman Astartes. This procedure is perfected and you will end up with the augments of an Astartes regardless without the downsides. This procedure will not affect your looks or the general shape of your body due to being perfected. 
+#(Tech)Warhammer 40k - A ticket that when ripped transports you to a room full of robotic surgeons that allow you to undergo the creation procedure of a Transhuman Astartes. This procedure is perfected and you will end up with the augments of an Astartes regardless without the downsides. This procedure will not affect your looks or the general shape of your body due to being perfected. 
 425.Justice's Shades,1.8
 #Helltaker - A pair of cool shades belonging to the blind demon. When wearing these shades you are able to tell when someone speaking to you thinks they are lying to you.
 426.E-11 medium blaster rifle,2.7
-#Star Wars - A standard issue arm of a Stormtrooper, these high-tech rifles shoot bolts of high heat energy that are strong enough to kill the average light armoured target in one shot and blast apart concrete. It has three settings Lethal, stun and sting and its cartridge holds 500 shots. You get a new cartridge every day.
+#(Tech)Star Wars - A standard issue arm of a Stormtrooper, these high-tech rifles shoot bolts of high heat energy that are strong enough to kill the average light armoured target in one shot and blast apart concrete. It has three settings Lethal, stun and sting and its cartridge holds 500 shots. You get a new cartridge every day.
 427.Soul Solid,2.4
 #One Piece - A cane sword belonging to Brook of the Straw Hat Pirates. This sword is extremely sharp and durable, not having dulled even after years of use. It is also extremely dapper.
 428.Wado Ichimonji,3.4
@@ -879,7 +879,7 @@
 439.Kubikiribochi,2.2
 #Naruto - An oversized cleaver-shaped curved sword revered as one of the blades wielded by the seven swordsmen of the mist. This blade is incredibly durable and conducts energy well. In addition, no matter how damaged the blade is, it will repair itself as long as it absorbs blood.
 440.Malorian Overture,2.0
-#Cyberpunk 2077 - A heavy-duty, powerful double-action revolver produced by Malorian Arms. This gun is incredibly powerful, even being able to punch a hole in half-borgs with each bullet. You also get 30 bullets every day for it. 
+#(Tech)Cyberpunk 2077 - A heavy-duty, powerful double-action revolver produced by Malorian Arms. This gun is incredibly powerful, even being able to punch a hole in half-borgs with each bullet. You also get 30 bullets every day for it. 
 441.Deed to Land,2.4
 #A deed to a land, just rip this deed in half and you will have always owned land in a location that is favourable to you.
 442.Deed to Mansion,3.8
@@ -889,23 +889,23 @@
 444.Five Hundred Cigarettes,0.5
 #500 non brand name generic ciggaretes. Useful for taking the edge off.
 445.Rust Bucket,3.7
-#Ben 10 - A fairly large cozy RV owned by Maxwell Tennyson that has been upgraded numerous times with Plumber Technology. In addition to being an effective mobile home, it can fly and is equipped with numerous offence and defence systems.
+#(Tech)Ben 10 - A fairly large cozy RV owned by Maxwell Tennyson that has been upgraded numerous times with Plumber Technology. In addition to being an effective mobile home, it can fly and is equipped with numerous offence and defence systems.
 446.Transformer Spark,4.4
-#Transformers - A spark is what makes up the being of a Transformer. When you imbue this spark into any sufficiently large piece of technology it will turn into a transformer and register itself as a familiar.
+#(Tech)Transformers - A spark is what makes up the being of a Transformer. When you imbue this spark into any sufficiently large piece of technology it will turn into a transformer and register itself as a familiar.
 447.ColorS,1.2
 #Fairy Tail - A small book-like magic item that allows the holder to change the color scheme of their clothing by sliding their finger over its surface.
 448.Gale Force Reading Glasses,2.7
 #Fairy Tail - A magical item in the form of a pair of spectacles. Wearing these glasses allows one to read books much faster. Allowing them to read any book they are holding 64x faster without sacrificing reading comprehension.
 449.Music Player,1.6
-#Not just an ordinary music player, this player is indestructible and has excellent sound quality, with built-in speakers and headphones. It is capable of playing any song the holder has heard of before and records it inside its archive.
+#(Tech)Not just an ordinary music player, this player is indestructible and has excellent sound quality, with built-in speakers and headphones. It is capable of playing any song the holder has heard of before and records it inside its archive.
 450.Archenemy,5.7
 #Fairy Tail - A sealed sword imbued with extremely uncontrollable amounts of magical power. The moment the sword is unsheathed it will produce a slash that can cut through several city blocks like butter at minimum. It is advised to keep it inside the sheath.
 451.Magic Ticket,4.7
 #Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.
 452.Fev Vat,4.0
-#Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.
+#(Tech)Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.
 453.Null Void Projector,6.8
-#Ben 10 - A handheld projection gun that allows the user to open portals to the Null Void or send whatever they hit into the Null Void. It requires recharging between shots but hey, whatever you sent there is no longer your problem. Incapacitating someone with the Null Void does not grant a feat.
+#(Tech)Ben 10 - A handheld projection gun that allows the user to open portals to the Null Void or send whatever they hit into the Null Void. It requires recharging between shots but hey, whatever you sent there is no longer your problem. Incapacitating someone with the Null Void does not grant a feat.
 454.Tome of Destruction,3.7
 #Skyrim - A tome that compiles the various destruction spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)
 455.Tome of Restoration,4.6
@@ -929,7 +929,7 @@
 464.Stopwatch,8.5
 #A stopwatch that allows the user to stop the time of the universe around them when used, often employed by Ugly Bastards or people whose hair obscures their eyes. 
 465.Ricks Portal Gun,7.2
-#Rick and Morty - A portal gun built by one of the smartest yet stupidest and drunkest inventors in the multiverse. This portal gun is capable of opening portals to any non-spatial blocked location including other universes as long as you know the location's co-ordinates or specifications. The portal fluid refills every 24 hours.
+#(Tech)Rick and Morty - A portal gun built by one of the smartest yet stupidest and drunkest inventors in the multiverse. This portal gun is capable of opening portals to any non-spatial blocked location including other universes as long as you know the location's co-ordinates or specifications. The portal fluid refills every 24 hours.
 466.Ring of the Bull,3.1
 #This golden ring ruby ring grants its wearer increased strength and endurance when worn. These increased stats are half a flat boost and half a percentage boost.
 467.Riptide,2.2
@@ -938,3 +938,34 @@
 #Percy Jackson - One of Hades' symbols of power, this ornate helmet allows whoever wears it to become completely invisible to all senses, pass through walls and melt into shadows. In addition, they are able to radiate an aura of primordial fear when using it. Using the helmet's abilities consumes the energy of the user.
 469.Hyperbolic Time Chamber,5.8
 #Dragon Ball - This Hyperbolic Time Chamber allows whoever enters to spend time training inside the gravity-enhanced dimension or just use the safe part as a hideout. The time dilation of the Time Chamber is 3 to 1 meaning three days inside equal to one day outside. You can access the Time Chamber From any door place your hands on.
+470.Weapon Voucher,1.3
+#A ticket for any one mundane cold weapon, just tear apart the ticket and think of the weapon you want and it will arrive in your hands.
+471.Nail of Helena,7.0
+#Hellsing - A true divine artefact used to nail the saint to the cross. When nailed to someone's heart it transforms them into a being known as a Monster of God(See trait: Monster of God).
+472.Dragon Dictionary,6.1
+#Skyrim - A dictionary on Thu'um written by Parthuunax, written to be able to teach anyone the Thu'um. Inside it is all of the Shouts from Tamriel that those who study the book can learn. Your ability to learn the shouts depends on your talent in magic and vocals. The more powerful and esoteric a shout the harder it is to learn it and its stages. Spell List: https://elderscrolls.fandom.com/wiki/Dragon_Shouts
+473.Cupids Arrow,6.8
+#An arrow that makes two people it pierces fall in love. Just stab each target once. The moment you stab the first, they will fall in love with the second person you pierce. To make it reciprocal just repeat the process by stabbing the other person first. Targets Legendary Rank or Stronger can resist the effects.
+474.Hand of Midas,5.8
+#The severed hand of King Midas that still retains his power to turn anything it touches into gold. Anything that you touch with the pointer finger that weighs less than 5 tons or is weaker than Epic rank will be turned into solid gold. But living beings can resist its effects depending on how strong they are.
+475.FREAK Chip,5.0
+#Hellsing - A high-tech complex chip developed and created by Incognito. When implanted into a person, the Freak Chip transforms their body into that of an artificial vampire(From Hellsing) along with all of their powers and weaknesses. The success of the transformation depends on the compatibility. But there is little chance of failure. Once implanted the chip fuses with the person. You would need Expert Biology and Master Mechanics to reverse engineer it.
+476.Retroactive Builders Contract,3.0
+#A folded-up contract that promises full satisfaction. Just put the specifications of what you want built and where inside of the contract and put in enough money that would normally be required to fund the construction including labor costs etc. The moment you sign the contract off it will burn to ashes whatever you asked for will have been retroactively expertly built an unspecified amount of time ago alongside the money being removed from your possession. Restock Timer: 720 hours.
+477.Mansion of the Boundary,8.8
+#A regular mansion to the user's tastes that sits in the middle of everything. Even the Outer Ones cannot breach its dimension, and as the mansion sits in the middle of everything in its own reality, you can enter the mansion through any door you touch and exit it at any door that exists in the confines of reality. Even other multiverses or gardens.
+478.Plague Reaper Armor,6.4
+#(Tech)Calamity Mod - A high-tech plague doctor armor fused with the Plague Nanovirus. Wearing this armour greatly amplifies your physical stats and includes a hud to help with your aiming. The armour makes you immune to all diseases and poison below Divine Level while amplifying the power of your own poison and bio abilities greatly. You can also temporarily release a little of the Plague Nanovirues to rot your enemies from the inside out before they dissolve naturally to avoid an apocalypse.
+479.Wulfrum Armor,2.8
+#(Tech)Calamity Mod - A simple high-tech armour made of wulfrum that provides reasonable defence and comfort. But when the switch is activated the armour turns into a power armour with its own powerful machinegun with energy already supplied. This mode has a 24-hour cooldown.
+480.Photon Ripper,5.9
+#(Tech)Calamity Mod - An incredibly high-technology chainsaw made by Dreadon out of Exo materials. This chainsaw projects dozens of hard light sharp that spin at insane speeds and can adjust its distance as needed, strong enough to shred basically anything in its path. Just a little bit of an overkill for chopping trees.
+481.Master Ninjas Belt,3.4
+#A black inconspicuous belt that once belonged to a master ninja. Wearing this belt grants you incredibly acrobatic abilities, allows you to stick to walls, ignore fall damage and muffle all sounds you make unintentionally(Does not work for anything above the volume of speaking).
+482.Smoke Bomb,2.7
+#"Smoke Bomb!" a simple-looking smoke bomb. You can throw one of these at your feet and if you successfully manage to obscure yourself from everyone you can teleport anywhere in a 25-meter range instantly that you would otherwise be able to get into. Restock Timer: 12 Hours
+483.ASTER Augmentation Ticket,3.6
+#(Tech)Halo - A ticket that when ripped, sends the user into a dimension with highly advanced robotic doctors and surgeons who will perform the ASTER procedure on you in order to turn you into a Spartan. This procedure is perfected and will not cause failure regardless of the target's age or condition. This procedure gives a more durable skeleton, enhanced musculature, visual acuity and reflexes with enhanced mental clarity.
+484.MJOLNIR Powered Assult Armor IV,4.0
+#Halo - An advanced Power Armor designed for Superhumans. This high-tech suit is incredibly flexible, not hindering the user's mobility while enhancing their physical capabilities, providing excellent protection against harm and terrain. It is also equipped with basic AI to manage the suits features as well as HUD.
+ 

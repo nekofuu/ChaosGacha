@@ -167,9 +167,9 @@
 86. Poseidons Kiss,2.1
 #You are blessed by the god of the seas Poseidon, you move underwater as naturally as you would above water, in addition, all mundane aquatic life is friendly to you.
 87. Tinker,3.5
-#You are a natural at building technology. All tinker abilities are more potent, in addition, it's far easier to innovate new tech and build tech. You can also push your specializations far more. (A/N: If you pulled this perk without having a tinker ability, reroll the ticket) 4/28288. 
+#(Tech)You are a natural at building technology. All tinker abilities are more potent, in addition, it's far easier to innovate new tech and build tech. You can also push your specializations far more. (A/N: If you pulled this perk without having a tinker ability, reroll the ticket) 4/28288. 
 88.Hacker,2.1
-#You are great at interfacing with technology and leveraging your skills to get into networks.  (A/N: Reroll if you are in a medieval world) 
+#(Tech)You are great at interfacing with technology and leveraging your skills to get into networks.  (A/N: Reroll if you are in a medieval world) 
 89. Empath,3.4
 #You really are an empath. You can easily tell what people are feeling, understand emotions better, and how to control your own far better.
 90. Grand Mage,7.7
@@ -179,7 +179,7 @@
 92. Esgod,7.4
 #You are an esper beyond all espers, the potency in your blood is monstrous. Using your abilities comes as naturally to you as breathing, you develop and master abilities with much greater and abilities cost much less energy to cast. You can even train out the hardcoded effects of abilities such as cooldowns and limits. 
 93. Tinker Supreme,7.9
-#You are the supreme Tinker, capable of building constructs of scientific and mechanical wonder that would leave all other scientists foaming at the mouth. You don't even need specializations anymore, you are able to innovate and come up with tinker mechanisms on your own with your merits, the tinker specializations are boosts to your natural prowess now. 
+#(Tech)You are the supreme Tinker, capable of building constructs of scientific and mechanical wonder that would leave all other scientists foaming at the mouth. You don't even need specializations anymore, you are able to innovate and come up with tinker mechanisms on your own with your merits, the tinker specializations are boosts to your natural prowess now but you cannot utilize Tinker abilities not from your native world. 
 94. Gambler,4.3
 #Lets go gambling! Ah dangit. Every time you would roll the ticket, you roll a D20 first, depending on the roll you get, {20}= Ticket Rank Up, {19 - 17}= Advantage, {16 - 13}= Change Ticket Type, {12 - 8}= Nothing happens, {7 - 2}= Ticket rank down, {1}= Ticket is destroyed. This trait can be rerolled or toggled.
 95. Lady Killer,2.8
@@ -497,7 +497,7 @@
 251. Skyward,4.2
 #You belong to the skies, all wind-based abilities are more potent, cost less energy to use, and are easier to master. In addition, you recover energy faster when in the sky.
 252. Electric Sheep,3.6
-#Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine and network with greater ease. (A/N: Reroll if you don't have a thinker ability)
+#(Tech)Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine and network with greater ease. (A/N: Reroll if you don't have a thinker ability)
 253. Flexible,1.7
 #You are inordinately flexible, even more so than an expert contortionist.
 254. Demon King,5.6
@@ -537,7 +537,7 @@
 271. Void Childe,3.4
 #You are a child of the void, giving you enhanced spatial awareness, you can sense a portal opening a kilometre away and all Space-based abilities are more potent and you master them faster.
 272. Father Time,7.2
-#Who knew Time Itself picked favourites? You are immune to all time-based abilities, time travel and paradoxes, even stopping time in the same world as you is impossible. In addition, the strain and energy cost of all Time-related abilities is massively reduced and you can ignore the paradox and time resistance of all targets weaker than god level.
+#Who knew Time Itself picked favourites? You are immune to all time-based abilities, time travel and paradoxes, even stopping time in the same world as you is completely impossible even for the mightiest gods. In addition, the strain and energy cost of all Time-related abilities and magic is massively reduced and you can ignore the paradox and time resistance of all targets weaker than god level.
 273. Shub's Favor,4.8
 #Rest assured knowing the biggest milf of all is rooting for you. Thanks to her blessing your vitality and virility are considerably increased. And those with maternal instincts find themselves more attracted to you. You are also assured to be a great father regardless.
 274. Yog's Blessing,4.6
@@ -742,3 +742,40 @@
 #Warhammer 40k - You wear the brand of Khorne, the Blood God. Greatly increasing your propensity for combat, your instincts are greatly heightened in the midst of combat, you have greater intuition into using any weapon or skill in combat, making you a natural killing machine. You can track blood and are able to sense killing intent like it is second nature. Note: Brands do not connect you to the  Chaos Gods or Warp.
 375.Brand of Nurgle,5.4
 #Warhammer 40k - You wear the brand of Nurgle, the Plague Father. Making you immune to all poisons, toxins, and diseases below Legendary rank and greatly increases your resistance to those above Legendary rank. The brand also heightens your understanding of poisons, toxins, and diseases, increasing the potency of abilities and spells relating to it as well as increasing your ability to cure them. Note: Brands do not connect you to the  Chaos Gods or Warp.
+376.Spiral,9.9
+#Tengen Toppa Gurenn Lagann - If there is a will there is a way.
+377.Monster of God,7.2
+#Hellsing | Race Change - You are a monster of god, a being pierced through the heart by Helena's Nail and transformed by it. As a monster of god, you possess monstrous physical stats and are imbued with holy energy so potent even your touch can set a true vampire ablaze. You are able to conjure holy thorned vines from your body and control them freely as if they were limbs and they will protect you on instinct, any unholy touched by vines will be set ablaze by holy fire. You are also completely immortal as long as your heart remains intact as your holy vines will rebuild your body. This does not consume energy or use an ability slot.
+378.Timelord Physique,5.7
+379.Hard to Kill,7.5
+#Someone really oughta put you down. You are ordinarily hard to kill, your existence constantly tries to preserve itself, whether that is swapping ability slots and instantly using heal on you when you get shot in the head by an ambush, or whether it is rearranging your insides in any way it can to preserve your life. The closer to death you are the more effective and cost-efficient your abilities are and even at the moment of your death this trait can still use your abilities and items for up to 10 minutes in order to revive or preserve you.
+380.Deathless,9.0
+#You lack the concept of death. To say you are immortal is wrong, it is more that the concept does not apply to you in the first place, no afterlife can take you nor can you be put down forever by immortal killing weapons. Even if every quark in your body were to be annihilated you would eventually reform.
+381.True User,8.0
+#You can use any item, ability, or spell without suffering from their drawbacks and instantly meet all qualifications. Whether that be using the Excalibur, Rhongomyniad, Hijacking the Gate of Babylon or using an item with a 99.999% chance to kill you. 
+382.All Devouring Physique,8.6
+#There is something primordial inside you and it devours. Any infiltrator or transgressor in your mind, soul, body or any form of your existence will get devoured. Even a god trying to possess you would get shredded to the ether, even telepathic connections will be torn apart and turned to pure energy to nourish you. May the nuclear chaos have mercy on anything trying to touch your soul.
+383.Renown,2.4
+#You are quite well known, aren't you? The news of your exploits and accomplishments travel fast. And the effect on your reputation is slightly increased. If you saved a village even the king may learn about it and decide to reward you. Your reputation is always well known if possible.
+384.Buerocrats Eye,2.2
+#You have the eye of a bureaucrat, allowing you to easily understand all legal jargon and loopholes in contracts as well as being able to quickly brief documents. This will definitely save you some time in any world with an established government.(If not, the ticket this trait came from can be rerolled)
+385.Legal Exemption,2.5
+#"It has been officially exempted? How? Do not ask." You do not pay taxes or rent as those are waived by the government or the people who want you to pay them. The officials or authority figures may even look over minor crimes or mischiefs and pardon you.
+386.Hoarder,3.7
+#You are the type to not use your limited items even against the final boss, aren't you? The restock timer and cooldown of all items are halved.
+387.Avaricious Greed,7.2
+More more more, you just can't get enough. Restock timers and the cooldown of all Items are reduced by 100x. 
+388.Demon,5.4
+#Demon Slayer - You are a demon transformed by the blood of Muzan. Granting you a superhuman physique and biological immortality, in exchange for being lethally harmed by sunlight and the light attribute. You also develop your own demon blood art that is equal to an uncommon rank ability. Lastly, you need to consume humans to sustain yourself otherwise you will starve to death. 
+389.Progenitor Demon,6.9
+#Demon Slayer - You are a progenitor sharing all of the powers of Muzan Kibitsuji. Allowing you to freely shapeshift and have extremely powerful regeneration as well as the ability to turn others into demons with your own blood in addition to your superhuman physical abilities. But sunlight is extremely lethal to you.
+390.Regenerator,4.7
+#Your body is unusually receptive to all forms of healing. Your natural regeneration when not affected by anything is increased by 5x and all healing effects you receive are 2x more effective on you.
+391.Wardrobe,3.5
+#Ever want the advantage of your equipment but don't want to wear it? Perhaps you want the powers and safety of the dread armour without looking like a dark lord? With Wardrobe active any items you put on will be sent to your wardrobe while you still retain their bonuses. But you can't wear two magical items that go on the same part of the body and only wear mundane items while active.
+392.Nothing,0.1
+#Literally just nothing, it's simply impressive that you got this unlucky.
+393.No Weakness,6.0
+#You will show no weakness. Any resistance of yours that is in the negatives is automatically set to zero. 8x weak to fire? It's neutral now. Even a shadow demon would be unharmed by light.
+394.Magical Girl Transformation,0.3
+#All transformations have that overly dramatic Magical Girl Transformation flair to them. 

@@ -307,7 +307,7 @@
 154.Lightning Form,4.4
 #Allows you to turn into a living bolt and lightning and travel extremely quickly while ignoring most types of conventional attacks. But you are extremely vulnerable to grounding which will eject you from lightning while injuring you.
 155.Radio Waves,3.1
-#MHA - Allows you to emit electromagnetic waves that disable and cripple all technology with an interface. With training, you can even fine-tune the waves you send to instead to activate or control electronics.
+#(Tech)MHA - Allows you to emit electromagnetic waves that disable and cripple all technology with an interface. With training, you can even fine-tune the waves you send to instead to activate or control electronics.
 156.Impulse,2.0
 #Allows you to quicken the electrical signals in your body, increasing your reflexes and speed proportionally. Overusing may cause nerve damage.
 157.Godspeed,4.2
@@ -840,7 +840,7 @@
 #Your body adapts to your abilities to make them more efficient and stronger, adaptation fades after Protean is disabled, an ability like claws would increase the strength throughout the body, an ability like fire manipulation would give higher heat tolerance etc.
 421.Sunshine,7.2
 #Nanatsu No Taizai - You are the one blessed by the sun, under sunlight your stats and energy are massively increased and you can create and control intense flames, during noon for one minute you can enter a mode called "The One" massively boosting your stats and flame even further and making you borderline invulnerable.
-422.Dragonic Escalation,4.0
+422.Draconic Escalation,4.0
 #Worm - When under danger or in a fight you start taking on a draconic form that gets stronger over time or the more danger you are exposed to, and slower the less danger or conflict you are in. As escalation increases you gain basic pyrokinesis and regeneration alongside enhanced physical stats
 423.Revengence,3.5
 #You keep building up energy the more you are hurt, at any time you can charge any ability or spell with that energy to unleash a devastating effect. Every 10% of health lost translates to a 2x increase in power, this additive and at 10% health left, revenge will amplify the next effect by 10x. 8-hour cooldown
@@ -990,8 +990,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to steal ALL possessions of a target within a 5-meter range, everything on their body that is not magically or physically bound enters a subspace inventory you have. You can narrow the range of the ability to steal specific targets more easily.
 496.Record,2.7
 #Trash Count - Allows you to record your sight into your mind, recorded information is engraved in memory even better than photographic memory as you can recall it in absolutely perfect detail at any time as if yo are actively thinking about it all the time.
-497.Arousal,3.6
-#(Nsfw)Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
+497.(Nsfw)Arousal,3.6
+#Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
 498.Audacity,4.6
 #Allows you to go unnoticed by people, they try to ignore you to the best of their ability, you can pick the lock to someone's house, grab their wallet while they are having dinner, kill their wife and leave without them even commenting on it. Stronger targets are less affected by this and will notice actions that are drastic, this ability consumes energy and stamina to keep active.
 499.Mind Reading,4.5
@@ -1198,8 +1198,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #One Piece - Allows you to transform into a cow or a cow hybrid at will, boosting your physical abilities and augmenting your vitality and stamina. You also inherit the traits a cow possesses while in this form.
 600.Sea Snake Form,5.8
 #Allows you to transform into a sea snake or a sea snake hybrid at will, largely boosting your physical abilities and giving you minor regeneration as well as water breathing and mobility. You can also unleash a lethal poison breath.
-601.Tantric Healing,3.3
-#(Nsfw)Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
+601.(Nsfw)Tantric Healing,3.3
+#Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
 602.Assembly,4.3
 #Allows you to automatically assemble any parts you have access to into any item you have created or built with your own hands before or know how it's made. You can also create lesser versions of the items if the materials you have are subpar.
 603.Pearl Jam,3.9
@@ -1329,77 +1329,77 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 665.Tactile Telekinesis,3.5
 #Allows you to telekinetically manipulate objects you maintaining physical contact with, such as being able to crumple a car with a touch. The stronger a target is, the less of an effect it has on them
 666. Tinker - Bombs, 7.8
-#Allows you to build technological constructs or contraptions related to causing explosions and operating them, you can create bombs of all varieties, simple explosives, bombs that freeze time in an area, transmute an area to glass, teleport whatever was exploded, etc depending on the abilities you have as inspiration.
+#(Tech)Allows you to build technological constructs or contraptions related to causing explosions and operating them, you can create bombs of all varieties, simple explosives, bombs that freeze time in an area, transmute an area to glass, teleport whatever was exploded, etc depending on the abilities you have as inspiration.
 667. Tinker - Efficiency, 4.5
-#Allows you to build technological constructs or contraptions related to improving efficiency or more efficient and streamlined versions of existing technology.
+#(Tech)Allows you to build technological constructs or contraptions related to improving efficiency or more efficient and streamlined versions of existing technology.
 668. Tinker - Drones, 3.6
-#Allows you to build technological constructs or contraptions related to drones, be it surveillance drones, turret drones, building drones, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to drones, be it surveillance drones, turret drones, building drones, etc.
 669. Tinker - Blasto, 6.7
-#Allows you to build technological constructs or contraptions related to biology and minion creation, allowing you to create custom plants, specialized drugs, clones, and homunculi with provided materials, tinker powers can also draw inspiration from your ability and traits list.
+#(Tech)Allows you to build technological constructs or contraptions related to biology and minion creation, allowing you to create custom plants, specialized drugs, clones, and homunculi with provided materials, tinker powers can also draw inspiration from your ability and traits list.
 670. Tinker - Prosthetics, 3.2
-#Allows you to build technological constructs or contraptions related to prosthetics and limb replacements such as bionic arms, mecha legs, weaponized arms with guns and blades hidden inside, etc. Tinker powers can also draw inspiration from your ability and traits list to expand on the list of technology you can build.
+#(Tech)Allows you to build technological constructs or contraptions related to prosthetics and limb replacements such as bionic arms, mecha legs, weaponized arms with guns and blades hidden inside, etc. Tinker powers can also draw inspiration from your ability and traits list to expand on the list of technology you can build.
 671. Tinker - Cryogenics, 4.4
-#Allows you to build technological constructs or contraptions related to cryonics, frozen stasis chambers, frost grenades, ice guns, fridges, etc. You'd make Doctor Freeze proud.
+#(Tech)Allows you to build technological constructs or contraptions related to cryonics, frozen stasis chambers, frost grenades, ice guns, fridges, etc. You'd make Doctor Freeze proud.
 672. Tinker - Pyrotechnics, 4.2
-#Allows you to build technological constructs or contraptions related to pyrotechnics, flamethrowers, super napalm, missiles, etc. You'd make Firefly proud.
+#(Tech)Allows you to build technological constructs or contraptions related to pyrotechnics, flamethrowers, super napalm, missiles, etc. You'd make Firefly proud.
 673. Tinker - Hacking, 3.5
-#Allows you to build technological constructs or contraptions related to hacking, hijacking, and interfacing with other technologies.
+#(Tech)Allows you to build technological constructs or contraptions related to hacking, hijacking, and interfacing with other technologies.
 674. Tinker - Ai, 6.6
-#Allows you to build technological constructs or contraptions related to artificial intelligence, allowing you to create smart assistants to operate tech for you, sentient companions, or go full Ultron.
+#(Tech)Allows you to build technological constructs or contraptions related to artificial intelligence, allowing you to create smart assistants to operate tech for you, sentient companions, or go full Ultron.
 675. Tinker - Bio, 7.8
-#Allows you to build technological constructs or contraptions related to biology and living organisms, you can make diseases, elixirs, clones, healing pods, custom races, and the list goes on.
+#(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms, you can make diseases, elixirs, clones, healing pods, custom races, and the list goes on.
 676. Tinker - Vehicle, 4.2
-#Allows you to build technological constructs or contraptions related to vehicles or methods of transportation, like giant cars with laser canons and cloaking technology, a ship that goes at the speed of sound and does not get affected by waves. If it involves vehicles, you can build it.
+#(Tech)Allows you to build technological constructs or contraptions related to vehicles or methods of transportation, like giant cars with laser canons and cloaking technology, a ship that goes at the speed of sound and does not get affected by waves. If it involves vehicles, you can build it.
 677. Tinker - Repair, 2.6
-#Allows you to build technological constructs or contraptions related to maintaining and repairing technology. You can also spot the flaws in technology and know how to fix almost all technology.
+#(Tech)Allows you to build technological constructs or contraptions related to maintaining and repairing technology. You can also spot the flaws in technology and know how to fix almost all technology.
 678. Tinker - Travel, 5.8
-#Allows you to build technological constructs or contraptions related to transportation and travel. Teleportation pods, hypersonic cars, wingsuits, etc. if its goal is to get you from point A to point b you can probably build it.
+#(Tech)Allows you to build technological constructs or contraptions related to transportation and travel. Teleportation pods, hypersonic cars, wingsuits, etc. if its goal is to get you from point A to point b you can probably build it.
 679. Tinker - Teleportation, 4.7
-#Allows you to build technological constructs or contraptions related to teleportation like a telepad, teleportation pod, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to teleportation like a telepad, teleportation pod, etc.
 680. Tinker - Melee Weapons, 4.8
-#Allows you to build technological constructs or contraptions related to melee weapons, like fire swords, vibration blades, grenade hammers, etc. If it's a melee weapon and not magic you can probably build it.
+#(Tech)Allows you to build technological constructs or contraptions related to melee weapons, like fire swords, vibration blades, grenade hammers, etc. If it's a melee weapon and not magic you can probably build it.
 681. Tinker - Ranged Weapons,5.6
-#Allows you to build technological constructs or contraptions related to ranged weapons, like laser cannons, a revolver, missile batteries, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to ranged weapons, like laser cannons, a revolver, missile batteries, etc.
 682. Tinker - Capture and Restraint,4.3
-#Allows you to build technological constructs or contraptions related to capturing and restraining individuals such as power-suppressing cuffs, containment foam, durable cells, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to capturing and restraining individuals such as power-suppressing cuffs, containment foam, durable cells, etc.
 683. Tinker - Construction,3.6
-#Allows you to build technological constructs or contraptions related to construction such as super cement, reinforced steel structures, and incredibly efficient building schematics.
+#(Tech)Allows you to build technological constructs or contraptions related to construction such as super cement, reinforced steel structures, and incredibly efficient building schematics.
 684. Tinker - Cloaking,4.1
-#Allows you to build technological constructs or contraptions related to cloaking like invisibility fields, anti-radars, sound suppression, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to cloaking like invisibility fields, anti-radars, sound suppression, etc.
 685. Tinker - Analysis,4.6
-#Allows you to build technological constructs or contraptions related to analyzing data like scouters, observation drones predictive programs, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to analyzing data like scouters, observation drones predictive programs, etc.
 686. Tinker - Mecha,8.2
-#Allows you to build technological constructs or contraptions related to creating big ass mechs like Evangelion, Code Geass, or Gundam.
+#(Tech)Allows you to build technological constructs or contraptions related to creating big ass mechs like Evangelion, Code Geass, or Gundam.
 687. Tinker - Cyberpunk 2077,5.4
-#Allows you to build technological constructs or contraptions from the Cyberpunk 2077 universe.
+#(Tech)Allows you to build technological constructs or contraptions from the Cyberpunk 2077 universe.
 688. Tinker - Metal Gear,7.3
-#Allows you to build technological constructs or contraptions from the Metal Gear universe.
+#(Tech)Allows you to build technological constructs or contraptions from the Metal Gear universe.
 689. Tinker - Androids,5.2
-#Allows you to build technological constructs or contraptions related to constructing androids and artificial lifeforms.
+#(Tech)Allows you to build technological constructs or contraptions related to constructing androids and artificial lifeforms.
 690. Tinker - RWBY,6.2
-#Allows you to build technological constructs or contraptions from the RWBY Universe including Dust synthesis.
+#(Tech)Allows you to build technological constructs or contraptions from the RWBY Universe including Dust synthesis.
 691. Tinker - Code Geass,6.5
-#Allows you to build technological constructs or contraptions from the Code Geass Universe.
+#(Tech)Allows you to build technological constructs or contraptions from the Code Geass Universe.
 692. Tinker - Computers,4.2
-#Allows you to build technological constructs or contraptions related to personal computers, allowing you to build stuff like small supercomputers, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to personal computers, allowing you to build stuff like small supercomputers, etc.
 693. Tinker - Games,2.3
-#Allows you to build technological constructs or contraptions related to games or entertainment programs. You are over 100 times more efficient than the average experienced full development team when it comes to making games and entertainment programs.
+#(Tech)Allows you to build technological constructs or contraptions related to games or entertainment programs. You are over 100 times more efficient than the average experienced full development team when it comes to making games and entertainment programs.
 694. Tinker - Dreadon,8.6
-#Allows you to build technological constructs or contraptions emulating the technology of Dreadon from Calamity Mod
+#(Tech)Allows you to build technological constructs or contraptions emulating the technology of Dreadon from Calamity Mod
 695. Tinker - Sensors,4.8
-#Allows you to build technological constructs or contraptions related to sensors, sensing, and tracking like radars, sonars, magic sensors, trackers, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to sensors, sensing, and tracking like radars, sonars, magic sensors, trackers, etc.
 696. Tinker - Star Wars,6.0
-#Allows you to build technological constructs or contraptions from the Star Wars universe including Kyber Crystal synthesis
+#(Tech)Allows you to build technological constructs or contraptions from the Star Wars universe including Kyber Crystal synthesis
 697. Tinker - Defense,4.8
-#Allows you to build technological constructs or contraptions related to defense or securement, like barrier projectors, reinforced chassis, turrets, etc.
+#(Tech)Allows you to build technological constructs or contraptions related to defense or securement, like barrier projectors, reinforced chassis, turrets, etc.
 698. Tinker - Armor,5.8 
-#Allows you to build technological constructs or contraptions related to armored suits or power armor such as the Iron Man Suit, Fallout Power Armor, basically, you can build any kind of powered suit as long as it is not larger than 5 times your size, because then it is classified as a mech.
+#(Tech)Allows you to build technological constructs or contraptions related to armored suits or power armor such as the Iron Man Suit, Fallout Power Armor, basically, you can build any kind of powered suit as long as it is not larger than 5 times your size, because then it is classified as a mech.
 699. Tinker - Fallout,5.3
-#Allows you to build technological constructs or contraptions from the Fallout Universe, such as Fusion Batteries, Chems, Power Armor, Stealth Boys, etc.
+#(Tech)Allows you to build technological constructs or contraptions from the Fallout Universe, such as Fusion Batteries, Chems, Power Armor, Stealth Boys, etc.
 700.Toggle,2.5
 #Allows you to turn objects or targets on and off, does not work on living beings, you could turn a radio on and off, this is also applicable to your own abilities as well
 701.Technopathy,4.8
-#"Talk to the power" Allows you to communicate and command machines that have code or interfaces, the resistance of the machine against your commands is equal to the strength of their firewall
+#(Tech)"Talk to the power" Allows you to communicate and command machines that have code or interfaces, the resistance of the machine against your commands is equal to the strength of their firewall
 702.Dark Hand,3.7
 #Dark Souls - This allows you to drain the lifeforce of the people you grab to add it to your own, the opponent must not be able to resist, in addition, you can cover your hand in dark hand to deal more damage or spread it out like a medium-sized shield.
 703.Polymerization,4.3
@@ -1749,7 +1749,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 876. Frozen Soul,4.1
 #Your soul is frozen. Your internals get colder and colder and your emotions get duller as you gain enhanced defensive ability and your cryokinetic abilities get more potent but your speed and offensive abilities suffer a decrease. The colder your inside gets the more durable you get and the colder your energy becomes until your insides get completely frozen over.
 877. Transhuman,5.7
-#You can transform your body into technology at will, replace the muscle strands with advanced carbon nanofiber, arms with weaponized prosthetics, and eyes with scanners, as long as you know how the technology works you can convert your body into it. With training, you can even ignore the discrepancy of mass.
+#(Tech)You can transform your body into technology at will, replace the muscle strands with advanced carbon nanofiber, arms with weaponized prosthetics, and eyes with scanners, as long as you know how the technology works you can convert your body into it. With training, you can even ignore the discrepancy of mass.
 878. Invulnerable,9.8 
 #You are invulnerable, simple as that. As long as you do not want to get damaged there is nothing below reality manipulation that can hurt you, even if they were to collapse the entire multiverse on you, you would come out without a scratch.
 879. Immortal,9.7 
@@ -1803,7 +1803,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 903. Greater Material Absorption,5.9
 #Ben 10/Marvel - Allows you to absorb the properties of a material you touching to to either cover your body in it or turn your body into it and gain its properties. You can absorb steel and turn your body into pure steel, making you more resilient and able to conduct electricity, or uranium to make yourself radioactive, glass would make you brittle, etc. This also extends to esoteric materials like vibranium and Adamantite. In addition, you can shape your body, such as turning your arms into weapons or even creating more of the material you absorbed by expending energy/mana.
 904. Galvanic Mechamorph Form,5.7
-#Ben 10 - Allows you to transform into a Galvanic Mechamorph at will, as a Galvanic Mechamorph you are able to freely fuse with and upgrade technology in proportion to your power level.
+#(Tech)Ben 10 - Allows you to transform into a Galvanic Mechamorph at will, as a Galvanic Mechamorph you are able to freely fuse with and upgrade technology in proportion to your power level.
 905. Greater Throw,3.6
 #Allows you to imbue additional speed into any object you throw proportional to the amount of energy/mana you expend. You can throw a rock and launch it at Mach speeds with enough energy. 
 906. Launch,4.8
@@ -2018,7 +2018,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 1008.Foresight,3.5
 #Yomi Hustle - Allows you to place a foresight, an afterimage of yourself in anywhere in your range of perception. At any moment you teleport to the location of this foresight but it disappears if you leave within 100 meters of it or leave it for more than 1 hour, it also dissipates when damaged. You can only create a single Foresight but you can increase that number by training.
 1009.Tinker PvZ,5.2
-#Plants vs Zombies - Allows you to genetically engineer plants from Plants vs Zombies. Such as flowers that turn sunlight into energy, ones that punch people or breathe fire. The more powerful and esoteric a plant is the more resources you need to produce them.
+#(Tech)Plants vs Zombies - Allows you to genetically engineer plants from Plants vs Zombies. Such as flowers that turn sunlight into energy, ones that punch people or breathe fire. The more powerful and esoteric a plant is the more resources you need to produce them.
 1010.Labyrinthian,7.1
 #You are the legendary minatour of myth. Your physical abilities are amplified to an inhuman level, especially your strength and endurance in addition to gaining the traits of a bull. In addition, you can turn any area you are in into a labyrinth, allowing you to shuffle all points of entry and exit in an era to lead to wherever you want. Even a future reader would get stuck for a hundred years in a forest.
 1011.Hyper,6.5
@@ -2029,7 +2029,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #Allows you to enforce the Law of Restoration on a target. When the law is enforced the target is forcefully restored to whatever state it is deemed "restored" in. Even corpses can be restored to life, even erasure can be reversed as long as something remains. The more powerful, damaged or abnormal a target is the more energy you need to expend. As long as it is slotted in, it will activate on yourself at the moment of your death.
 1014.Inner Isles,5.8
 #There is an island inside of your being. Using this ability you can create doors to a spatial dimension inside of your existence, manifesting as a small island in the middle of a vast ocean with no life in sight, the island does contain vegetation though. Creating larger doors and maintaining doors can consume energy. 
-1015.Sea Serpent of the End,7.7
+1015.Sea Serpent of the End,7.2
 #DxD - Allows you to transform into the Sea Serpent of the End, Leviathan. As Leviathan, a giant mythical sea snake monster you can control all water in your range on a massive scale, being able to tilt seas and drown cities, you can create even more water serpents or summon rains that cause floods. All water-based abilities and effects are massively amplified when using it.
 1016.Gradual Transformation,3.6
 #You can gradually transform your body into any shape, but due to the transformation being slow, it must be used carefully. It would take roughly 3 hours to slowly turn into a cat and you cannot increase or decrease your mass by more than 500% 
@@ -2047,3 +2047,23 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #You have a minimap in the corner of your vision that automatically maps where you go, and reveals the location of enemies in places you have seen as long as you know they are hostile to you. You can enlarge and zoom the minimap as you like.ç
 1023.Megamap,4.4
 #You have a megamap in the corner of your vision, the cooler version of a minimap. The mega map maps everything within a 2.5km radius wherever you step into and keeps track of all living beings' insides, marking them as red or blue depending on whether they are hostile or not. The map is real-time, so it can also be used for satellite viewing.
+1024.Loboan Form,4.9
+#Ben 10 - You are able to transform into a Loboan or a Loboan Hybrid at will. Loboans are alien werewolves with formidable physical abilities, sharp teeth and claws, as well as having great senses being able to track smells like bloodhounds. Their most notable ability is the ability to send out direct sonic howls that are powerful enough to cause severe damage. 
+1025.Blood Golem,2.5
+#Fear and Hunger - Allows you to shed your blood to create a puddle of it on the ground from which you can summon a Blood Golem or several Blood Golems. The strength or number of Blood Golems you can summon scales with your physical stats alongside the amount of blood shed (minimum 100ml). 
+1026.Apothecary Physique,5.8
+#Apothecary Physique allows you to manipulate the inside of your body to reproduce the effects of any chemical or digestible item you have consumed before. Like a health potion, mana potion, iron skin potion, night vision etc. as long as the item you consumed was Epic rank or below. This also grants you complete control over your biochemistry.
+1027.Seraph Tracers,5.0
+#Calamity Mod - "At the speed of heaven" Allows you to manifest Seraphic wings on your back, amplifying your speed and allowing you to freely fly at great speeds. In addition, for as long as the wings are manifest you are able to resist mundane environmental effects below Epic rank, allowing you to swim in lava, walk on water, walk through natural fire, ignore fall damage, breathe in space etc. The wings themselves are also superhumanly strong, being able to easily bisect people with a swipe and scale with your physical stats. 
+1028.Nebula Mantle,3.6
+#Terraria/Calamity Mod - "The very stars guide your flight" You can manifest a pair of cosmic wings that grant you fast flight but do not exist in physical space. While the wings are active they resonate with cosmic energies, boosting the power of all spells and allowing you to recover your energy faster the closer it is to night. 
+1029.Icarus' Folly,3.5
+#"And so the sun never allowed a mortal to flight again" Allows you to enact Icaru's Folly in an area, evoking the wrath of the sun against those who dare take to the skies. Those who exceed 10 meters in elevation start getting burnt by a holy inferno, the higher in elevation they are relative to the ground the hotter the flames they will be burnt by. The width of the zone is dependent on the amount of energy you expend. The larger the area the more energy is expended. Those in the folly are instinctually aware of the danger of flight.
+1030.Bullseye,2.9
+#"Boom, headshot." Bullseye creates bullseye reticle crosshairs on several random spots on all targets in your line of vision, hitting one of these crosshairs in the middle with a projectile automatically turns into a critical hit, amplifying its power and damage. With training, you can more accurately place crosshairs on targets.
+1031.Perfect Impostor,6.0
+#You can disguise yourself as other people with your ability, but not just that, it will apply a normality effect on them that will actively convince others that you are that person even if you act out of character. The more out of character the more energy you consume and the effect will fade if the target is absolutely stronger than you or you act in ways that would directly compromise your identity. 
+1032.Sticky Icky,0.4
+#Your skin is uncomfortably sticky to other people, as if you were soaked in glue or soda but you won't feel the difference.
+1033.Adhesion,1.9
+#You can turn your skin incredibly sticky, sticky enough that you could stick to walls or prevent ordinary people from pulling away from you. You do not feel the difference and can control which parts are sticky.
