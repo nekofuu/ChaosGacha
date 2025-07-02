@@ -32,6 +32,10 @@
 #You are naturally resistant to magic and all magical effects, effects scale with your energy level.
 17. Energy Acceleration,4.4
 #All of your abilities and spells are way faster because your energy moves way faster than it should.
+18. Headpat,2.2
+#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do. This also helps dispel negative mental effects and build affection. 
+19. Greater Headpat,3.5
+#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do, maybe even arousal if they are kinky. This also helps dispel negative mental effects and build affection. Even the most frigid emo won't be able to fight the power of your palms. 
 20. Efficient Cells,3.9
 #Your cells are supernaturally efficient at converting sustenance into energy, you regain your energy significantly faster.
 21. Protection From Arrows,4.2
@@ -336,10 +340,6 @@
 #You almost always land on your feet when falling, in addition, you are immune to all fall damage, even falling down from space to earth will not hurt your legs.
 171. Cuddle King,2.1
 #You are the king of cuddling, whoever you are cuddling or having a skinship with will feel comfortable, and you are the best cuddling partner. Good for building relationships.
-172. Headpat,2.2
-#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do. This also helps dispel negative mental effects and build affection. 
-173. Greater Headpat,3.5
-#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do, maybe even arousal if they are kinky. This also helps dispel negative mental effects and build affection. Even the most frigid emo won't be able to fight the power of your palms. 
 172. Eagle Eyes,2.2
 #Your sense of sight and visual acuity are far beyond the norm, you can see a lot farther and a lot more clearly than the average person.
 173. Bloodhound,2.8
@@ -597,7 +597,7 @@
 301. Draw of Fate,3.3
 #Your fate is strong, things are not moderate for you, destiny curves in your direction like a main protagonist. You have plenty of luck, bad and good.
 302. Dealmaker,4.5
-#A Deal's a Deal. Whenever people make a deal with you, they feel compelled to fulfil their end of the deal. In addition, it's far easier to goad people into making outrageous bets.
+#A Deal's a Deal. Whenever people make a deal with you, they feel compelled to fulfil their end of the deal that they agreed on. In addition, it's far easier to goad people into making outrageous bets. 
 303. Hentai Logic,4.8
 #Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
 304. Ecchi Logic,3.5
@@ -746,7 +746,8 @@
 #Tengen Toppa Gurenn Lagann - If there is a will there is a way.
 377.Monster of God,7.2
 #Hellsing | Race Change - You are a monster of god, a being pierced through the heart by Helena's Nail and transformed by it. As a monster of god, you possess monstrous physical stats and are imbued with holy energy so potent even your touch can set a true vampire ablaze. You are able to conjure holy thorned vines from your body and control them freely as if they were limbs and they will protect you on instinct, any unholy touched by vines will be set ablaze by holy fire. You are also completely immortal as long as your heart remains intact as your holy vines will rebuild your body. This does not consume energy or use an ability slot.
-378.Timelord Physique,5.7
+378.Magical Girl Transformation,0.3
+#All transformations have that overly dramatic Magical Girl Transformation flair to them. 
 379.Hard to Kill,7.5
 #Someone really oughta put you down. You are ordinarily hard to kill, your existence constantly tries to preserve itself, whether that is swapping ability slots and instantly using heal on you when you get shot in the head by an ambush, or whether it is rearranging your insides in any way it can to preserve your life. The closer to death you are the more effective and cost-efficient your abilities are and even at the moment of your death this trait can still use your abilities and items for up to 10 minutes in order to revive or preserve you.
 380.Deathless,9.0
@@ -777,5 +778,3 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Literally just nothing, it's simply impressive that you got this unlucky.
 393.No Weakness,6.0
 #You will show no weakness. Any resistance of yours that is in the negatives is automatically set to zero. 8x weak to fire? It's neutral now. Even a shadow demon would be unharmed by light.
-394.Magical Girl Transformation,0.3
-#All transformations have that overly dramatic Magical Girl Transformation flair to them. 
