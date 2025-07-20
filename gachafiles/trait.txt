@@ -50,8 +50,8 @@
 #Whenever you do something for someone, whether that be a big quest or a chore, you will get your due reward, as long as both parties have agreed, the opposite party will feel compelled to deliver on their promise.
 26. In Shining Armor,2.8
 #Whenever you save a damsel in distress they are almost guaranteed to develop romantic feelings for you.
-27. Winners Rights,3.0
-#Whenever you win a competition or a bet you get to dictate the terms of your rewards and the other party cannot refuse.
+27. Winners Rights,3.4
+#Whenever you win a competition or a bet, you get to dictate the terms of your rewards, and the other party cannot refuse as long as your demand is directly proportional to the bet you won.
 28. Kakyoin's Gift,2.5
 #Married women and milfs find themselves more attracted to you and consider you a potential romantic interest more easily.
 29. King of Disco,2.2
@@ -142,8 +142,8 @@
 #Your body is incredibly receptive and open to change without getting damaged and curbing negative side effects. Healing is more effective on you and you are less likely to suffer from negative effects from changes like super soldier serum or abilities that cause physical instability.
 72. White Mage,3.6
 #Nobody fucks with the white mage. All of your recovery class abilities are more potent and cost less energy to use, and people are more grateful for you healing them because they better be.
-73. Magician,5.1
-#You are a natural magician, you were born under the mystical stars, magic comes more naturally to you and you can even create your own spells out of the ones you have learned. You also learn spells much more quickly and they are potent.
+73.Endbringer Physiology,8.3
+#Worm(Race Change) - You are an Endbringer in the form of whatever you were before, despite not looking any different, your physiology is completely overhauled. Your nonstandard biology grants you extreme physical stats and makes you completely immune to all Biological and mental abilities. In addition, your body is made up of hundreds of layers that get exponentially more durable the closer they get to your core through the warping of spacetime. As long as your core, the most durable part of your body is intact, you will eventually regenerate. While your outermost layers are not that much more durable. To get to your core, someone must destroy at least a planet-sized mass, even at the minimum durability you have. This also makes you resistant to all Spacetime abilities and effects used on you against your will. Durability and stats scale with base stats. You still retain all the functions your body had before.
 74. Enhanced Stamina,2.4
 #Your stamina is beyond the norm, you can perform strenuous activities for longer and recover from exhaustion far more quickly. In addition, you can perform for far longer.
 75. Enhanced Endurance,2.6
@@ -156,7 +156,7 @@
 #Your vitality is beyond the norm, you recover from ailments and wounds faster than what most consider normal. In addition, your life force has been enhanced, giving you an increased lifespan.
 79. Reservoir,2.8
 #Your energy reserves and recovery speed are greater than what most would consider average.  
-80. Breathless,3.1
+80. Breathless,2.1
 #Your body doesn't need to breathe, your body still acts like you are breathing and receives all of the benefits from it even if you don't breathe or are in an airless environment. You can also speak without air.
 81. Red Tear,3.5
 #Whenever you are near death your energy output and strength are increased considerably. This effect fades when you are no longer in danger or are healed.
@@ -351,7 +351,7 @@
 176. Boundless Stamina,4.4
 #Your stamina is boundless, even a regular person with this trait would be able to run a marathon with ease and only need a minute's rest afterward. Your stamina recovers incredibly and exhaustion fades from your body much faster.
 177. Lucky Sukebe,2.3
-#You are a lucky fellow alright, just in ways you wouldn't expect. You often stumble into lucky perverted or lewd situations. The chaos of all infinity and eternity is distilled into an ability to affect the composition of all of reality itself and it makes you more likely to find a girl changing. Amazing.
+#(Nsfw)You are a lucky fellow alright, just in ways you wouldn't expect. You often stumble into lucky perverted or lewd situations. The chaos of all infinity and eternity is distilled into an ability to affect the composition of all of reality itself and it makes you more likely to find a girl changing. Amazing.
 178. Spirit Affinity,3.0
 #You are talented in the art of everything spirits, spiritual creatures, and objects take a liking to your and soul-based abilities are easier to master
 179. Immortal Soul,4.9
@@ -480,10 +480,14 @@
 #The reaper's car got stuck in traffic so he is going to be a little late. When you die, you can still move and use your abilities for up to 1 hour before the traffic jam clears and the reaper takes your soul.
 241. Infinite Money Glitch,6.9
 #Something is very wrong but you don't have to worry about that. You can always pull out enough money you need to pay for something from... somewhere. Just reach into your pocket and you will something like a gold coin, perfect legal tender that doesn't cause inflation, whatever, you will somehow find enough money whenever you need it.
+242. Magic Circuits,4.8
+#Fate/Tsukihime - Possess natural Magic Circuits in your body that act as natural magic computers in your body that help you regenerate energy and help you in actualising magic and abilities, as well as numerous other capabilities. The amount of Magic Circuits in your body and their quality are dependent on your energy reserves and energy traits. If you already have Magic Circuits, their quality and quantity are doubled.
 243. Nature's Embrace,4.2
 #Well, you can officially call Mother Nature mommy so that's nice. Nature itself favors you, trees bend down branches to offer you fresh and healthy fruits, animals and nature-aligned beings favor you and are more affectionate towards you, you know how to maneuver around a forest, and wild animals will help you. You also recover energy faster the closer you are to nature. 
 244. Nature's Chosen,5.7
 #Mother nature has chosen you as her favored one, you receive her protection in forests and nature, wild animals are all friendly toward you and understand your words, the trees part to show you the way, and bounties offer fresh fruit and vegetables, animals and nature aligned beings favor you and are more affectionate towards you, some may even recognize her touch on you. You also recover energy faster the closer you are to nature. 
+245. Hamon,4.3
+#JoJo- You possess a unique physique and affinity, allowing you to instinctively use and master the Hamon breathing technique to utilise the force of Life Magnetism and harness the power of sunlight through your breathing. Practising Hamon for extended periods of time can grant a superhuman physique, vitality, longevity and a bunch of other effects. You can also grant others Hamon Breathing by punching their diaphragms.
 246. Gaia's Child,6.8
 #You are the child Gaia herself, now mother nature is your actual mom. Anyone trying to attack you in a forest is asking for death as mother nature will actively defend you, branches of trees will move like snakes with spear tips harder than metal, treats will rise and roots will shield you, nature itself treats you like her child. Animals and nature-aligned beings favor you and are more affectionate towards you, some may even recognize her touch on you.
 247. Heavy Weapons Guy,3.7
@@ -597,7 +601,7 @@
 301. Draw of Fate,3.3
 #Your fate is strong, things are not moderate for you, destiny curves in your direction like a main protagonist. You have plenty of luck, bad and good.
 302. Dealmaker,4.5
-#A Deal's a Deal. Whenever people make a deal with you, they feel compelled to fulfil their end of the deal that they agreed on. In addition, it's far easier to goad people into making outrageous bets. 
+#"A Deal's a Deal." Whenever people make a deal with you, they feel compelled to fulfil their end of the deal that they agreed on, so long as the deal was explicit in its conditions(No clever wording or Fae deals). In addition, it's far easier to goad people into making outrageous bets. 
 303. Hentai Logic,4.8
 #Apparently this world runs on Hentai Logic, objects revolving around you are far more perverted and people's logic is slightly skewed.
 304. Ecchi Logic,3.5
@@ -680,6 +684,8 @@
 #Race(DC) - You are a Kryptonian, enough said. Your physical and energy reserves increase the more sunlight you take, in addition, you have heat vision, ice breath, high-speed flight, no need to breathe, tactile telekinesis, X-ray vision, and probably more. Under the yellow sun you are basically a living god. 
 343.Saiyan,6.2
 #Race(Dragon Ball) - You are a Saiyan warrior, having a great natural physique and a monkey tail as a weakness. When exposed to a full moon you turn into a rampaging giant monkey with massively increased stats. Don't expect to be too strong too soon, even Goku needed decades of training from the greatest martial artists.
+344. Child of Man,8.4
+#Warhammer 40 - You are the child of the God Emperor of Mankind himself, sharing most of his attributes like his gifted physique, charisma, martial prowess, scientific gift and the talent to be possibly the strongest Psyker. You are capable of mastering all Psyker Disciplines(Not related to Chaos) and reaching levels where you may eventually be able to tear apart a planet with your Psyker power alone, as long as you train enough. Your psyker power is not connected to the Warp but emulates its power 
 345.Majin,7.3
 #Race(Dragon Ball) - You are a Majin, a descendant of Majin Buu, possessing a malleable gum-like physique with massively enhanced physical and magical stats. As a Majin you can survive and regenerate if even a handful of your body is left, in addition, you are able to absorb people and objects to strengthen yourself.
 346.Rodrigues,2.7
@@ -734,8 +740,8 @@
 #You heard it, it's not real, all just nerds pretending with smoke and mirrors. All magic is completely nullified against you, a god of magic could drop the big bang on you but as long as it was magic you wouldn't get scratched, because magic is not real, obviously. But as magic is not real you also cannot use it to any extent as long as this trait is active.
 371.Summoner,4.5
 #You are a summoner, summoning and commanding creatures, familiars, spirits and summons come naturally to you. All Familiars get enhanced stats and consume less energy. The potency of all projection-type abilities and spells is increased, it is easier to build affection and loyalty with summons and contracted entities.
-372.Brand of Tzeentech,5.8
-#Warhammer 40k - You wear the brand of Tzeentech, the Changer of Ways. Greatly speeding up your comprehension and learning abilities. Allowing you to improve in skill and magic far faster. In addition, you are capable of spells that you otherwise wouldn't be able to learn due to restrictions like racial differences. Note: Brands do not connect you to the  Chaos Gods or Warp.
+372.Brand of Tzeentch,5.8
+#Warhammer 40k - You wear the brand of Tzeentch, the Changer of Ways. Greatly speeding up your comprehension and learning abilities. Allowing you to improve in skill and magic far faster. In addition, you are capable of spells that you otherwise wouldn't be able to learn due to restrictions like racial differences. Note: Brands do not connect you to the  Chaos Gods or Warp.
 373.Brand of Slaneesh,4.6
 #Warhammer 40k - You wear the brand of Slaanesh, the Lord of Pleasure. Greatly increasing your understanding of others, you can vaguely feel the emotions of others, in addition, your presence is naturally more charismatic and alluring to others. Note: Brands do not connect you to the  Chaos Gods or Warp.
 374.Brand of Khorne,5.3
@@ -778,3 +784,47 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Literally just nothing, it's simply impressive that you got this unlucky.
 393.No Weakness,6.0
 #You will show no weakness. Any resistance of yours that is in the negatives is automatically set to zero. 8x weak to fire? It's neutral now. Even a shadow demon would be unharmed by light.
+394.Beast,9.5
+#Fate - You are a beast of Humanity. A being formed from the evil of Humanity and a being that loves humanity. As Beast of Humanity, you possess nigh unlimited magical power and mystery as well as your own Logos or Law that represents your power as well as your own Nega ability, an authority on the level of a Divine ability that does not require a slot to use. You also possess Independent Manifestation and any other powers a beast might otherwise have. 
+395.Metabolism,1.9
+#You have an unnaturally high metabolism, or not. You are able to control your metabolism, allowing you to slow it down to a near stop or speed it up to unnaturally fast levels.
+396.Hunger,2.7
+#You recover energy and health slightly faster by eating food; the more nutritious the food you eat, the better the recovery.
+397.Voracity,3.6
+#You are a voraciously hungry one. You digest anything you eat with extreme efficiency, being able to draw out more nutrients and energy from them, allowing you to recover energy and health faster from what you eat. In addition, your stomach is 50x bigger than it should be on the side. You will also never experience digestive issues. 
+398.Restful,2.4
+#"Nap time." Your energy and health recover faster when you are sleeping.
+399.Hypnos' Blessing,3.8
+#You are blessed by Hynos, the God of Sleep. Whenever you sleep, your health and energy recovery speeds drastically increase. In addition, you are able to fall asleep anywhere and still experience an uninterrupted restful sleep. Blessing needs at least 10 minutes of constant sleeping to start.
+400.Inventory DLC,3.8
+#You get your very own Inventory Page added to your system! The inventory addon allows you to store objects inside the System as long as their weight does not exceed what you can carry under optimal conditions. Items originating from the gacha are exempt from this and can be stored without problem.
+401.Vaunt,3.0
+#You're quite vauntful, aren't you? It is easier to increase your fame and gain recognition and rewards for your achievements. In addition, it is easier to assert your achievements and get people to believe what you say.
+402.Gloryhound,4.6
+#You are a Gloryhound, always seeing the next achievement. You have a sixth sense for opportunity, or more correctly, opportunities that would let you increase your fame and reputation. You have an easier time making people perceive you how you want them to, being able to change your vibe to one that feels dangerous, to comforting, to imposing. 
+403.King Engine,8.2
+#One Punch Man - You have the King Engine in your heart, or more specifically, your heart is really loud in just the right moments. You are a master of bluffing, such that you don't even need to make assertions; they will actively delude themselves about you. As long as you have enough luck to back it up, you are almost invincible.
+404.Psyker,5.5
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. And you are able to choose one of the 5 common disciplines to specialise in and be able to wield the powers of(Only one may be chosen, another can be chosen if the trait is rolled again)
+405.Greater Psyker,6.5
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a greater Psyker, you master your disciplines far quicker and can master the abilities of all 5 common disciplines without any penalty.
+406.Psyker(Biomancy),4.8
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Biomancy, you are able to train yourself in the ways of manipulating the flesh of friend and foe with your mind. (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Biomancy_Discipline
+407.Psyker(Pyromancy),4.2
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Pyromancy, you are able to train yourself in the ways of creating fire from your mind and weaving it into great firestorms and attacks. (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Pyromancy_Discipline
+408.Psyker(Telekinesis),4.9
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Telekinesis, you are able to train yourself in the ways of manipulating space and the material world with your mind. (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Telekinesis_Discipline
+409.Psyker(Telephaty),5.1
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Telepathy, you are able to train yourself in the ways of binding the wills and minds of those around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Telepathy_Discipline
+410.Psyker(Divination),5.3
+#Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Divination, you are able to train yourself in the ways of uncovering the past, present and future of the world around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Divination_Discipline
+411.Old Blood,6.1
+#Bloodborne - You have the blood of the Great Ones running through your veins. You have greater vitality and energy thanks to the old blood, empowering your existence. Your energy is also more potent, making it so that you need to spend less energy to invoke abilities or spells. The concentrated mystery in your blood also gives you greater insight into magical and esoteric arts. Finally, your blood has healing properties that scale with your vitality, but those who ingest too much may be affected by your corruptive presence. If you want, you can exert greater influence over those who consume your blood.
+412.Salty Tears,0.1
+#Your tears are now twice as salty.
+413.Lucky Romantic,2.5
+#Your luck with your romantic life seems to be substantially increased.
+414.Cupid's Blessing,3.8
+#Your luck with your romantic life seems to be greatly increased. Remember to thank Cupid.
+415.Blessing of Zeus,3.7
+#(Nsfw)You are a child blessed by Zeus; there is nothing you can't fuck. What did you expect? You gain increased charisma, fertility and talent in the carnal arts. Changer abilities are easier to use and cost less energy to use and maintain. ...Oh, and your lightning-based abilities are stronger too.

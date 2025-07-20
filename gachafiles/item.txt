@@ -19,7 +19,7 @@
 10. Master Key, 5.2
 #Allows you to open any physical lock and even barriers and wards by inserting the key and twisting it.
 11. Spear of Longinus X, 5.5
-#Evangelion - A large red spear that adjusts size according to its user and changes its shape according to their needs, this spear can tear through even the strongest of barriers.  
+#Evangelion - A large red spear that adjusts size according to its user and changes its shape according to their needs, this spear can tear through even the strongest of barriers. When stabbed into the body of a god it will lock down their soul and render them paralyzed until it is removed.
 12. Invisible Air, 4.0
 #Fate Artoria - Barrier of the wind king is a barrier made of several layers of extremely compressed air that the user can control at will
 13. Gae Buidhe, 4.2
@@ -222,7 +222,7 @@
 #A can of Febreze that can spray infinitely. From Walmart.
 113. Meeseeks Box,4.5
 #Rick and Morty - A box with a button that when pressed summons a very competent humanoid called Mr. Meeseeks that will obey your order to the best of their capabilities and disappear afterward. Warning, giving Meeseeks a mission they cannot complete or will take more than 7 days to complete will cause them to get hostile and violent.
-114. The Monster Girl Encyclopedia,3.3
+114. Monstergirls and You,3.3
 #A book about monster girls, but its real use is to turn any monster it touches into female versions that the user would find attractive, the strength and abilities of the target are not altered in any way and the target views this change as natural and will not question it. 
 115. Magic Scroll Blizzard,1.7
 #A magical scroll that when invoked calls on a fierce 1km wide blizzard centered on the user that does not affect them that lasts for 30 minutes. Restock Timer: 8 hours 
@@ -787,7 +787,7 @@
 393. Sandevistan,4.6
 #(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
 394. Omni Phone,3.3
-#A mobile phone that has everything you need, being able to connect to a network regardless of size, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
+#A mobile phone that has everything you need, being able to connect to a network regardless of distance, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
 395.Ender Pearl,3.2
 #Minecraft - A round crystalline pearl containing spatial energies, when thrown by someone, it teleports them to wherever the pearl breaks on. Restock Timer: 8 Hours
 396.Character Card Wolverine,5.0
@@ -818,8 +818,8 @@
 #Calamity Mod - A mystical bow made from the essence of the frozen castle that turns any arrow nocked to its string into one made of freezing mist which scales with the power of its wielder.
 409.Lunarian Bow,3.6
 #Calamity Mod - A bow crafted from the elements of the natural world, the user is capable of converting their own energy into energy arrows to shoot out of the bow with.
-410.Pheonix Feather,6.0
-#Black Souls - "Enraged by the haughty bird, god picked its wings clean" placing this feather on top of a corpse whose soul still exists and is not above legendary rank will revive them in exchange for burning the feather. Restock Timer: 720 hours
+410.Pheonix Feather,6.6
+#Black Souls - "Enraged by the haughty bird, god picked its wings clean" placing this feather on top of a corpse whose soul still exists and is not prevented from being resurrected by a legendary rank effect or above will revive them in exchange for burning the feather. Restock Timer: 720 hours
 411.Grimm Pool,4.7
 #RWBY - A large jar containing evil black goop that summons lesser Grimm once it lands on a stable surface. The summoned lesser Grimm are loyal to you.
 412.The Stand Arrow,5.1
@@ -967,5 +967,86 @@
 483.ASTER Augmentation Ticket,3.6
 #(Tech)Halo - A ticket that when ripped, sends the user into a dimension with highly advanced robotic doctors and surgeons who will perform the ASTER procedure on you in order to turn you into a Spartan. This procedure is perfected and will not cause failure regardless of the target's age or condition. This procedure gives a more durable skeleton, enhanced musculature, visual acuity and reflexes with enhanced mental clarity.
 484.MJOLNIR Powered Assult Armor IV,4.0
-#Halo - An advanced Power Armor designed for Superhumans. This high-tech suit is incredibly flexible, not hindering the user's mobility while enhancing their physical capabilities, providing excellent protection against harm and terrain. It is also equipped with basic AI to manage the suits features as well as HUD.
- 
+#(Tech)Halo - An advanced Power Armor designed for Superhumans. This high-tech suit is incredibly flexible, not hindering the user's mobility while enhancing their physical capabilities, providing excellent protection against harm and terrain. It is also equipped with basic AI to manage the suits features as well as HUD.
+485.Ultimate Nullifier,9.8
+#(Tech)Marvel - The Ultimate Weapon, the Ultimate Nullifier is capable of destroying anything, from universes to small targets to even timelines, granted the user is capable of wielding its power without perishing.
+486.Infinity Gauntlet,9.9
+#Marvel - The Infinity Gauntlet of the Mad Titan containing all of the Infinity Stones inside, allowing the user to wield their power as long as they can handle its nigh-unlimited power. The gauntlet is perfected and will be able to withstand the power of all of the stones without problem.
+486.Space Stone,7.8
+#Marvel - One of the infinity stones possessing the power to change the very universe. The Space Stone allows the user to manipulate space, open portals, siphon energy from space itself and many other abilities one can utilise with the ability to control space. But a strong user is needed to bring out its power without devastating consequences.
+487.Chaos Card,7.0
+#Binding of Isaac - A simple-looking card that coins unknowable power. Throw this card at a target, and that target will perish instantly unless they are immortal as long as the card makes contact. Once the card kills a target, it is rendered completely inert and unusable.
+488.Ring of the Shooting Star,7.3
+#Overlord - A Ring that contains 3 uses of the spell Wish. By invoking a wish you can use the effect of any ability of Mythical tier or below once like using Law of Regression to cure someone, Invoke Genesis etc. 
+489.Sukuna's Finger,3.0
+#Jujutsu Kaisen - A finger contained 1/20th of the King of Curses, Ryomen Sukuna. It contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat him fragment and consume the power of said fragment.
+490.Sukuna's Fingers,5.1
+#Jujutsu Kaisen - All 20 fingers of King of Curses, Ryomen Sukuna that each contain 1/20th of his power. Each finger contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat him fragment and consume the power of said fragment.
+491.Eye of Agamotto,8.8
+#Marvel - The Eye of Agamotto contains the Time Stone, one of the 6 Infinity Stones. The Eye of Agamotto allows the user to manipulate the time as long as they can harness its power correctly, allowing them to stop time, time travel, set up time loops and much more. The more power they exert with the stone, the more of a backlash they will face that can even kill them.
+492.Power Stone,8.0
+#Marvel - The Power Stone is one of the 6 Infinity Stones, one of the most powerful artefacts. The Power Stone allows the user to wield its immense destructive power, whether to empower their body, empower a weapon, or direct its power as blasts and projections. The stone can allow one to shatter even planets when used correctly, but few can withstand its full power.
+493.Soul Stone,8.1
+#Marvel - One of the Infinity Stones, some of the most powerful artefacts in existence. The Soul Stone allows the user to control souls, bestow life and even resurrect people with it as long as you are capable of handling the power of the stone. 
+494.Shadow Perfume,1.5
+#A bottle of pitch black cologne that, when applied, erases all scent from the user and muffles their movements to an extent for 1 hour.
+495.Ring of Suppression,2.5
+#A smooth black nondescript ring that completely erases your energy signatures as long as you aren't actively using abilities or spells.
+496.Neuralyzer,3.8
+#(Tech)Men in Black -  Otherwise called electro bio-mechanical neural transmitting zero synapse repositioner, that allows the user to flash a target with the flash of the device to erase certain memories and put them in a suggeestible state. How many memories are deleted and other stuff can be configured on the device. Strong-willed targets or opponents more powerful than you may be able to resist the effects.
+497.Jarate Training Kit,0.8
+#Team Fortress 2 - "Comes with an infinite supply of kidney enlarging pills." This training manual describes how one can effectively utilize their piss in combat by training themselves with kidney enlarging pills.
+498.1 UP,6.1
+#Mario - a Green, odd-looking mushroom that, when consumed, will grant the user an extra life, where they will instantly return to life upon the moment of their death at maximum health.
+499.Portal Gun,3.4
+#(Tech)Portal - A Portal Gun developed by Aperture Science that allows it to send a blue and orange pulse, wherever the pulse lands, will open a person-sized portal that connects to the other portal of the opposite colour. Only one of each colour can exist at once.
+500.Gordon's Crowbar,1.4
+#Half Life - A crowbar that once belonged to the legendary Gordon Freeman. It has spilt innumerable alien blood, making it deal conceptually more damage to all inhuman enemies.
+501.Stamin Up,1.8
+#Call of Duty - "For when you are going at it long and fast" A special kind of Soda that, when drunk, slightly enhances your agility and stamina for the duration of 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+502.Deadshot Daiquiri,2.2
+#Call of Duty - "I'm not even gonna try and spell that." Upon drinking whatever this is called, you temporarily receive increased proficiency and accuracy with all ranged weapons and projectile-based abilities for 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+503.Vulture's Aid,2.4
+#Call of Duty - "Like a scavenging Vulture" Upon drinking the Vulture's Aid you will be granted treasure sight that allows you to see outlines of treasures and objects of interest through walls. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+504.Melee Macchiato,2.7
+#Call of Duty - "This really 'packs a punch' badum tss!" Upon drinking Melee Macchiato, you will be granted temporary enhanced strength and melee skills for 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+505.Juggernog,2.5
+#Call of Duty - "Reach for me, Jugger Girl. Oorah." Upon drinking the Juggernog, you will be granted temporary enhanced Vitality and Resilience for 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours.
+506.Speed Cola,1.7
+#Call of Duty - "Crazy Sugar High" Upon drinking Speed Cola, you will be granted temporary enhanced Dexterity for 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+507.Death Perception,2.0
+#Call of Duty - "You can't escape death" Upon drinking Death Perception, you will be granted temporary reaper's gaze, allowing you to see the outlines of enemies through walls and through any obstruction for 1 hour. Effects apply after finishing an entire can and do not stack by drinking more than 1 can. Warning: Drinking more than 3 different buff drinks at once will cause intense haemorrhaging, strokes, and heart attacks. Restock Timer: 24 Hours
+508.Bonk!,3.4
+#Team Fortress 2 - Drinking Bonk! Grants you extremely increased reflexes and slows down your perception of time massively for 8 seconds, allowing you to dodge almost all attacks headed your way. But after the 8 seconds are up, you will be rendered exhausted. And you will need to survive the extreme sugar and radiation of this drink. Restock Timer: 72 hours
+509.Homerun,2.0
+#An inordinately durable baseball that has vastly increased knockback when it hits an object or target, as it imbues them with increased velocity at the moment of contact.
+510.Deeds' Bell,2.8
+#SCP-662 - A silver ornate bell that, when rung, summons a supernatural butler named Mr. Deeds that can fullfill any one task that can be done by a butler of varying levels of skill such as doing laundry, killing someone, making a sandwitch(Does not need ingredients), do your taxes or give you a bar of gold(Does not need access to gold to do so.). If Deeds cannot accomplish a task, he will inform you so and ask you to pick an alternative. Cooldown: 12 Hours
+511.Sling Ring,7.0
+#Marvel - The Sling Ring is a mystical ring that allows its user to open Interdimensional portals, allowing them to travel even across the multiverse by visualising where they want to go and opening a portal to there. But magical training is needed to make full use of the ring's abilities.
+512.Psychic Paper,1.6
+#Doctor Who - A piece of psychic paper that causes those who look at it to see what they expect or want to see on the paper, such as identification papers, IDs, permits etc. Does not work on exceptionally strong beings or geniuses that may notice the difference.
+513.Holy Grail,6.8
+#Fate - The Holy Grail is a mass of incredible amounts of raw magical power in the shape of a chalice. The Chalice can either be used as an immense source of mana or be used to grant the user's wishes as long as they can be achieved through the effects of magic below Legendary Tier. Restock Timer: 720 Hours
+514.Warhammer 40k,2.0
+#40,000 regular quality standard Iron Warhammers, you can take out one at a time from your system storage. What did you think it was?
+515.Demon Blood Blade,2.0
+#Adventure Time - A tough and sharp blade created out of the blood of a demon, created by said demon, Kee-Oth. The blade in Unholy in nature, dealing increased damage against Angelic and Holy beings and being able to damage spiritual creatures. If one is a Hemokinetic, they may be able to utilise the blade further.
+516.Moondrip,4.5
+#Fairy Tail - A powerful potion that was created by accumulating the power of the moon and condensing it over a long period of time into a potion. Emptying this bottle completely on a spell will dispel as long as it is elite level or below in effect. If drunk, it will cleanse magic effects from the user on the same level. Restock Timer: 24 Hours
+517.God Emperor's Blade,5.8
+#Warhammer 40k - One of the most powerful weapons created personally by the God Emperor of Mankind out of mastery over Science and Warpcraft. This weapon is the Anathema of all Demon or Infernal aligned beings, vaporising all but the strongest infernals(Legendary and above) with a single graze. This blade is covered by Psyker flames that can be used to emit attacks and empower the power of your own pyrokinetic abilities. The blade may still contain a part of the Emperor's essence.
+518.Salt,0.1
+#A handful of salt distilled from the tears of failed rolls.
+519.Snake's Box,2.0
+#Metal Gear Solid - A very unassuming cardboard box, so unassuming in fact that anything inside the box or covered by it gets its presence completely suppressed, not leaking off any energy or aura. If the box is destroyed, it will return to item space in an hour in pristine condition.
+520.Blades of Chaos,6.8
+#God of War - The Blades of Chaos, weapons of Ares, forged by Hepheastus in the furnace of Hades. Whoever is bound to these blades gains immense physical might and unnatural anger of war. The blades can absorb the lifeforce of those whom they claims the lives of and imbues it to the wielder to further strengthen them. They can absorb and use power sources imbued into them. You get the blades from the first moment they were created. The blades also empower fire attributes when using them.
+521.Blade of Olympus,7.5
+#God of War - The Blades of Olympus, forged from the Heavens, the Seas, the Afterlife and the Earth. The most powerful weapon of the Olympus gods is strong enough to shatter even the titans with a single swing. The blade contains divine might and can create Divine Energy projections and amplify all Divine Attributes of the user, as well as enhancing all items and abilities in their possession related to the Divine.
+522.Leviathan Axe,5.0
+#God of War - The Leviathan Axe is the peer of Mjolnir, being an unbreakable, sharp axe imbued with numerous runes. The Axe allows the user to project an aura of frost from it that they can shape into attacks. The axe also greatly augments the power of Ice/Frost attributes when held. The runes on the axe also allow it to return to the user's hand when thrown.
+523.Draupnir Spear,4.6
+#God of War - A spear forged for Kratos himself, imbued with the winds of all realms. The spear is actually a ring worn on the finger that can manifest up to 8 spears at once. Holding a spear allows you to project your energy as wind and boosts the power of your wind attribute. You can also explode the summoned spears at any time into an explosion of wind.
+524.Canto,3.3
+#(Tech)Cyberpunk - The Canto is a legendary Cyberdeck considered a myth by many. This implant functions as a very powerful computer connected to your brain, allowing you to interface with and easily hack even the toughest networks, thanks to the sentient Super AI loaded inside helping you with your endeavours. Manifests as a ticket that installs itself in your body when you rip it.

@@ -343,7 +343,7 @@
 172. Electromagnetic Sight,2.2
 #Allows the user to change their vision to be able to see electromagnetism and electricity even through walls as well as being able to instinctively distinguish between and understand them.
 173. Electricity,4.0
-#Unordinary - Allows the user to create and control electricity(not kinesis) as well as use it to enhance their own stats, they can also sense and see nearby currents even through walls, and they can also ground opponent lightning with their own body.
+#Unordinary - Allows the user to create and control electricity(not kinesis) as well as use it to slightly enhance their own stats, they can also sense and see nearby currents even through walls, and they can also ground opponent lightning with their own body.
 174. Lightning Conduit,5.5
 #Infamous - Allows the user to absorb lightning to harness its powers, does not consume mana but instead absorbed electricity reserves, and allows the user to turn into, manipulate and generate electricity by expending their reserves.
 175. Lightning Claws,2.6
@@ -686,7 +686,7 @@
 #Tokyo Ghoul - Allows you to manifest a tail-like biological appendage made of special RC Cells that allows it to freely go from fluid-like water to tough as steel. The Bikaku forms the shape of a tail at the location of the tailbone and is capable of defending, whipping, and piercing as a giant super flesh tail would.
 344.Kakuja,5.0
 #Tokyo Ghoul - Allows you to manifest an armour-like biological appendage made of special RC Cells that allows it to freely go from fluid-like water to tough as steel. The Kakuja forms an armour around the user that massively boosts their stats, the shape of the Kakuja and its abilities are dependant on the user, it can go from building-sized wings to 16 pillar-thick tentacles tougher than titanium and faster than bullets.
-345.Ghoul Physiology,4.1
+345.Ghoul Physiology,4.7
 #Tokyo Ghoul - Allows the user to transform themselves into a ghoul, a flesh-eating superhuman creature with a special limb made up of Special RC Cells. In general, Ghouls are mostly immune to conventional weapons below 9mm, as a ghoul you get a random Kagune out of the 4 types. But this form also comes with a ravenous hunger for human flesh and the inability to consume any other food. Even if you turn off the form, if you got hungry in the form you still have to consume human flesh even after turning it off. But consuming human flesh also makes you slightly stronger.
 346.Hybrid Ghould Physiology,5.5
 #Tokyo Ghoul - Allows the user to transform themselves into a hybrid ghoul, they are much stronger than the average ghoul with none of the weaknesses. As a hybrid ghoul, your physical attributes are massively amplified, including a very powerful regeneration factor alongside a random Kagune. You also do not need to consume human flesh to survive but get the benefits you would otherwise get for consuming it.
@@ -990,8 +990,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to steal ALL possessions of a target within a 5-meter range, everything on their body that is not magically or physically bound enters a subspace inventory you have. You can narrow the range of the ability to steal specific targets more easily.
 496.Record,2.7
 #Trash Count - Allows you to record your sight into your mind, recorded information is engraved in memory even better than photographic memory as you can recall it in absolutely perfect detail at any time as if yo are actively thinking about it all the time.
-497.(Nsfw)Arousal,3.6
-#Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
+497.Arousal,3.6
+#(Nsfw)Allows you to make targets in your vision aroused or make them climax with enough arousal. The stronger the target the more energy has to be spent and if they are significantly stronger than you they will be able to notice your attempts.
 498.Audacity,4.6
 #Allows you to go unnoticed by people, they try to ignore you to the best of their ability, you can pick the lock to someone's house, grab their wallet while they are having dinner, kill their wife and leave without them even commenting on it. Stronger targets are less affected by this and will notice actions that are drastic, this ability consumes energy and stamina to keep active.
 499.Mind Reading,4.5
@@ -1045,7 +1045,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 523.Master of Arms,3.6
 #Whatever weapon you are holding, you get a temporary intermediate mastery for it for as long as you hold onto it.
 524.Atlas,5.9
-#"The Giant held up the very skies" grants you immense super strength, strong enough to carve mountains and move cities with your bare hands. You can also release shockwaves with your power. Consumes energy when active.
+#"The Giant held up the very skies" grants you immense super strength, strong enough to carve mountains and move cities with your bare hands as long you expend enough energy. You can also release shockwaves with your power. Consumes energy when active.
 525.Star Toss,8.0
 #The ultimate strength, you can pluck the stars from the sky and shatter planets. Your strength is immeasurable, you can augment strength without limits.
 526.Extreme Speed,6.0
@@ -1198,8 +1198,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #One Piece - Allows you to transform into a cow or a cow hybrid at will, boosting your physical abilities and augmenting your vitality and stamina. You also inherit the traits a cow possesses while in this form.
 600.Sea Snake Form,5.8
 #Allows you to transform into a sea snake or a sea snake hybrid at will, largely boosting your physical abilities and giving you minor regeneration as well as water breathing and mobility. You can also unleash a lethal poison breath.
-601.(Nsfw)Tantric Healing,3.3
-#Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
+601.Tantric Healing,3.3
+#(Nsfw)Allows you to heal ailments and various negative status effects through sexual intimacy, even scars, old wounds, and diseases can be healed and curses mitigated. The higher the level of intimacy and release the more effective the healing.
 602.Assembly,4.3
 #Allows you to automatically assemble any parts you have access to into any item you have created or built with your own hands before or know how it's made. You can also create lesser versions of the items if the materials you have are subpar.
 603.Pearl Jam,3.9
@@ -1319,7 +1319,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 660.Dark Orb,2.8
 #Allows you to conjure an orb out of dark energy that you can hurl at your enemies as a projectile.
 661.Internet Access,3.6
-#You can access the internet of your local world through your mind and instantly look up any information inside it through it.
+#(Tech)You can access the internet of your local world through your mind and instantly look up any information inside it through it.
 662.Frisk,1.7
 #Allows you to know the full inventory of a target you are looking at, what they are wearing, and what's on their body as well as a quick summary of their inventory.
 663.Ripen,1.2
@@ -1384,7 +1384,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Allows you to build technological constructs or contraptions related to personal computers, allowing you to build stuff like small supercomputers, etc.
 693. Tinker - Games,2.3
 #(Tech)Allows you to build technological constructs or contraptions related to games or entertainment programs. You are over 100 times more efficient than the average experienced full development team when it comes to making games and entertainment programs.
-694. Tinker - Dreadon,8.6
+694. Tinker - Dreadon,8.3
 #(Tech)Allows you to build technological constructs or contraptions emulating the technology of Dreadon from Calamity Mod
 695. Tinker - Sensors,4.8
 #(Tech)Allows you to build technological constructs or contraptions related to sensors, sensing, and tracking like radars, sonars, magic sensors, trackers, etc.
@@ -1403,7 +1403,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 702.Dark Hand,3.7
 #Dark Souls - This allows you to drain the lifeforce of the people you grab to add it to your own, the opponent must not be able to resist, in addition, you can cover your hand in dark hand to deal more damage or spread it out like a medium-sized shield.
 703.Polymerization,4.3
-#Allows you to temporarily fuse your familiars together or with yourself.
+#Allows you to temporarily fuse your familiars together or with yourself. The stronger familiars you fuse together with yourself or between them, the higher the energy cost. Keeping two entities fused together drain energy over time.
 704.Viltrumite Physiology,7.1
 #Invincible - You are basically a pure-blooded viltrumite, which means insane durability, the ability to freely move through space to fly, incredible physical abilities, enhanced sensory abilities, and a very adaptable body.
 705.Kryptonian Physiology,8.8
@@ -1494,8 +1494,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Allows you to talk to people while they are sleeping to influence them like making them dream of what you want or influencing their opinions like hypnosis.
 748. Probability Estimation,6.8
 #Worm Dinah - Allows you to view probabilities of whatever outcome you question, like the chance of you dying tomorrow, or the chance of finding what you want in a particular place. This ability is always accurate except for when dealing with matters related to blind spots.
-749. Cat Form,2.1
-#Allows you to turn into a cat or a cat hybrid at will, granting you night vision, improved balance, and agility as well as any other trait the average mundane house cat would have.
+749. Adhesion,1.9
+#You can turn your skin incredibly sticky, sticky enough that you could stick to walls or prevent ordinary people from pulling away from you. You do not feel the difference and can control which parts are sticky.
 750. Lion Form,3.6
 #Allows you to turn into a proud lion or a hybrid at will, granting you enhanced physical ability, a paralyzing roar, and natural weapons. Any mundane animal you meet will defer to you as the king of the animal kingdom as long as you don't harm them.
 751. Fake Weapon,0.7
@@ -1881,8 +1881,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 942. No Guard,3.8
 #"Offence is the best defence" All of your physical stats except durability is increased proportionally to how much you lower your defence. You can drop your durability all the way down to -500% to get your strength up to  +500%.
 943. Battle Growth,5.3
-#You an eternal engine for battle, you grow in power every time you fight.
-The harder a battle is, the stronger and faster you grow in the middle of it, allowing you to adapt and surpass your opponent. This growth is permanent. 
+#You an eternal engine for battle, you grow in power every time you fight.The harder a battle is, the stronger and faster you grow in the middle of it, allowing you to adapt and surpass your opponent. This growth is permanent. 
 944. Blood Portals,3.6
 #Allows you to create portals by sacrificing your own health, creating a two-way portal costs 10% of your maximum health. As long these portals remain open, you lose access to 10% of your maximum health that cannot heal as long as the portal remains open.
 945. Shadowverse,6.6
@@ -1916,7 +1915,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 958.Creation,6.2
 #You can create objects and matter through your magical energy as long you remember how to make them, this can range from creating a phone, creating a bar of gold, or even creating a magical sword provided you know how to make one. The higher the mass and the more magical an object you create, the more energy you need to expend.
 959.Diamond Draw,5.5
-#Allows you to temporarily summon an item from the Diamond Item Gacha that lasts for 1 hour before disappearing. The item given is random as the user is given a temporary ticket to roll. This ability starts its 8-hour cooldown the moment it is used. If the item pulled is an elixir, the effects of the Elixir are made temporary.
+#Allows you to temporarily summon an item from the Diamond Item Gacha that lasts for 1 hour before disappearing(You roll the gacha). The item given is random as the user is given a temporary ticket to roll. This ability starts its 8-hour cooldown the moment it is used. If the item pulled is an elixir, the effects of the Elixir are made temporary. 2 hour cooldown.
 960.Chainsaw Man,6.8
 #Chainsaw Man - You are the Chainsaw Hybrid, by pulling on the ripcord on your chest you can turn into your hybrid form, replacing your head with that of a chainsaw and sprouting additional chainsaws on your arms, and even your legs if you choose to. While in Chainsaw Man Form you have enhanced physical stats and extreme regeneration fueled by blood. You are also immortal in your hybrid state, as long as your heart remains, pulling your ripcord will revive you.
 961.Bang!,4.6
@@ -2009,7 +2008,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #Naruto - All Killing Ash Bones allows the user to control their own skeleton and grow bone constructs out of their own body. They are able to reinforce these bones and if they manage to pierce the body of a living being they start deteriorating down to the molecular level until they die. The sure kill effect's potency is dependent on the power difference between the user and the target.
 1004.Prophecy,4.4
 #You are able to tell the future across a large timeframe as prophecies. Although they aren't very accurate, your prophecies can point you towards crucial information or important things. The vaguer the prophecy the less energy you require to tell it.
-1005.Future Sight,5.8
+1005.Future Observation,5.8
 #You are able to tell the future, across a short or longer span of time. The more seconds you look into the future, the more energy you expend. The future you see is the future that would have happened had you not used Future Sight. Overuse can cause temporary brain bleeding.
 1006.Future Reading,3.2
 #You can read the near future. Being able to tell what can happen in a small time frame that you can train to increase. The future you read is not absolute but very probable, the more knowledge you have about the situation, the more accurate your readings. 
@@ -2018,7 +2017,7 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 1008.Foresight,3.5
 #Yomi Hustle - Allows you to place a foresight, an afterimage of yourself in anywhere in your range of perception. At any moment you teleport to the location of this foresight but it disappears if you leave within 100 meters of it or leave it for more than 1 hour, it also dissipates when damaged. You can only create a single Foresight but you can increase that number by training.
 1009.Tinker PvZ,5.2
-#(Tech)Plants vs Zombies - Allows you to genetically engineer plants from Plants vs Zombies. Such as flowers that turn sunlight into energy, ones that punch people or breathe fire. The more powerful and esoteric a plant is the more resources you need to produce them.
+#Plants vs Zombies - Allows you to genetically engineer plants from Plants vs Zombies. Such as flowers that turn sunlight into energy, ones that punch people or breathe fire. The more powerful and esoteric a plant is the more resources you need to produce them.
 1010.Labyrinthian,7.1
 #You are the legendary minatour of myth. Your physical abilities are amplified to an inhuman level, especially your strength and endurance in addition to gaining the traits of a bull. In addition, you can turn any area you are in into a labyrinth, allowing you to shuffle all points of entry and exit in an era to lead to wherever you want. Even a future reader would get stuck for a hundred years in a forest.
 1011.Hyper,6.5
@@ -2065,5 +2064,77 @@ The harder a battle is, the stronger and faster you grow in the middle of it, al
 #You can disguise yourself as other people with your ability, but not just that, it will apply a normality effect on them that will actively convince others that you are that person even if you act out of character. The more out of character the more energy you consume and the effect will fade if the target is absolutely stronger than you or you act in ways that would directly compromise your identity. 
 1032.Sticky Icky,0.4
 #Your skin is uncomfortably sticky to other people, as if you were soaked in glue or soda but you won't feel the difference.
-1033.Adhesion,1.9
-#You can turn your skin incredibly sticky, sticky enough that you could stick to walls or prevent ordinary people from pulling away from you. You do not feel the difference and can control which parts are sticky.
+1033.Tinker - Hentai,2.6
+#(Tech)Tinker - Allows you to build technological constructs or items that are related to Sexual events, such as Aphrodisiacs, Sexual Instruments, Contraceptives, etc.
+1034.Shrine,6.1
+#JuJutsu Kaisen - The Cursed Technique of the Kind of Curses. Shrine allows you to use Cleave, Dismantle and Furnace. Dismantle allows you to send out flying invisible slashes of varying power, Cleave allows you to create more powerful instant slashes across a target by touching them, and Furnace allows you to manifest a powerful fire arrow that you can unleash. If you achieve enough mastery or receive enlightenment, you may even be able to unleash the Malevolent Shrine.
+1035.Imagine Breaker,6.5
+#Toaru - The Illusion Killer, Imagine Breaker is the ultimate negation tool. Being able to negate anything supernatural that couldn't possibly exist on base Earth. The Imagine Breaker dwells in your right hand but as it is so powerful, it also negates your own supernatural capabilities, such as abilities, magic etc. for as long as it is active(Note: This is only the base Imagine Breaker and does not contain the beings sealed inside) 
+1036.Sex Manipulation,1.0
+#(Nsfw) Allows you to alter your genitals to your liking as long as the changes are not absurd. Make your penis large, smaller, curved, horse shaped or just add another penis on top because why not? Get rid of your wiener, give yourself one if you never had one. Go wild, the possibilities are there.
+1037.Genderswap,1.8
+#Allows you to swap your gender and the genders of those who don't or can't resist your ability. The swapped gender version will usually be in a form that you yourself find attractive. You could also go halfway if need be.
+1038.Deception,3.1
+#Your words are imbued with the power of lies, making them sound more convincing or believable. The stronger a target is, the more energy will be consumed and the less efficient the ability will be. The more unbelievable your lie is, the less effective the ability is and the more energy it will consume.
+1039.Vainglory,6.4
+#You possess the ability of Vainglory, the ability to assert your own false truth. By expending your energy, you are able to convince people of your words, no matter how far-fetched, such as making them believe they were a bird. The larger the power difference between you and the target dictates the efficiency of the ability, the harder a lie to believe, the more energy you have to expend to assert it.
+1040.Golemancy,5.8
+#Golemancy allows you to animate the inanimate into golems under your control. You can create a golem out of any inanimate object you have access to. The power of the golem is dependent on the quality of the materials used and your own power level. Creating golems out of stronger materials consumes more energy, and the maximum amount of golems you can maintain under your control is dependent on your maximum energy(minimum 10); the stronger a golem, the more slots they take up.
+1041.Elemental Sublimation,5.2
+#Allows the user to turn their body into any basic element of their choosing while still retaining control over their body. Like turning into fire to burn someone, turning into lightning to travel through cables, wind to fly, etc. If any part of your mass is destroyed while in elemental form, the damage will be reflected back to you.
+1042.Video Travel,4.6
+#(Tech)Video Travel allows you to slip into screens of screens of devices and travel from them to other devices with a screen connected to the same network or wired together.
+1043.Luck Drain,5.2
+#Allows you to touch people to drain their luck and add it to your own temporarily. The more energy you expend and the longer the contact the more luck you can steal, the more luck you steal, the more the energy requirement scales exponentially. This luck is temporary and will fade over time, returning to the target it was stolen from.
+1044.Jinx,3.0
+#Jinx allows you to inflict a curse on targets that reduces their luck by touch, not to an extent that would harm them, but enough to disadvantage them. This effect can be somewhat increased by expending more energy and being stronger than the target. You can also unleash this ability as a moderate speed Hex projectile.
+1045.Misfortune,4.8
+#You can unleash an aura of misfortune from your body, reducing the luck of those close to you or direct it towards further targets by narrowing the range. The more energy you expend, the more powerful the luck reduction is, and the difference between you and the target's power dictates the effect of the aura on them.
+1046.Malus,6.2
+#"Directing the hatred of fate" You are able to inflict a target in your range of vision with Malus. When a target is marked by Malus, you are able to expend energy to reduce the outcomes of their actions. If this were DnD, you would be putting a negative modifier on the actions they take. The stronger of a malus you inflict on a target, the more energy you have to expend and the more exhausted you will be. Trying to put too big of a malus on too strong of a target can cause it to backfire.
+1047.Choosing Fate,8.5
+#You are able to see numerous possible futures that do not take into account your precognition. And you are able to enforce the future of your choice by expending energy. Out of the billions of possible futures from a slot machine, you can always pick the one where you get a jackpot. Or for your opponents, throw out the attacks and perform the actions that give you a better advantage. The more powerful a target and the more improbably a future you are altering the fate of, the larger the backlash you will incur and the more energy you have to expend. With enough energy you can even enforce an absolutely improbable future where your opponents attack tunnel effects through you.
+1048.United We Stand,4.6
+#Yugioh - For as long as United We Stand is active, you are able to select a familiar and add all of its physical stats onto your own. For each ability slot you are not using, you can choose another familiar to use the strength of.
+1049.Tinker - Minimisation,3.7
+#(Tech) Allows you to build, construct, and design contraptions or machines that are minimised and smaller versions of existing technology. Like creating a hyper compact nuclear reactor that can fit in an apartment, a building-sized supercomputer into a laptop, etc. Whatever technology exists, you can create a far smaller version of it without sacrificing quality and reducing energy consumption.
+1050.Tinker - Macro,4.1
+#(Tech) Allows you to build, construct, and design contraptions or machines that are scaled-up versions of existing technologies. You can create gigantic warplanes hundreds of meters long, create cannons that shoot out human-sized shells, a giant microwave death chamber, etc.
+1051.Tinker - Ecology,3.2
+#(Tech) Allows you to build, construct, and design contraptions or machines that deal with Nature, utilising, helping and benefiting from it. You can create Bio-Domes, incredibly efficient fertilisers, animal lures and foods, very efficient solar panels and geothermal reactors, terraforming equipment and much more.
+1052.Tinker - Energy,6.0
+#(Tech) Allows you to build, construct, and design contraptions or machines related to the production and use of energy. Such as hyper-efficient solar panels and wind farms, microfusions reactors, bio reactors, Hydro Reactors, and even arc reactors.
+1053.Tinker - Industrialisation,3.7
+#(Tech) Allows you to build, construct, and design contraptions or machines related to industrialisation. Such as creating factories, massive, efficient production lines, autonomous drone workers, assembly lines, anything you can build, you can create production lines and factories to do it for you more efficiently at a larger scale. 
+1054.Tinker - Augments,4.5
+#(Tech) Allows you to build, construct, and design contraptions or machines related to augmenting Biology and Physical Bodies. Such as subdermal armour, biomonitors, hormone regulators, bonding bone with metal, metal skeleton, reinforced tendons, stronger muscles etc.
+1055.Tinker - Nanomachines,6.1
+#(Tech) Allows you to build, construct, and design contraptions or machines related to Nanotechnology. Such as creating nanobots to perform operations and tasks at an impossibly small scale, like altering individual cells, creating nanomachines that harden in response to physical trauma, nanobots that can disrupt machines, nanocameras, nanomachine clothes etc.
+1056.Tinker - Dimensions,8.2
+#(Tech) Allows you to build, construct, and design contraptions or machines related to the manipulations of dimensions and dimensional operations. Such as pocket dimension generators, teleportation sealers, Dimensional Rams, Interdimensional Portals, unbreakable spatial barrier generators, drawing energy from neighbouring parallel dimensions and much more. Essentially the Kaleidescope through Science.
+1057.Tinker - Medicine,5.7
+#(Tech) Allows you to build, construct, and design contraptions or machines related to Medicines and the Production of them. Such as medicines that cure poisons and toxins, medicines that bolster health etc.
+1058.Tinker - Destruction,8.0
+#(Tech) Allows you to build, construct, and design contraptions or machines related to destruction and mass destruction. Such as Unstable Matter Rockets, Disintegration Cannons, Black Hole Generators, and Doomsday Devices in general. The constructions you create generally take inspiration from your abilities and traits.
+1059.Tinker - Mind,6.8
+#(Tech) Allows you to build, construct, and design contraptions or machines related to influencing and controlling minds. Such as mental suggestion music, neuralyzers, mind control helmets, mental reprogramming machines, etc.
+1060.Tinker - Time,7.9
+#(Tech) Allows you to build, construct, and design contraptions or machines related to messing with time. Grenades that age people to dust, time-dilated training rooms, time-stopping machines, statis barriers, FTL spacrafts via time dilation drives, etc. This speciality is a really expensive one.
+1061.Aid,1.3
+#You are capable of healing others and yourself by expending your energy, but not by a very substantial amount. You might be able to heal scratches, scrapes and bruises. Healing effectiveness is dependent on the power difference between you and the target.
+1062.Minor Cure,2.4
+#You are capable of healing others by expending your energy. You can heal things like stabs, slashes and broken bones, but more severe wounds take significantly more energy. Healing effectiveness is dependent on the power difference between you and the target.
+1063.Cure,3.5
+#You are capable of healing others and yourself by expending your energy. The scale of healing you perform is dependent on the amount of energy you expend; the more lethal a wound is, the greater amount of energy you need to expend. Healing effectiveness is dependent on the power difference between you and the target.
+1064.Greater Cure Wounds,4.4
+#You are capable of greatly healing others and yourself by expending your energy. The more energy you expend, the stronger a healing effect you can exert; the more severe a wound, the more energy your healing consumes, but you can heal even lethal wounds. Healing effectiveness is dependent on the power difference between you and the target.
+1065.Restoration,5.7
+#You are capable of healing yourself and others by expending your own energy and imbuing them with potent healing energies. The more energy you exert, the more potent the effect of your healing. Healing effectiveness is dependent on the power difference between you and the target.
+1066.Nightmare,5.6
+#"Reaper of Minds" You have offensive mind manipulation, you cannot subtly influence minds, if conventional telepathy is a scalpel, yours is a missile. You can send mind blasts to confuse opponents, damage their minds with a look, crush the minds of those weaker than you, and hijack their bodies to act against their minds or torment them with living nightmares. The less destructive purposes Nightmare is used for, the greater the energy cost is increased by. Effectiveness is dependent on the mental strength of the opponent and their power level relative to yours.
+1067.Cry,0.1
+#You are able to shed very salty tears at will.
+1068.Super Polymerisation,5.6
+#Yugioh - Allows you to temporarily fuse two living beings together to get a new entity with both of their abilities. Unwilling targets can resist the effect depending on their level of power. The stronger targets you fuse together with yourself or between them, the higher the energy cost. Keeping two entities fused together drains energy over time.
+1069.Greedy Healing,5.5
+#"Restoration, but at what cost?" Greedy Healing is an incredibly potent restoration ability, but instead of consuming Mana, it consumes wealth instead. The more wealth you give up to Greedy healing, the more potent the effect you will get. For a dollar, you would be pressed to recover a chipped nail, but with enough material wealth burnt, you can bring back even limbs and possibly even a life. The stronger a target you are affecting, and the larger the effect you want to enact, the more wealth you have to sacrifice in the form of wealth that belongs to you, such as gold coins, artefacts, items and or even people.(Infinite Money Glitch does not count as a valid sacrifice)
