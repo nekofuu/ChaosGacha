@@ -9,7 +9,7 @@
 5. Blind Eye,1.1
 #You just disappear in a crowd, as long as you shouldn't stand out you won't. 
 6. Whats monogamy,3.0
-#Women are very accepting of any delusions of harem or a woman loving you you might have. They tend not to question the logistics or logic of having multiple women as lovers.
+#Your potential partners are very accepting of any delusions of harem or a woman loving you you might have. They tend not to question the logistics or logic of having multiple people as lovers.
 7. Antibody,2.7
 #You are very resistant to most diseases.
 8. Longevity,4.5
@@ -33,9 +33,9 @@
 17. Energy Acceleration,4.4
 #All of your abilities and spells are way faster because your energy moves way faster than it should.
 18. Headpat,2.2
-#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do. This also helps dispel negative mental effects and build affection. 
+#You were born with hands made for patting the heads of all that is cute. Targets feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do. This also helps dispel negative mental effects and build affection. 
 19. Greater Headpat,3.5
-#You were born with hands made for patting the heads of cute girls. Girls feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do, maybe even arousal if they are kinky. This also helps dispel negative mental effects and build affection. Even the most frigid emo won't be able to fight the power of your palms. 
+#You were born with hands made for patting the heads of all that is cute. Targets feel much more pleasure from you petting their heads, giving a comforting and comfortable feeling when you do, maybe even arousal if they are kinky. This also helps dispel negative mental effects and build affection. Even the most frigid emo won't be able to fight the power of your palms. 
 20. Efficient Cells,3.9
 #Your cells are supernaturally efficient at converting sustenance into energy, you regain your energy significantly faster.
 21. Protection From Arrows,4.2
@@ -64,10 +64,10 @@
 #You are skilled at the art of turning a wild animal into a domesticated one.
 33. Bitch Breaker,2.9
 #(Nsfw)Sometimes all a bad attitude needs is a good fucking, you are an expert at correcting attitudes through sex correction.
-34. Sunshine Boy,2.4
-#You exude a vibe of goodness and purity, good-aligned beings like you more.
-35. Bad Boy Charm,2.4
-#You have that raw bad boy edge, you are an object of affection for emo's and edgy people.
+34. Sunshine Charm,2.4
+#You exude a vibe of goodness and purity, good-aligned beings like you more. It is easier to convince that you are doing good.
+35. Bad Boy/girl Charm,2.4
+#You have that raw bad boy/girl edge, you are an object of affection for emo's and edgy people. Rudeness may come across as cool more often.
 36. I know a guy,5.0
 #Your car broke down? You know a guy. Your friend is sealed in a rune array? You know a guy. Once every 30 days you can retroactively rewrite reality to have known a person that can help you with your current situation.
 37. Serene Grace,3.4
@@ -94,7 +94,7 @@
 #All animals naturally adore you and are friendly toward you, even supernatural animals quickly take a liking to you.
 48. Sartorial Savant,2.8
 #Your clothes are, for some reason, always clean and tidy, even your wardrobe, and small damages seem to even mend themselves.
-49. Quantum Disentaglement,4.6
+49. Quantum Disentanglement,4.6
 #You are an anomaly, whenever you are bound or restrained you somehow find yourself untangled.
 50. Linguist,2.3
 #You are able to understand all mundane languages and are very good at learning non-mundane ones too.
@@ -189,7 +189,7 @@
 95. Lady Killer,2.8
 #You are a natural lady killer, women always find you at least a little attractive regardless of their preferences, and a decent chunk of women would consider you handsome.
 96. Charming Smile,1.3
-#Your smile is really charming, helping people feel more at ease and comfortable with you. Or more attractive to women.
+#Your smile is really charming, helping people feel more at ease and comfortable with you. Or more attractive to your preffered partners.
 97. Minty Breath,0.2
 #No more bad breath, your breath always smells fresh and minty regardless of what you ate beforehand.
 98. Loveable Pervert,2.2
@@ -215,13 +215,13 @@
 108. Smell the Magic,3.4
 #You can smell magic and mysticism. You can decipher the scents of people to learn more about them from their magic. A necromancer might have the stench of death and decay on them. Ice magicians may smell like crisp winter air. Etc.
 109. One Size Fits All,1.0
-#Girls no longer feel any discomfort with your physical features, this extends to your phallus somehow fitting inside of them even if it reaches ludicrous sizes.
+#(Nsfw)Your partners no longer feel any discomfort with your physical features, this extends to your phallus somehow fitting inside of them even if it reaches ludicrous sizes.
 110. Salt Detection,0.1
 #You can tell where salt is, only salt is ready for human consumption.
 111. Commander,3.6
 #You are a commander, you are better at exerting your authority and receiving obedience from your subordinates. In addition, you are better at organizing, managing, and commanding personnel as well as managing their morale.
 112. Healing... Fluids, 3.7
-#Your sweat, saliva, and semen heal, yes, it is very awkward but the effects cannot be denied. The effect scales with your physical stats. It is not incredibly potent but it is healing, someone can lick the sweat off your abs to heal themselves. 
+#Your sweat, saliva, and cum heal, yes, it is very awkward but the effects cannot be denied. The effect scales with your physical stats. It is not incredibly potent but it is healing, someone can lick the sweat off your abs to heal themselves. 
 113. Blessed Child,3.5
 #Gods really favor you, it's easier to garner favor and affection from divine beings. Blessing-type abilities are slightly stronger. 
 114. Undeniable,3.9
@@ -260,8 +260,8 @@
 #You are a friend to all cats kind. All felines and feline-related beings are more favorable towards you and it is easier to earn their affection. In addition, you are inordinarily flexible.
 131. Sexual Calibration,2.3
 #(Nsfw)All of the minor inconveniences sex once had are now gone, forget about STDs, hygiene precautions, or unwanted pregnancies because you can adjust how all of those interact with you. In addition, you are very talented in the tantric arts.
-132. Golden Shot,1.2
-#Your little swimmers are the strongest in the world, any woman you cum inside of WILL get pregnant, even if they are more barren than the arid desserts your semen does not care.
+132. Golden Shot,1.3
+#Your little swimmers are the strongest in the world, any woman you cum inside of WILL get pregnant, even if they are more barren than the arid desserts your semen does not care. (If you didn't have the right equipment before, you will now if you choose to. If not, reroll this this trait.)
 133. Ygdar Orus Li Ox,4.9
 #"You only live once" At the moment of your death, you are resuscitated and revived with all of your lethal wounds healed and some of your energy restored, once Ygdar Orus Li Ox is triggered this trait is deleted from your status.
 134. Hero Candidate,3.3
@@ -269,12 +269,12 @@
 135. Demon Scion,3.6
 #You are a Demon Lord to be, whether you are fit to take the title is to be seen, all Darkness and Unholy abilities are slightly enhanced but at the same time you are more vulnerable to holy and light abilities.
 136. Goth Magnet,2.4
-#Goths and emos are drawn to you for some reason, making it easier for you to garner affection and favor from goths or girls with daddy issues. In addition, people turn a blind eye to your less-than-favorable actions more easily, just like how those fathers turned a blind eye to their daughters.
+#Goths and emos are drawn to you for some reason, making it easier for you to garner affection and favor from goths or those with daddy issues. In addition, people turn a blind eye to your less-than-favorable actions more easily, just like how those fathers turned a blind eye to their daughters.
 137. Background NPC,2.6
 #You fade into the background really easily, unless you do something to draw attention to yourself people overlook you very often and it becomes very hard to notice you. Does not work on people who are looking for you or are aware that you specifically are there. Stranger class abilities are slightly more potent.
 138. Untraceable,3.8
 #You are very hard to track, cameras mysteriously stop recording when you step into the frame, your footprints get covered by the natural elements, and normal people just cannot remember which way you went when someone asks them. Very good for a serial killer or a paranoid.
-139. Golden Boy,5.7
+139. Golden Goose,5.7
 #People want you on their side and they will dote on you to make sure you don't defect from their side, if you are in an organization your higher-ups like you way easier and they will try to accommodate you. If the king or queen meets you they will probably also take a liking to you.
 140. Ex Nihilo,5.3
 #Your emitter abilities produce actual matter now, not just energy constructs but permanent new matter in the universe, trying to study how this works is sure to cause an aneurysm.
@@ -323,7 +323,7 @@
 162. Ice Monarch,7.2
 #You are the Ice Monarch, the ruler of all that is ice. You are massively resistant to all elemental effects, for every element that comes in contact with you freezes. All ice and frost-related abilities below Mythical Tier are increased by rank and cost less energy to use. All ice and frost-aligned beings instinctively recognize you as the monarch. You are immune to ice and cold-based abilities.
 163. Fire Monarch,7.3
-#You are the Ice Monarch, the ruler of all that is Fire and Plasma. Your energy is massively enhanced, as your soul is an eternal reactor. All Fire and Plasma-related abilities below Mythical Tier are increased by one rank and cost less energy to use. All fire and heat-aligned beings instinctively recognize you as the monarch. You are immune to  Fire and Plasma-based abilities.
+#You are the fire Monarch, the ruler of all that is Fire and Plasma. Your energy is massively enhanced, as your soul is an eternal reactor. All Fire and Plasma-related abilities below Mythical Tier are increased by one rank and cost less energy to use. All fire and heat-aligned beings instinctively recognize you as the monarch. You are immune to  Fire and Plasma-based abilities.
 164. Earth Monarch,7.4
 #You are the Earth Monarch, the ruler of all that is Earth. Your durability is massively enhanced, you are as immovable as the earth. All Earth and Metal-related abilities below Mythical Tier are increased by one rank and cost less energy to use. All earth-aligned beings instinctively recognize you as the monarch. You are immune to earth and metal-based abilities.
 165. Sea Monarch,7.1
@@ -455,15 +455,15 @@
 228. Your Majesty,4.6
 #You have the blood of royalty inside of you, you have more charisma than the average person and it is easier to assert yourself as a figure of authority in people's minds. If you are responsible for someone, they will view you with more respect and authority.
 229. Rivalry,3.3
-#Swordsmen and Martial Artists seem to be drawn to you, they want to test themselves against you and grow fond of you easier, especially if you manage to defeat them.
+#Swordsmen, Martial Artists and competitive people seem to be drawn to you; they want to test themselves against you and grow fond of you more easily, especially if you manage to defeat them. Martial skills grow  faster when engaging in combat.
 230. Demon God,8.1
 #You are the reincarnation of a Demon God, all Darkness and unholy abilities and magic are increased by a tier if they are below mythical level and cost less energy to use, all demonic and infernal beings recognize you as an absolute authority if they are weaker than you and even ones stronger than you recognize you for what you are. Your basic physical stats are massively increased and in addition, you can convert your energy directly into a darkness attribute like a Mana Burst.
 231. Wanted,4.8
 #People want you on their side or organization and they don't want you to leave, you are likely to be treated way better in any organization you sign up with and the rules would be way less strict on you, you are needed on their side after all. 
 232. Quest Marker,4.5
 #"Another settlement needs our help, I'll mark it on the map for you", whenever you get a quest or someone requests something you can summon an arrow that points you toward your objective.
-233. Handsome,2.6
-#You aren't physically more handsome of course, but women just find your face and figure more appealing to their tastes. If you were a 5/10 in their eyes before you are now a solid 7/10.
+233. Pretty Privilidge,2.6
+#You aren't physically more attractive of course, but others just find your face and figure more appealing to their tastes. If you were a 5/10 in their eyes before you are now a solid 7/10.
 234. Lese Majeste,3.2
 #Your chutzpah and boldness are perceived as more charming rather than irreverent or disrespectful by people in positions of power, in addition, people in power like nobles, bosses, royalty, etc. find themselves more attracted to you.
 235. Lovers,3.3
@@ -517,9 +517,9 @@
 259. Sensual Prescence,3.6
 #(Nsfw)You are a sensual kind of presence around you, it's not exactly too noticeable but people find themselves more attracted to and aroused by you. The longer they are exposed to your presence the higher the effects, but only works on people friendly to you.
 260. Harem Lord,2.7
-#You are an aspiring harem enthusiast. Women and society as a whole mind you having a harem a lot less, it still won't be easy building your harem of beauties but it will be a lot less of a hassle. 
+#You are an aspiring harem enthusiast. Potential partners and society as a whole mind you having a harem a lot less, it still won't be easy building your harem of beauties but it will be a lot less of a hassle. 
 261. Harem King,3.3
-#You are a harem king to be, women are more attracted to you and society as a whole does not see a problem with you having a harem. In addition, women do not mind you dating other girls either, they might still have their own problems but the concept of a harem isn't one of them.
+#You are a harem king to be, your preffered partners are more attracted to you and society as a whole does not see a problem with you having a harem. In addition, your partners do not mind you dating others either, they might still have their own problems but the concept of a harem isn't one of them.
 262. Camaraderie,3.1
 #You build affection, trust and respect with your teammates or allies much faster, especially if you fight alongside them, what better way to build affection after all than overcoming the threat of a violent demise? In addition, you are much better at working together with others.
 263. Trustable Face,2.7
@@ -597,7 +597,7 @@
 299. Blessing of Bast,2.7
 #You are blessed by the goddess Bast, the goddess of Cats and Grace. You have improved cat-like reflexes and agility as well as night vision. In addition, you are beloved by felines.
 300.Fertility Calibration,2.2
-#You can freely adjust your own fertility, being able to freely go from absolutely inert to being so fertile you can impregnate even someone completely infertile at will.
+#You can freely adjust your own fertility, being able to freely go from absolutely inert to being so fertile you can impregnate even someone completely infertile at will. Or depending on your parts, make yourself sterile or rival the Goat of a Thousand Young.
 301. Draw of Fate,3.3
 #Your fate is strong, things are not moderate for you, destiny curves in your direction like a main protagonist. You have plenty of luck, bad and good.
 302. Dealmaker,4.5
@@ -631,7 +631,7 @@
 316.Battery Saver,4.6
 #Whenever you have an ability slot you aren't using, the other abilities cost less energy. If you have 3 slots and only use one, the ability in the first slot is 3x cheaper.
 317.Rule 63,3.3
-#"Where Banana?" Reality across all of existence has been twisted, warped, retconned and remade to make some men women.
+#"Where Banana?" Reality across all of existence has been twisted, warped, retconned and remade to make some men women. Or women men.
 318.Monster Mater,2.8
 #(Nsfw)"I really shouldn't have sex with that, buuut-" The more monstrous a member of the opposite sex is, the more they are attracted to you. Only works on things you yourself would be attracted to.
 319.Musk,2.0
@@ -649,7 +649,7 @@
 325.Senju,6.0
 #Naruto - You are a direct descendant of Hashirama Senju, granting you greatly increased lifeforce and energy reserves as well as martial prowess. In addition, you possess a natural Wood Release and have increased Natura Affinity.
 326.Hanma,2.8
-#Baki - You are a Hanma, you are incredibly genetically gifted, possessing increased resistance to poisons and your physical stats grow way faster. In addition, you have so much testosterone in you, any other men may as well be a girl in comparison. Your talent in martial arts is also greatly increased.
+#Baki - You are a Hanma, you are incredibly genetically gifted, possessing increased resistance to poisons and your physical stats grow way faster. In addition, you have so much testosterone in you, any other men may as well be a girl in comparison. Your talent in martial arts is also greatly increased. If you are female the same effects apply without the testosterone, you are just a genetically gifted freak.
 327.Lesser Undead,2.5
 #Race - You are a lesser undead, once you get this trait you have to choose between being a zombie or a skeleton. As an undead, you have no stamina and instead consume energy for everything and get unique bonuses and demerits depending on the undead you end up as. Once a race trait is toggled it is permanent until contested.
 328.Greater Undead,3.8
@@ -814,7 +814,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Pyromancy, you are able to train yourself in the ways of creating fire from your mind and weaving it into great firestorms and attacks. (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Pyromancy_Discipline
 408.Psyker(Telekinesis),4.9
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Telekinesis, you are able to train yourself in the ways of manipulating space and the material world with your mind. (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Telekinesis_Discipline
-409.Psyker(Telephaty),5.1
+409.Psyker(Telephathy),5.1
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Telepathy, you are able to train yourself in the ways of binding the wills and minds of those around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Telepathy_Discipline
 410.Psyker(Divination),5.3
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Divination, you are able to train yourself in the ways of uncovering the past, present and future of the world around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Divination_Discipline
@@ -828,3 +828,13 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Your luck with your romantic life seems to be greatly increased. Remember to thank Cupid.
 415.Blessing of Zeus,3.7
 #(Nsfw)You are a child blessed by Zeus; there is nothing you can't fuck. What did you expect? You gain increased charisma, fertility and talent in the carnal arts. Changer abilities are easier to use and cost less energy to use and maintain. ...Oh, and your lightning-based abilities are stronger too.
+416.Infinity,9.1
+#You possess an infinite source of energy for every use, magical power, stamina, soul energy, whatever you need. In addition, your energy output is massively increased. Even a common rank fire ability could dwarf nuclear bombs ten times over.
+417.Absolute Victory,9.7
+#You will win, there is absolutely no way you won't. Reality passively eliminates outcomes where you fail to accomplish your objective. As long as you actively pursue your goal, you will succeed somehow. The degree of success may depend on your own abilities.
+418.Immortality,9.4
+#No rhetoric or any other outcome, you are immortal in every way that matters. You regenerate faster than the eye can see, even if the universe were to collapse into you, even if the One Above All tried to erase you, you would simply regenerate back, even from absolute nothingness. Perhaps you could even survive the Blind Idiot.
+419.Elemental Immunity,8.1
+#You are absolutely immune to all damage from attacks of natural elements such as Fire, Water, Earth, Wind, Light and Dark. Even a Supernova or an Absolute Zero won't even scuff your clothes. But physical attacks and unreal elements such as Space, Time, Raw Energy can get past your defences. 
+420.The Absorber,9.1
+#You are the absorber; your body and soul can absorb anything. Especially Energy. You would survive being dropped into the sun because your body could soak up all of the heat energy and convert it into your energy reserves. The speed and degree of absorption scale with your stats, but even as a base human, nothing short of a nuclear bomb could get past your basic absorption.

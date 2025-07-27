@@ -399,9 +399,9 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 200.Waterbending,4.6
 #Avatar - You are an apprentice Waterbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
 201.Airbending,4.9
-#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
+#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the air in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
 202.Earthbending,4.5
-#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
+#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the earth in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.
 203.Novice Performance,1.0
 #You know how to put in a performance. You are able to play all musical instruments enough to play basic songs, you can also sing decently, you can dance without tripping. You would fit right in with a high school band.
 204.Intermediate Performance,2.1
@@ -454,3 +454,7 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 #Bloodborne - You have mastered the Quickening Technique of the Old Hunters, allowing you to briefly dash forward with incredible speed while shrouding your form in arcane fog to obscure your movements. This can put quite a strain on the stamina and energy. 
 228.Edna Mode,3.8
 #Incredibles - You are not a simple fashionista baby, you are THE fashionista. You are a master of designing clothes and costumes; if someone needs a costume, they come to YOU. Your skill in creating costumes can be compared to a Tinker even because you are just THAT good.
+229.Salt Distillation,0.1
+#You are skilled at extracting salt from sources of water or tears.
+230.Prana Bindu,4.8
+#Dune - You are learned in the ways of Prana Bindu, allowing you to train in controlling your body beyond human levels. From controlling how your individual muscles move, to controlling individual strands and eventually, with enough training, controlling your very own nerves and bioelectrical signals.

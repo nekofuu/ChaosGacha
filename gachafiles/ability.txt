@@ -587,7 +587,7 @@
 294.Minor Blessing,2.6
 #Allows you or a target to receive a minor blessing that augments a chosen physical attribute for one hour. The stronger you are the stronger your blessing.
 295.Greater Blessing,4.4
-#Allows you or a target to receive a greater blessing that increases all attributes and grants you a minor regeneration and recovery factor for one hour. While greater blessing is active you are immune to curses and negative status effects below elite rank.
+#Allows you or a target to receive a greater blessing that augments any chosen physical attribute and minor regeneration and recovery factor for one hour. While greater blessing is active the target is immune to curses and negative status effects below elite rank.
 296.Divine Blessing,5.7
 #Allows you to bestow a variety of blessings once an hour, Blessing of Recovery gives a target Rare Rank Regeneration and cures all ailments they have that are not inborn, Blessing of Might increases all attributes, Blessing of Warding cleanses all curses and raises all resistances of a target, blessings can also be style after abilities. For example, using Divine Blessing with Ignite would give fire resistance and affinity. The duration of blessings is one hour.
 297.Law of Regression,6.3
@@ -1117,7 +1117,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 559.Soul Marriage,5.5 
 #You can soul marry a target of your choosing, they must be willing to marry you. With a kiss they will become your bride and get a soul ring on their ring finger, you can freely share your energy with your wives and vice versa. You can also teleport to their location or they can teleport to yours with an 8-hour cooldown. You can track the current state of your wives and their location. You can also give them your abilities and take them back without penalty.
 560.Mirror,4.9
-#You can touch a target to copy their power in place of the mirror ability for 1 hour, only works on abilities below Mythical rank. No cooldown, you can replace the copied ability anytime.
+#You can touch a target to copy their power in place of the mirror ability for 1 hour, only works on abilities Legendary rank or below. No cooldown, you can replace the copied ability anytime. 2 hour cooldown.
 561.Power Mimicry,7.8
 #You can touch a target and add their ability to power mimicry. At any time you can change power mimicry to any power you have stored inside of it. Power mimicry can only mimic one ability at a time.
 562.Ability Drain,6.7
@@ -1395,7 +1395,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 698. Tinker - Armor,5.8 
 #(Tech)Allows you to build technological constructs or contraptions related to armored suits or power armor such as the Iron Man Suit, Fallout Power Armor, basically, you can build any kind of powered suit as long as it is not larger than 5 times your size, because then it is classified as a mech.
 699. Tinker - Fallout,5.3
-#(Tech)Allows you to build technological constructs or contraptions from the Fallout Universe, such as Fusion Batteries, Chems, Power Armor, Stealth Boys, etc.
+#(Tech)Allows you to build technological constructs or contraptions from the Fallout Universe, such as Fusion Batteries, Chems, Power Armor, Stealth Boys, etc. Does not include Big MT. Technology
 700.Toggle,2.5
 #Allows you to turn objects or targets on and off, does not work on living beings, you could turn a radio on and off, this is also applicable to your own abilities as well
 701.Technopathy,4.8
@@ -1437,7 +1437,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 719. Bloody Imitation,3.0
 #MHA - Allows you to transform your physical appearance to the blood of someone you have consumed at will down to the most minute details. The duration of the disguise is equal to (ml of blood consumed x 1 minute).
 720. Bloody Replication,4.4
-#MHA - Allows you to transform into another person by consuming their blood, the transformation exactly copies the physical abilities of the target including their ability as well as how to use it and basic information about the target. The duration of the transformation is equal to (ml of blood consumed x 1 
+#MHA - Allows you to transform into another person by consuming their blood, the transformation exactly copies the physical abilities of the target including their ability as well as how to use it and basic information about the target. The duration of the transformation is equal to (ml of blood consumed x 1 minute)
 721. Tetramand Transformation,5.5
 #Ben 10 - You are able to take on the form of a Tetramand or a Tetramand hybrid, Tetramands are among the mightiest warrior races in the galaxy, having rough and durable red skin, four eyes and four arms and known for their incredible strength that is second to none.
 722. Cement Manipulation,3.9
@@ -1447,7 +1447,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 724. Cursed Flames, 3.4
 #Terraria - Allows you to throw green fireballs that cannot burn inanimate objects instead only living devours living flesh, if it makes contact with inanimate objects it will bounce like rubber while sticking to flesh like glue.
 725. Burning Sea, 4.3
-#Calamity Mod - Allows you to throw balls of crimson flame that are strengthened by fire, trying to extinguish it with water would be like throwing crude oil into flame.
+#Calamity Mod - Allows you to throw balls of crimson flame that are strengthened by water, trying to extinguish it with water would be like throwing crude oil into flame.
 726. Brimstone, 4.7
 #Calamity Mod - You are able to conjure and wield the flames of the Brimstone Crag tempered by the agony of tortured souls, these flames are hot beyond compare, incinerating everything in their path and being able to burn intangible things like souls.
 727. Ranchor, 6.7
@@ -1547,7 +1547,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 774. Scarlet Rot,6.4
 #Elden Ring - Allows you to create, control, and inflict scarlet rot. A deadly infection from a foreign god that erodes the minds and bodies of those it ails and turns them into mindless savage monsters. 
 775. Path to Love,5.3
-#Allows you to view how to romance people and unlocks their romance questlines. If you have this on your side and still cannot get the girl you want then there is probably no path to love for you.
+#Allows you to view how to romance people and unlocks their romance questlines. If you have this on your side and still cannot get the partner you want then there is probably no path to love for you.
 776.Path to Victory,9.6
 #Worm - Allows you to create a path to any objective you want as long it is possible to accomplish the goal even if it is a one in one googol chance, as long as it's mechanically possible a path to accomplishing it will be created for you. When following a path you are impossibly precise to be able to obey the path perfectly and avoid mechanical error. The Path is nigh omniscient and can calculate anything that is not a blind spot. You can also choose to only use the paths as a guideline.
 777. Spectral Claw,3.7
@@ -1684,7 +1684,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are able to create and control gem-like crystal constructs that you conjure by expending your energy. You have fine control over your crystals, being able to control them even in the form of powder, in addition, you can create simple crystal golems that can act semi-autonomously but turn to dust when you disable your ability, having crystal soldiers active slightly drains energy.
 846.Weaver,3.0
 #You are able to conjure threads made of energy under your control. The power of the threads and their numbers depend on the amount of energy you expend. You can control each thread like a limb but you lose control of it the moment they leave your body after which they dissipate.
-847.Kiring Phsyique,4.9
+847.Kirin Phsyique,4.9
 #Monster Hunter - You are able to transform into a Kirin or a Kirin Hybrid at will. As a Kirin you possess enhanced physical stats and speed as well as increased lightning affinity. While in Kirin form or Hybrid you possess the ability to summon down powerful bolts of lightning from the sky.
 848.Remember Me?,4.1
 #No, they don't. While Remember Me is active, everyone who knows you temporarily forget about you and nobody you encounter can remember or recall your exact features. 
@@ -1753,7 +1753,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 878. Invulnerable,9.8 
 #You are invulnerable, simple as that. As long as you do not want to get damaged there is nothing below reality manipulation that can hurt you, even if they were to collapse the entire multiverse on you, you would come out without a scratch.
 879. Immortal,9.7 
-#You are immortal, and there are no buts. If you are killed reality will somehow bring you back, even if every atom in your body is annihilated, your soul vanished, and every trace of you erased, reality itself will bring you back moments after in perfect condition, in addition you heal from wounds fast enough that even if you were reduced to a sing cell while taking a step, you would have reformed by the time your foot met the ground. Even the blind idiot would find it difficult to end you. 
+#You are immortal, and there are no buts. If you are killed reality will somehow bring you back, even if every atom in your body is annihilated, your soul vanished, and every trace of you erased, reality itself will bring you back moments after in perfect condition, in addition you heal from wounds fast enough that even if you were reduced to a sing cell while taking a step, you would have reformed by the time your foot met the ground. Even the blind idiot would find it difficult to end you. Not only that, every moment you meet your demise, some of the unknowable seeps into you, increasing all of your stats.
 880. Exclusion,9.7
 #You don't want to be a part of this so you won't be, at any time you can exclude yourself from anything, whether that's severing yourself from the flow of time and space, excluding yourself from physics, excluding yourself from harm, excluding yourself from targeting, excluding yourself from all perception. As long as something can interact with you, you can make it not do that.
 881. All Fiction,9.9
@@ -2134,7 +2134,21 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #"Reaper of Minds" You have offensive mind manipulation, you cannot subtly influence minds, if conventional telepathy is a scalpel, yours is a missile. You can send mind blasts to confuse opponents, damage their minds with a look, crush the minds of those weaker than you, and hijack their bodies to act against their minds or torment them with living nightmares. The less destructive purposes Nightmare is used for, the greater the energy cost is increased by. Effectiveness is dependent on the mental strength of the opponent and their power level relative to yours.
 1067.Cry,0.1
 #You are able to shed very salty tears at will.
-1068.Super Polymerisation,5.6
+1068.Super Polymerization,5.6
 #Yugioh - Allows you to temporarily fuse two living beings together to get a new entity with both of their abilities. Unwilling targets can resist the effect depending on their level of power. The stronger targets you fuse together with yourself or between them, the higher the energy cost. Keeping two entities fused together drains energy over time.
 1069.Greedy Healing,5.5
 #"Restoration, but at what cost?" Greedy Healing is an incredibly potent restoration ability, but instead of consuming Mana, it consumes wealth instead. The more wealth you give up to Greedy healing, the more potent the effect you will get. For a dollar, you would be pressed to recover a chipped nail, but with enough material wealth burnt, you can bring back even limbs and possibly even a life. The stronger a target you are affecting, and the larger the effect you want to enact, the more wealth you have to sacrifice in the form of wealth that belongs to you, such as gold coins, artefacts, items and or even people.(Infinite Money Glitch does not count as a valid sacrifice)
+1070.Tinker - Gravity,3.5
+#(Tech)Allows you to build technology and technological constructs based on the manipulation of gravity. You are able to build things like anti-gravity thrusters, Zero-G fields, gravity anchors, increased weight training rooms and much more. As this is a low rank, do not expect to be building black hole projectors or gravitron crushers anytime soon.
+1071.The Tinkerer,9.4
+#(Tech)Worm - This tinker ability allows you to build the technology and technological constructs of the Entities. Such as Doomsday Drivers, Multiversal Travel, Time Bombs, and any Tinker specialisation from their universe.
+1072.Tinker - One Punch Man,7.7
+#(Tech)One Punch Man - This tinker ability allows you to build and replicate the technology of Metal Knight from One Punch Man. Such as mass producing weapons, Drone Bodies, giant mechs, large-scale drones and much, much more. You can even build Dragon Class Mechs if given enough time.
+1073.Tinker - Scraps,3.0
+#(Tech) - This tinker allows you to build much more functional and useful technology out of scraps. You could probably build a working tank in a scrapyard, a phone out of a broken radio, a mech out of demolished cars, and can easily jury-rig existing technology out of subpar materials.
+1074.Tinker - Big MT,6.7
+#(Tech)Fallout - This tinker allows you to build the technologies of the Big Mountain built by the Think Tank. Including teleporters, genetically modified monsters, pacification fields, sonic weaponry, lobotomites and much more.
+1075.Tinker - Kuseno,7.2
+#(Tech)One Punch Man - You are able to build technology based on the knowledge base of the Genius Dr. Kuseno. Allowing you to build immensely powerful cyborg bodies, ranging from destroying city blocks to continent busters with enough time, testing and resources.
+1076.Tinker - The Baker,9.9
+#(Tech)Cookie Clicker - You are capable of building the technology of the THE BAKERY. With enough time and resources, you can make assembly lines that compress universes into little balls to play bowling with and then turn every atom inside of them into cookies to get shipped to the rest of the multiverse when you are tired of them.

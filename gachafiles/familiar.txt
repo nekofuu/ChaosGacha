@@ -275,7 +275,7 @@
 138. Ibaraki Douji,4.8
 #(Character)Fate - Ibaraki Douji, a famous subordinate of Shuten Douji, she is a fierce one with immense physical power and wields a large cursed bone sword. As a powerful Oni, she is also capable of unleashing sweltering and crushing flames. By unleashing her noble phantasm she is capable of releasing a hand to act independently and grow in size or unleashing even fiercer flames to char enemies. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.
 139. Tamamo no Mae,5.5
-#(Character)Fate - A fragment of the Goddess of the Sun Amaterasu in the form of a Kitsune who specializes in course craft. Tamamo is an accomplished mage who is a master of Japanese curse craft, being able to invoke a magnitude of curses such as immolation, freezing, lightning, bad luck etc. If she manages to get stronger and acquire more magical power she will slowly metamorphosize back into the form of Amaterasu and gain more tails. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.
+#(Character)Fate - A fragment of the Goddess of the Sun Amaterasu in the form of a Kitsune who specializes in curse craft. Tamamo is an accomplished mage who is a master of Japanese curse craft, being able to invoke a magnitude of curses such as immolation, freezing, lightning, bad luck etc. If she manages to get stronger and acquire more magical power she will slowly metamorphosize back into the form of Amaterasu and gain more tails. As a Heroic Spirit, she is only as strong as the amount of mana her master gives her.
 151.King Nothing,2.5
 #JoJo - A purple hollow humanoid spirit made out of jigsaw pieces, King Nothing has little to no combat power but his ability to track scents is unmatched, any scent it grabs, it tracks down by following it or it can simply memorize the scent for later. It can also reconstruct visuals by rearranging its jigsaw pieces, making it an excellent tracker. 
 152.Spider Demon Mother,3.8
@@ -461,7 +461,7 @@
 242.Kirby,9.6
 #Kirby - "Poyo!" One cannot begin to imagine or describe the powers this creature possesses.
 243.Chicken,1.5
-#Minecraft - Whatever this chicken is, it does not obey any known laws of physics. It lays an egg every 6 - 12 in perfect condition and this this egg can thrown at the ground to have a chance of spawning a baby chicken that will grow to adulthood in 24 hours, they can also breed without eggs too in order to produce children together. The eggs are not fertilized unless thrown and taste great, so does the chicken's meat. No biology explains this, you get a pair. 
+#Minecraft - Whatever this chicken is, it does not obey any known laws of physics. It lays an egg every 6 - 12 hours in perfect condition and this this egg can thrown at the ground to have a chance of spawning a baby chicken that will grow to adulthood in 24 hours, they can also breed without eggs too in order to produce children together. The eggs are not fertilized unless thrown and taste great, so does the chicken's meat. No biology explains this, you get a pair. It still needs to eat so don't let the poor things starve.
 244.Golden Goose,1.6
 #Yes, it really did lay some golden eggs. This otherwise regular-looking goose lays a golden egg every 24 hours, the egg is solid gold unless the Goose is fertilized.
 245.Untitled Goose,2.0
@@ -592,3 +592,9 @@
 #Terraria - Allows you to summon the Frost Legion, a horde of sentient murder-happy gangster snowmen wielding weapons like hardened ice knives, tommy guns, ice grenades, etc. The number of snowmen you can summon at once depends on your maximum energy. The minimum amount is 50. If a snowman gets killed, you recover 1 snowman every 1 hour. If you have frost/Ice affinity, the snowmen get stronger.
 308.Salt Golem,0.1
 #A little 5cm tall salt golem made of condensed and distilled salty tears from wasted tickets.
+309.D'vorah,2.9
+#(Character)Mortal Kombat - D'vorah is a Kytinn who also is also very skilled in combat. Her biology gives her basic superhuman stats and natural weapons as well as venom. She is capable of producing and controlling insects to act for a variety of purposes, such as combat, poisoning, espionage, etc.(Cannot reproduce to create more Kytinn larva/maggots)
+310.Triborg,3.8
+#(Tech)Mortal Kombat - Triborg is a highly advanced cyborg fused with the skills and data of several master martial artists and assassins, as well as its predecessors. It's Robotic Physique grants it superhuman stats and allows it to reconfigure its body into several forms that allow it to utilise numerous different types of weaponry. Such as Smoke Form granting it close-range teleportation, Sub-Zero form granting cryo weaponry, etc. It can only use one form at a time. He may be upgraded with Tinker abilities.
+311.Azmuth,9.2
+#Ben 10 - Azuth, the First Thinker and the smartest being across immumberable galaxies. Although he possesses no combat ability, Azuth is among the smart inventors in all of existence, being able to create inventions that warp reality itself, such as the Fabled Ascalon and the Omnitrix. As long as he is given enough time and resources, it is practically impossible to know what he cannot create.

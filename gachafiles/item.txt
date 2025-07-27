@@ -979,9 +979,9 @@
 488.Ring of the Shooting Star,7.3
 #Overlord - A Ring that contains 3 uses of the spell Wish. By invoking a wish you can use the effect of any ability of Mythical tier or below once like using Law of Regression to cure someone, Invoke Genesis etc. 
 489.Sukuna's Finger,3.0
-#Jujutsu Kaisen - A finger contained 1/20th of the King of Curses, Ryomen Sukuna. It contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat him fragment and consume the power of said fragment.
+#Jujutsu Kaisen - A finger contained 1/20th of the King of Curses, Ryomen Sukuna. It contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat his fragment and consume the power of said fragment.
 490.Sukuna's Fingers,5.1
-#Jujutsu Kaisen - All 20 fingers of King of Curses, Ryomen Sukuna that each contain 1/20th of his power. Each finger contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat him fragment and consume the power of said fragment.
+#Jujutsu Kaisen - All 20 fingers of King of Curses, Ryomen Sukuna that each contain 1/20th of his power. Each finger contains incredible cursed energy and will attract cursed lifeforms to it like moths to a flame, a cursed being ingesting the finger will receive a power boost. If a proper vessel ingests the finger they will either incarnate as 1/20th Ryomen Sukuna, exist in the same vessel as him or possibly defeat his fragment and consume the power of said fragment.
 491.Eye of Agamotto,8.8
 #Marvel - The Eye of Agamotto contains the Time Stone, one of the 6 Infinity Stones. The Eye of Agamotto allows the user to manipulate the time as long as they can harness its power correctly, allowing them to stop time, time travel, set up time loops and much more. The more power they exert with the stone, the more of a backlash they will face that can even kill them.
 492.Power Stone,8.0
@@ -1050,3 +1050,25 @@
 #God of War - A spear forged for Kratos himself, imbued with the winds of all realms. The spear is actually a ring worn on the finger that can manifest up to 8 spears at once. Holding a spear allows you to project your energy as wind and boosts the power of your wind attribute. You can also explode the summoned spears at any time into an explosion of wind.
 524.Canto,3.3
 #(Tech)Cyberpunk - The Canto is a legendary Cyberdeck considered a myth by many. This implant functions as a very powerful computer connected to your brain, allowing you to interface with and easily hack even the toughest networks, thanks to the sentient Super AI loaded inside helping you with your endeavours. Manifests as a ticket that installs itself in your body when you rip it.
+525.Kano's Eye,3.1
+#(Tech)Mortal Kombat - A high-tech cybernetic eye implant without the faceplate part. The eye is capable of switching between several modes of vision, like infrared, heat, electromagnetic, X-ray, etc. It is also capable of releasing condensed energy beams from the eye that vary in power. The eye charges itself by drawing power from your energy reserves. This item manifests itself as a ticket that implants itself perfectly in whoever rips it.
+526.Hsu's Cybernetic Heart,4.5
+#(Tech)Mortal Kombat - A high-tech cybernetic implant that replaces the recipient's heart. The Cybernetic Heart grants the user superhuman physical abilities and increased stamina and energy regeneration. The heart can also release a death laser from your chest if you leave it uncovered(by default, the heart is implanted beneath the muscle layer). The cybernetic heart charges its extra reserves over time to build up its laser. The lower your current energy level, the weaker the enhancement the heart will provide. This item manifests itself as a ticket that implants itself perfectly in whoever rips it.
+527.Classic Omnitrix,5.8
+#(Tech)Ben 10 - The Classic Omnitrix, the first version ever released. This watch allows the user to turn into any of 10 aliens(And maybe slightly more with experimentation) for around roughly 30 minutes before going on cooldown. This watch can also be used to capture the DNA of creatures you are in contact with to turn into a version of them. The watch is biologically bound to you, and you would need at least Master Mechanics and Biology to tamper with it.
+528.Omnitrix,9.3
+#(Tech)Ben 10 - The True Omnitrix, the final version made by the genius Azmuth. The Omnitrix allows the user to transform into any of the millions of aliens stored inside, ranging from living gravity-manipulating planetoids to multiversal reality warpers. 
+529.Chaquetrix,6.9
+#(Character)(Tech)Chaquetrix - A... weird variant of the fabled Omnitrix that instead creates and summons aliens to you. It will create a version of the selected alien into a breeding compatible companion with you and summon her to either to help you or "help" you. Only contains the original 10, but the roster can be increased eventually. Also contains a lifeform analyser to increase the roster.
+530.Divine Stone,5.8
+#Arifureta - Despite its name, it is not of Divine Origin. This 10cm crystal is crystallised energy that, while also capable of holding enchantments very well, melts into a sort of Ambroisa over time. Said ambrosia has incredibly potent healing and curing properties.
+531.Falcon's Eye,1.8
+#Xiaolin Showdown - A Shen Gong Wu monocle that grants its wearer super sight, allowing them to see through objects, see in the dark and see far.
+532.Mantis Flip Coin,1.5
+#Xiaolin Showdown - A Shen Gong Wu coin tied to a rope fashioned into a necklace. When worn around the neck or anywhere around your body the coin grants you the ability to jump high and enhances your acrobatics skills.
+524.Sword of the Storm,2.6
+#Xiaolin Showdown - A Shen Gong Wu in the form of an intangible that the user can imbue their energy into to create powerful winds and enhance the power of wind and weather-based abilities. 
+525.Third Arm Sash,1.9
+#Xiaolin Showdown - A Shen Gong Wu in the form of a sash that can act as a third arm under your control, it long and flexible while also being considerably stronger than a grown man.
+526.Ascalon,9.6
+#Ben 10 - A sword created by the Thinker Azmuth, one of the greatest weapons of the Universe in the form of a sword. The blade Ascalon channels the fundamental forces of reality and creates an armour created out of Cosmic energy, granting them an incredible physical boost, and defence and immunity to mental effects. By channelling the fundamental powers of the universe, the blade can cleave anything, even realms and reality itself, or the fabric of spacetime to teleport. It allows the user to project energy slashes. It can deflect, reflect and cut energy itself. It can also drain the powers of opponents it stabs into the blade.
