@@ -12,7 +12,7 @@
 #A grey 1-meter-tall slime that can consume and digest objects endlessly like an infinite trashcan and obey simple orders. It can only consume beings that aren't alive.
 7. Samson, 3.4
 #Skullgirls - A parasite that fuses itself to their host's hair and manifests as a maw filled with sharp teeth and yellow eyes. Samson is capable of growing, strengthening and manipulating his host's hair, forming, tentacles, whips, blades etc. he can also use it to manifest himself and fight. He is rather foul-mouthed and gruff.
-8. Leviathan, 4.0
+8. Parasite Leviathan, 4.0
 #Skullgirls - A parasite that enters its host's body and bonds with them, Leviathan is capable of growing in size and length and using its long bone-like serpentine body as a weapon, he can also breathe purple flames that are incredibly hot, and he can also use full power to manifest as a full muscular upper torso and breathe even hotter flames. He usually acts like a Victorian-era refined gentleman unless provoked.
 9. Death Claws, 1.8
 #Fallout - A bioengineered creature made to be the optimal melee combatant with sharp and durable horns, claws and fangs. A single death claw can tear apart even a tank and get stronger by absorbing radiation. You get an Alpha Male Deathclaw and a Deathclaw Female that can breed with each other.
@@ -343,7 +343,7 @@
 183. Cazador,3.0
 #Fallout New Vegas - Cazadors are insects biogenetically engineered by Dr. Borous. They are faster than cars, tough enough to tank .50 calibre bullets, ruthless, roughly the size of a man, strong enough to tear apart a grown man and with venom potent enough to bring any man to their knees. And they reproduce very rapidly if given enough protein sources. You get 4 breeding pairs.
 184.Nick Valentine,2.5
-#(Character)Fallout 4 - Nick is a synthetic human detective. As a Synth, he is slightly stronger than the average man but possesses great accuracy with guns and is highly skilled at interfacing with technology. As expected by a detective, Nick is good at reading people, and investigations and giving advice from his years as a detective in a post-apocalyptic wasteland.
+#(Character)(Tech)Fallout 4 - Nick is a synthetic human detective. As a Synth, he is slightly stronger than the average man but possesses great accuracy with guns and is highly skilled at interfacing with technology. As expected by a detective, Nick is good at reading people, and investigations and giving advice from his years as a detective in a post-apocalyptic wasteland.
 185.Potato GLaDOS,2.3
 #(Tech)Portal - Glados is a highly advanced AI that contains an immense amount of data from Aperture Labs and is capable of interfacing with any system and mainframe she is put into. She is capable of building technology too but... she is stuck in a potato. So you will have to find a way to supply her with the technology first. 
 186.Yes Man,1.8
@@ -447,7 +447,7 @@
 235.Behemoth,6.7
 #Worm - A Shard Superweapon reformed by Chaos, and the toughest among the three siblings. Behemoth is a giant capable of manipulating energy, allowing it to shoot powerful lightning bolts, create flames and release shockwaves. He can also redirect projectiles, and manipulate and absorb existing energy to a limit. He can also unleash extreme amounts of radiation from his body. As an Enbringer and the physically strongest one he has incredible strength and durability(A/N: Scaled down to multi-country level)
 236.Dragon,5.9
-#(Character) - Not an actual dragon. Instead, Dragon, or Theresa is a hyper-advanced tinker-made AI who is capable of copying, imitating and iterating on existing existing technology to design her own. As an advanced, she is capable of directing hundreds of mechs with ease as long proper servers are supplied to her. But due to limitations on her code she is incapable of creating more AI.
+#(Character)(Tech) - Not an actual dragon. Instead, Dragon, or Theresa is a hyper-advanced tinker-made AI who is capable of copying, imitating and iterating on existing existing technology to design her own. As an advanced, she is capable of directing hundreds of mechs with ease as long proper servers are supplied to her. But due to limitations on her code she is incapable of creating more AI.
 237.Light and Nightfury,2.6
 #How to Train Your Dragon - A breeding pair of a Nightfury and Lightfury, they are semi-aquatic agile lithe dragons who can release unique plasma breaths in contrast to the regular dragon fire breath. They are very fast and intelligent and possess great stealth abilities despite being dragons.
 238.Blue Diamond,5.6
@@ -598,3 +598,41 @@
 #(Tech)Mortal Kombat - Triborg is a highly advanced cyborg fused with the skills and data of several master martial artists and assassins, as well as its predecessors. It's Robotic Physique grants it superhuman stats and allows it to reconfigure its body into several forms that allow it to utilise numerous different types of weaponry. Such as Smoke Form granting it close-range teleportation, Sub-Zero form granting cryo weaponry, etc. It can only use one form at a time. He may be upgraded with Tinker abilities.
 311.Azmuth,9.2
 #Ben 10 - Azuth, the First Thinker and the smartest being across immumberable galaxies. Although he possesses no combat ability, Azuth is among the smart inventors in all of existence, being able to create inventions that warp reality itself, such as the Fabled Ascalon and the Omnitrix. As long as he is given enough time and resources, it is practically impossible to know what he cannot create.
+312.Mipha,4.1
+#(Character)Legend of Zelda - Mipha is the princess of the Zora. She has superhuman physical abilities and considerable skill in wielding polearms. She is also capable of utilising water magic to aid her in combat and has potent healing abilities she can use on herself or others.
+313.Factory Core,4.7
+#(Tech)"Time to industrialise" A modified golem core that instead builds itself into a factory by assimilating resources into itself. The more information about mechanics and technology the user feeds into it, the more assembly lines it can produce to create more items. The growing speed and maximum size of the Factory depend on the user's abilities.
+314.Mech Core,6.5
+#(Tech) A modified Golem core that assimilates materials and electronics into itself to build itself into a mech. The power, size and durability of your mech depend on the materials you can provide to it; it naturally repurposes materials fed into it into creating Mech technology for itself on the level of an Epic tinker ability. Golem core shares the knowledge base of the user; the more the user knows and the more Tinker specialities they get, the better they will be able to improve. The mech can only act at half power if the user is not piloting it.
+315.Connor,1.8
+#(Tech)(Character) Detroit Become Human - He is an android sent by Cyberlife, except not. He is an android made to closely mimic humans; he possesses peak human physicals and notable skill in combat. He is capable of scanning objects and humans to gather more data about them, albeit it is limited in function.
+316.HK 47,3.1
+#(Character)Star Wars - "Defiant Statement, there is nothing you can do to me." HK is an incredibly experienced and advanced Assassin Droid, being extremely skilled in all forms of combat and sorts of weapons, as well as in combating and assassinating enemies thanks to his brilliant computational mind and engineering. He is also a very skilled mechanic. He comes equipped with standard droid gear, such as a blaster.
+317.Magnaguard,2.9
+#(Tech)Star Wars - An Elite Cast of Droids made specifically to battle Jedi. The Magnaguards have superhuman physical capabilities and advanced polearm skills in wielding their electrical staves. You start with 4 guards and get more as time goes on according to your maximum stats.
+318.B-1 Battle Droid,1.0
+#(Tech)Star Wars - One, singular B-1 Battle Droid equipped with a blaster. His skills and effectiveness are... questionable. Good luck with him.
+319.B-2 Battle Droids,1.8
+#(Tech)Star Wars - Tough heavy-duty Battle Droids with built-in blasters. They are not adept at quick combat but are very effective as walking walls with blasters. You start with 4 Droids and get more as time goes on according to your maximum stats.
+320.KX Executor Droids,3.0
+#(Tech)Star Wars - Tough, athletic, skilled, efficient and powerful. These high-tech droids are very capable fighters and combatants, being able to wield most weaponry and possess superhuman physical stats strong enough to tear grown men in half. You start with 5 Droids and get more as time goes on according to your maximum stats.
+321.IG-88,3.4
+#(Tech)Star Wars - IG-88 is an incredibly advanced combat droid with the skills of an expert marksman and advanced sensory capabilities. It also possesses superhuman stats due to its advanced droid constitution. This model also comes equipped with a veritable variety of deadly weapons.
+322.2-1B surgical droid,2.6
+#(Tech)Star Wars - An advanced medical droid who is equipped with a vast database and extreme precision due to its droid body. This droid is a better surgeon than any human alive and is equipped with a variety of implants for surgeries.
+323.Imp Midna,3.6
+#(Character)Legend of Zelda - Midna is the Twilight Princess, whose powers have been suppressed and forced into the shape of an Imp. Even in her Imp form, she still has potent magical abilities. Being able to use basic telekinesis, shapeshifting, turning into cloud form and creating Twilight Portals with some time and effort that she can teleport between, she can also merge into shadows. With a potent enough curse-breaking ability(Legendary), you could break her curse and unleash her full form, drastically enhancing her abilities.
+324.Midna,5.3
+#(Character)Legend of Zelda - Midna is the Twilight Princess, possessing potent magical powers, ruling over Twilight and Darkness magic. She has the ability to exert telekinesis, create portals, shapeshift, summon twilight creatures and generally use her potent magic.
+325.Seth,6.3
+#(Character)Street Fighter - Seth is a biogenetically engineered and cybernetically enhanced artificial being equipped with a Tandem Engine and the ability to shapeshift. Seth has the knowledge of numerous Martial Arts Masters downloaded into her body, granting her mastery over an incredible amount of martial arts. Her tandem engine supplies her body with an immense amount of Artificial Ki, which she is very skilled at utilising. She is also able to use her Tandem Engine to copy the martial arts and moves of her enemies. Truly the perfect Martial Arts fighter.
+326.Horus,4.6
+#JoJo - Horus is an autonomous stand connected to you by the soul. It manifests as a bird-like creature of ice if it chooses to. Horus has the ability of Cryokinesis, being able to expend your energy to launch icicles, freeze targets, drop ice boulders, and create a variety of ice constructs and can act even without your input. The power of Horus scales with yours due to their natures as a stand.
+327.The Fool,3.9
+#JoJo - The Fool is a... dog machine native american...? Looking stand that is actually formed out of sand, it can manipulate and shape at will, even being able to change its texture and colour. It can form as a barrier that automatically protects you, imitate people well enough to fool people familiar with them, and much more. The power of The Fool scales with yours due to their natures as a stand.
+328.Cream,6.4
+#JoJo - Cream, despite its rather unassuming name, is a large, imposing stand that is capable of vanishing anything it eats into a dimension of endless darkness alongside its considerable strength. Cream can also eat the user to hide them without damaging them, and it can also eat itself to become a wrecking ball of nothingness that vanishes anything it comes into contact with in exchange for not being able to see. Due to their nature as a stand, Cream cannot leave more than a 5-meter range of the user and expends their energy to use their ability. 
+329.Hanged Man,4.8
+#JoJo - Despite not being named as such, he is, in fact, a man in a mirror. Hanged Man is a stand in the form of sentient light, being able to dwell in reflective surfaces and damage the physical world without being hurt back. But it is limited to the force of an athletic human. And is forced to escape if the reflective space is covered, leaving as a ray of light. As a stand, Hanged Man requires your energy to remain active.
+330.High Priestess,3.7
+#JoJo - High Priestess takes the form of an amorphous, tribal like creature that can merge and control minerals, transforming the ground into cars, guns, giant faces, etc. The range of control and the power it can assert depend on your power level, and the damage of what it is merged into reflects back to you.

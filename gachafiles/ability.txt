@@ -210,8 +210,8 @@
 #Aokiji from one piece- Allows the user to create, control and turn into ice. Turning them into a living entity of ice.
 106.Freezing Breath,3.1
 #Allows you to charge and unleash a breath attack of frigid winds that freeze whatever they hit. The longer you charge and the more energy you expend the more powerful the breath is.
-107.Ice Wall,2.2
-#Allows the user to crease and conjure durable walls of ice to serve as barriers and obstacles.
+107.Ice Sprout,2.2
+#Allows the user to sprout ice constructs from the ground and other surfaces in the form of walls and pillars to serve as barriers, hinder enemies or squish them.
 108.Black Ice,4.3
 #Allows you to create and control black ice, black ice is a special type of incredibly durable ice that is very resistant against heat and fire.
 109.Ice Formation,5.0
@@ -372,8 +372,8 @@
 #Create metal chains and shackles that erupt from the earth to bind your enemies, they are very difficult to dodge as they track opponents and chase them down. 
 187. Catapult,3.4
 #Create and launch giant boulders at your enemies regardless of your existing strength, the weight of the boulder does not affect your throwing ability regardless if it is a person or a house-sized boulder.
-188. Stonewall,2.1
-#Create a durable wall of stone to block attacks and restrict movement, very effective against physical blows but not so much against elemental ones.
+188. Stonesprout,2.1
+#Allows you to sprout constructs of rock and stones from surfaces such as walls and pillars to act as defense, terrain or to smash your enemies with them.
 189. Micro Ferrokinesis,2.4
 #Allows you to manipulate metals on a small but extremely precise scale. You cannot hurl cars but you could grab a chunk of gold and turn it into an extremely ornate ring with microscopic carvings.
 190. Earth Armor,2.0
@@ -446,7 +446,7 @@
 #Allows you to create precious gems that can hold a lot of energy or mana, the larger and more valuable the gem, the more energy you need to consume to create them.
 224.Pure Gem Creation,4.9
 #Allows you to create pure precious gems that can hold immense energy and serve as vessels for various things. The purer and more potent the gem, the more energy you need to consume to create it.
-225.Sand Veil,2.3
+225.Sand Veil,1.8
 #Create a small localized sandstorm on your location that also makes your presence harder to detect inside of it while allowing you to see through it freely.
 226.Fool Sand,4.9
 #JoJo - Allows you to conjure autonomous sand that can shapeshift, attack and defend without your input to protect you, eliminate enemies or simply provide utility.
@@ -1457,7 +1457,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 729. Holy Flame, 4.6
 #Allows you to wield the holy flames of Angels, while not any more effective than regular against regular living creatures like humans and animals they deal extreme damage to any unholy or darkness-aligned being and prevent them from healing. In addition, they can be used to burn away afflictions if one is skilled enough at wielding them.
 730.Ace of All Trades,5.3
-#While this ability is in an active slot your comprehension is massively boosted, you only need to read a book once to learn it completely, and you could imitate someone's martial art by watching a video. You could learn someone's martial art while you are exchanging blows. You learn and master skills at supernatural skills. 
+#While this ability is in an active slot your comprehension is massively boosted, you only need to read a book once to learn it completely, and you could imitate someone's martial art by watching a video. You could learn someone's martial art while you are exchanging blows. You learn and master skills at supernatural rates. 
 731. Divinity Fire, 8.5
 #You are a God of Fire and hold domain over all fire, allowing you to create and control any type of fire and hold power over its shape, temperature and effect.
 732. Fire Conduit, 5.5
@@ -1471,9 +1471,9 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 736. Extension,4.8
 #Allows you to extend the duration of something beyond the norm by consuming energy, whether that be increasing the duration of a blessing, extending a lifespan, extending an expiry date, or extending how long a flame burns. To extend a duration you must be able to interact with the target.
 737. Size Manipulation,4.3
-#Allows you to manipulate the size, any by extension mass, of a target you are touching. Every time you double or halve the size of an object the cost of increasing or decreasing the size of the target is doubled.
+#Allows you to manipulate the size, and by extension mass, of a target you are touching. Every time you double or halve the size of an object the cost of increasing or decreasing the size of the target is doubled. After a set amount of time the changes revert.
 738. Shrink,2.8
-#Allows you to shrink yourself to 20x smaller, your power decreases proportionally to your size but you can unshrink yourself at any time. This limit can be increased with training.
+#Allows you to shrink yourself to 20x smaller, your power decreases proportionally to your size but you can unshrink yourself at any time. This limit can be increased with training. 
 739. Minimize Me,4.7
 #Allows you to shrink yourself up to 20x smaller without compromising your power, whether you are 180cm or 18cm tall, your attack will hit with the same intensity. This limit can be increased with training.
 740. Gigantism,4.2
@@ -1870,8 +1870,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You are able to rejuvenate targets and yourself, restoring their virility and health, while it doesn't heal them from injuries it does cure illnesses and ailments. In addition, it can make the sands of time retreat, you can give an old person their youth, or someone who sacrificed their lifespan get it back, you can use this on rotten or ill vegetation. The stronger a target is, the more energy you have to expend.
 937. Rise Again,5.5
 #Nothing is going to keep you down. As long as this ability is in your active slot, at the moment of your death, this ability activates and you revive 10 seconds later with your health and energy restored to 50%. 7 Day cooldown.
-938.Ace of All Trades,5.3
-#While this ability is in an active slot your comprehension is massively boosted, you only need to read a book once to learn it completely, and you could imitate someone's martial art by watching a video. You could learn someone's martial art while you are exchanging blows. You learn and master skills at supernatural skills. 
+938. Tinker - The Baker,9.9
+#(Tech)Cookie Clicker - You are capable of building the technology of the THE BAKERY. With enough time and resources, you can make assembly lines that compress universes into little balls to play bowling with and then turn every atom inside of them into cookies to get shipped to the rest of the multiverse when you are tired of them.
 939. Militia,5.2
 #Worm - You can summon a projection of any mundane weapon in your hands. As long as the weapon is not tinkertech or beyond the level of the technology of your current world you can summon it. You can also control the ammunition, such as summoning a beanbag shotgun, a nuclear bomb launcher, an automatic rifle, a sword, a crossbow etc. 
 940. Light Step,3.2
@@ -2064,7 +2064,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #You can disguise yourself as other people with your ability, but not just that, it will apply a normality effect on them that will actively convince others that you are that person even if you act out of character. The more out of character the more energy you consume and the effect will fade if the target is absolutely stronger than you or you act in ways that would directly compromise your identity. 
 1032.Sticky Icky,0.4
 #Your skin is uncomfortably sticky to other people, as if you were soaked in glue or soda but you won't feel the difference.
-1033.Tinker - Hentai,2.6
+1033.Tinker - Erotics,2.6
 #(Tech)Tinker - Allows you to build technological constructs or items that are related to Sexual events, such as Aphrodisiacs, Sexual Instruments, Contraceptives, etc.
 1034.Shrine,6.1
 #JuJutsu Kaisen - The Cursed Technique of the Kind of Curses. Shrine allows you to use Cleave, Dismantle and Furnace. Dismantle allows you to send out flying invisible slashes of varying power, Cleave allows you to create more powerful instant slashes across a target by touching them, and Furnace allows you to manifest a powerful fire arrow that you can unleash. If you achieve enough mastery or receive enlightenment, you may even be able to unleash the Malevolent Shrine.
@@ -2150,5 +2150,141 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Fallout - This tinker allows you to build the technologies of the Big Mountain built by the Think Tank. Including teleporters, genetically modified monsters, pacification fields, sonic weaponry, lobotomites and much more.
 1075.Tinker - Kuseno,7.2
 #(Tech)One Punch Man - You are able to build technology based on the knowledge base of the Genius Dr. Kuseno. Allowing you to build immensely powerful cyborg bodies, ranging from destroying city blocks to continent busters with enough time, testing and resources.
-1076.Tinker - The Baker,9.9
-#(Tech)Cookie Clicker - You are capable of building the technology of the THE BAKERY. With enough time and resources, you can make assembly lines that compress universes into little balls to play bowling with and then turn every atom inside of them into cookies to get shipped to the rest of the multiverse when you are tired of them.
+1076.Armageddon Blade,7,2
+#The All Incinerating Armageddon Blade, the Blade that Embodies Wrath Against All Creation. Allows you to conjure the Armageddon Blade, a blade of pure destructive flame and heat that massively amplifies Pyro attribute effects. The blade can cut through almost anything and constantly burns with the Flames of Armageddon that it can unleash. The Flames of Armageddon are beyond mere flames; they embody oblivion, they don't simply burn, they burn away existence itself. Instead of reducing to ash, they erase the remains of the object. The stronger you are, the more potent the flames are. By expending enough energy, you can unleash them like a sword beam.
+1077.Frozen Dawn,7.1
+#The Frozen Dawn, or the Frigid Spear of Sun's End. Allows you to conjure a Frozen Spear that massively amplifies the power of all Cryo attributes when held. The spear is capable of unleashing hellish frigid energy that can even freeze energy like mana and kinetic energy. Anything stabbed by it is doomed to freeze, even including their mana and life; the weaker they are compared to the user, the faster they freeze. You can also create additional boomer spears to launch as projectiles.
+1078.World Crusher,7.0
+#The Hammer of Continental Destruction, The Mountain Crusher allows you to conjure a hammer made of the deepest depths of the earth. While you hold the hammer, your strength and Earth-based attributes are massively enhanced. This hammer allows you to change the landscape with your strikes, like making mountains erupt as spikes with each strike. This hammer allows you to unleash quaking shockwaves by swinging it, and hitting any being head-on will unleash quakes powerful enough to tear them inside out. With enough power and energy, you can alter an entire planet with a single swim.
+1079.Hulk Out,7.6
+#Marvel - You can unleash the physique of a Gamma Mutate, growing largely in size and gaining godlike physical abilities. In addition, your physical strength grows proportionally to your rage without a discernible limit. (Note: Just the basic Hulk transformation, no connection shenanigans.)
+1080.Garm Physique,6.7
+#God of War - You are capable of transforming into Garm or a hybrid form of Garm. As Garm, the Hound of Hel, you possess immense physical abilities and a terrifying presence. In addition, your teeth and claws can tear apart anything, even the fabric of dimensions, allowing you to crew portals and break dimensional boundaries.
+1081.Ghost Ammunition,2.7
+#(Tech)Allows you to conjure ghost ammunition for your weapons. This ammunition mimics the properties of the ammo the weapon would otherwise use, but consumes your energy to create and disappear 1 second after hitting a target.
+1082.Spectre Ammo,3.5
+#(Tech)Allows you to conjure spectre ammunition out of your energy for any weapon you have in your possession that mimics the properties of the ammunition your weapon would otherwise utilise. You can imbue your energy into these bullets to increase their power and combine it with your other abilities to give them special properties. 
+1083.Tinker - Gel,5.7
+#(Tech) This tinker ability allows you to build, design and build technology and technological constructs related to gels. Such as super lubricant, impact absorption gel, hardening gel, restraint gel, fire retardant gel, gel bombs, if it's gel, you can gel it!
+1084.Tinker - Crystals,6.5
+#(Tech) This tinker ability allows you to build, design and build technology and technological constructs related to Crystals and Crystal-based constructs. Such as putting things in preservation crystals, self-repairing crystal plates, crystals with exceptional energy storage, and even crystal transmutation if you get good enough.
+1085.Tinker - Metallurgy,4.9
+#(Tech) This tinker ability allows you to build, design and build technology and technological constructs related to Metals and Alloys. Such as metal fabricators, wonderous alloys out of mundane metals, superconductors, metals with seemingly impossible properties, as well as metal-based cold weapons and armour.
+1086.Dampener,3.2
+You are able to weaken effects and abilities by being in contact with them. The weaker an ability is in relation to you and the longer you stay in contact, the more it is weakened before being disabled completely.
+1087.Shut Off,4.7
+#You are able to shut off people's powers by making physical contact with them. The amount of energy you need to expend to do so depends on the power difference between you and the target. Strong enough targets may only be partially affected.
+1088.Power Opression,5.2
+#You are able to release an aura of power-dampening around yourself. The effectiveness of the power dampening depends on the power difference between you and the target; weak enough targets will be completely suppressed, while strong enough targets can resist the effects.
+1089.Tinker - Vehicles(I),1.7
+#This tinker ability makes you supernaturally good at designing, modifying and building Vehicles. The vehicles you build are certainly marvels of engineering and maybe beyond, but they cannot go beyond the levels of your current world.
+1090.Tinker - Vehicles(II),2.6
+#This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Such as a sports car that is better armoured than a tank, an all-terrain motorcycle including air, a train that projects train tracks below it using hard light, etc. But you won't be building Killdozers anytime soon.
+1091.Tinker - Vehicles(IV),6.7
+#This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Allowing you to build things such as proper space vessels, supersonic flying cars, adding things such as weapons, hard light shield emitters and being able to borrow ideas from weak minor tinker abilities to improve your vehicle designs.
+1092.Tinker Vehicles(V),8.3
+#No such thing as a vehicle overkill enough. This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Whether that is FTL drive starships, a warp drive motorcycle, or a goliath doomship, or a spacecraft that can survive landing on a star. Or just a really dapper car. As long as it's a vehicle, you can build it.
+1093.Tinker - Bio(I),3.4
+#This tinker ability makes you supernaturally good at designing, modifying and building biological constructs. At this level, you can probably crossbreed and genetically modify plants and create items related to biology, like simple biomonitors, etc.
+1094.Tinker - Bio(II),5.1
+#This Tinker ability allows you to build technology and technological constructs related to biology and altering biology. Such as operating tables and tools to modify biology, modifying bones to be super shock absorbent and dense, creating an artificial heart that gives someone an increased regeneration factor, and seamless biological replacement limbs. Creating homunculi, etc.
+1095.Tinker - Bio(III),6.4
+#This Tinker ability allows you to build technological constructs or contraptions related to biology and living organisms. Such as homunculi vats, completely overhauling biology, genetic alteration, creating and designing living beings from scratch. You can even create incredibly potent viruses.
+1096.Tinker - Bio(IV),7.8
+#(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms. Such as Cloning Vats, granting biological powers, cracking the codes of genetically passed down powers, complete genetic overhauling, sentient viruses that assimilate into people's bodies and eat them inside out, and much more.
+1097.Tinker - Bio(V),8.3
+#(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms. Such as being able to decode and grant genetics-based abilities you have scanned, creating incredibly powerful living creatures from scratch, design, fabricate and assimilate legendary rank and below biology-based abilities to beings, and much, much more.
+1098.Thinker - Alchemy(I),2.1
+#(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as minor potions like healing, stamina restoration, making skin slightly tougher, or potent acids to be used in combat.
+1099.Thinker - Alchemy(II),3.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as healing, stamina, energy potions, potions that cure diseases, grant minor permanent buffs, or very explosive gases, incendiary acid, etc. But the stronger a target that consumes a potion, the less effective it is, and vice versa. The more potent a potion is, the better materials you need for it.
+1100.Thinker - Alchemy(III),5.2
+#(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. Such as potions that permanently alter bodies, potent ingredients such as more potent gunpowder and flesh-eating acid and general potions such as Healing, Mana, Ironskin, with notable potency, but the stronger a target that consumes a potion, the less effective it is, and vice versa. The more potent a potion is, the better materials you need for it.
+1101.Thinker - Alchemy(IV),6.4
+#(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can craft incredibly potent potions such as healing potions that restore limbs perfectly, mana boosting potions, ultra steroids, and permanent buff potions that grant physical traits up to Epic Tier and many more alchemical reagents.
+1102.Thinker - Alchemy(V),7.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can create miracles with alchemy if you have enough resources, Panaceas, Elixirs, Ichor, whatever can be crafted from alchemy, you can create it, even make Elixirs that can grant physical traits up to Legendary rank.
+1103.Tinker - Augments(I),1,8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. At such a low level, you can only do augmentations such as replacement limbs, metal bone plating, camera eyes, and functional metal teeth. You are also skilled at performing surgeries to install said augments.
+1104.Tinker - Augments(II),2.9
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Such as simple enhanced camera eyes, subdermal armour, reinforced tendons, hormone regulators, hidden blades and guns, etc. You are also skilled at performing surgeries to install said augments.
+1105.Tinker - Augments(III),4.2
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Such as mechanical bones, full body augments good enough to turn someone into an Augmented(trait), you can also create powerful combat augments, such as specialised camera eyes, robotic arms that unravel into machine guns, metabolism regulators, and much more. You could make your own Robocops or Astartes-lites.
+1106.Tinker - Augments(IV),6.5
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. You can perform full body conversions to essentially turn people into powerful Cyborgs strong enough to flip over tanks and dodge bullets, you can fit an amount of implants in a body that otherwise should not be able to fit that much tech, because who doesn't want a minigun popping out of their stomach? Whoever said you can't fit a tank and a missile silo inside of a person has not met you. You can fit enough implants into one body to make them be legally considered a military company. Go out and build your own Adam Smashers.
+1107.Tinker - Augments(V),8.2
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Your level of technology allows you to augment regular people into damn near demigods. Small supercomputers in brains? Sure. Time Dilating spines? Why not. Augmented skeleton and muscles strong enough to suplex millions of tons without sweat? That's a given. Superman-lite laser eyes? Only if you are creative enough. Go out and build yourself a Genos or a Raiden.
+1108.Tinker - Defence(I),1.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. At this level, you are limited to modifying existing stuff to make them more sturdy and durable, and also creating things like basic shields, bulletproof glass, 
+1109.Tinker - Defence(II),2.9
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. At this level, you are able to create far more resistant and sturdy things as well as constructs specifically for protection. Fireproof(up to a certain level) coating, impact-resistant suit, EMP threading, bulletproof fabric, etc.
+1110.Tinker - Defence(III),4.5
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Creating things such as shield projectors, reinforced chasis', skintight suits that can take bullets without the wearer feeling it, different coatings to provide elemental resistances, and creating incredibly durable machines in general.
+1111.Tinker - Defence(IV),6.4
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Creating things such as giant forcefield projectors that can cover cities, creating regular cloth-like outfits that automatically harden in response to physical trauma to protect the user, Spatial Locks to prevent teleportation, and hyper-advanced paint that protects from elemental attacks. You can gear up a regular bicycle so much that you could ride it in the bottom of the ocean, in deep space and inside a volcano without scratching the paint. If you put some resources, effort and time in, you could probably make a phone that survives nuclear war without cracking the glass.
+1112.Tinker - Defence(V),8.6
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Giant forcefield projectors that bend space, time and energy to be nigh unbreakable? Sure. Alloys and fabrics that can be left in the sun with just a slight singe? That's a given. A gimp suit that can let a normal man survive nuclear war? ...Alright. Given enough time, resources and experience, you can make alloys and shield projectors that even gods cannot put a dent in. 
+1113.Tinker - Ranged Weapon(I),1.5
+#(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weapons. Though at this level, all you are capable of is building mostly mundane weapons like gunpowder weaponry like pistols, snipers, bows, slingshots, etc., at least they are supernaurally well constructed.
+1114.Tinker - Ranged Weapon(II),2.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weapons. Allowing you to build supernaturally efficient weapons and ammunition for the weapons you build. You can build revolvers that can blow through solid steel, and even rudimentary railgun weapons to replace gunpowder.
+1115.Tinker - Ranged Weapon(III),4.7
+#(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weaponry. Allowing you to build supernaturally powerful weapons and ammunition for the weapons you build. You can make gunpowder, electromagnetic and laser weapons too, with each having its own upsides and downsides. You could make a pistol that has enough power to rival a bolter and give it ammunition that also explodes into thermite. Or a canon that makes a Gustav look like a water gun.
+1116.Tinker - Ranged Weapon(IV),6.4
+#(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weaponry. Allowing you to build supernaturally powerful weapons and ammunition for the weapons you build. Gunpowder, Laser, Plasma, Electromagnetism, such are yours to design guns with. Ranging from giant machine guns to mow down entire armies, dark energy blasters to wipe out entire city blocks in single shots, and giant city-busting canons to incredibly efficient and even esoteric guns that can turn even a scrap of metal into a bullet that can rip through tanks.
+1117.Tinker - Ranged Weapon(V),8.5
+#(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weapons. The weapons you build rival the weapons of the gods. Make a sniper rifle that rips a hole through space to instantly land the bullet between an enemy's head. Make a pistol that shoots a compressed nuclear explosion. Make a giant canon that makes the Death Star look like a sad, wet fart. The only limit is the resources you have and the time you are willing to invest into it.
+1118.Tinker - Fortification,4.9
+#This Tinker specialisation allows you to build, design, modify and create technology and technology related to fortifications. Never worry about being invaded again, creating technology such as self-repairing walls, hidden turrets, proximity sensors, missile batteries, laser traps, spatial locks, etc. Tech made with this specialisation only works when attached to a sufficiently large building or area. 
+1119.Tinker - Resident Evil,6.0
+#Resident Evil - This Tinker ability allows you to build technology and constructs from the Resident Evil Universe. More specifically, you can design and cultivate the viruses, such as the Tyrant Virus, the Uroboros Virus, the Progenitor Virus, parasites, etc. This Tinker ability is rather time-intensive due to the amount of time needed to cultivate Viruses. With time, you could even modify the viruses to get rid of side effects, eventually. ...It will take a lot of trial and error.
+1120.Tinker - Aperture Science,5.7
+#Portal - This Tinker ability allows you to build technology of the Aperture Science Labs. Including turrets, portal guns, speed and jump gel, anti-fall boots, rudimentary non-combat robots, strong AI and much more. What it lacks in raw power, it makes up for in breadth of utility.
+1121.Budding,5.8
+#You are capable of granting people abilities by giving them buds of your own abilities that manifest as sidegrades. The buds cannot be stronger than Elite rank, and the maximum level of ability a target can hold depends on their own innate talents. The ability you budded is made weaker until they can fully assimilate the ability as their own, at which point you can retrieve the bud from them and restore your strength. You can retrieve buds anytime.
+1122.Tinker - Taimanin,7.0
+#(Tech)(Lewd) Taimanin - Allows you to learn, research and build technology from the Taimanin universe. Granting you access to technology such as advanced prosthetics, genetic modification, basic cloning, augments, brainwashing, demonization and a whole lot of other... lewd technology in addition to the basic sci-fi package.
+1123.Tinker - Cosmetics,2.0
+#Tinker - This Tinker ability allows you to modify, create and design technological constructs related to cosmetics and appearances. Hyper-realistic masks, making an existing machine look good, holograms, beauty cream, perfumes, etc.
+1124.Tinker - Electricity,6.7
+#Tinker - This Tinker speciality allows you to build, modify, and design technological constructs relating to electricity. Ultra Tesla coils, harnessing thunder from above, and just about anything that harnesses the power of electricity(separate from magnetism).
+1125.Tinker - Dungeonmaster,6.5
+#Tinker - This Tinker speciality allows you to build constructs, magical or technological, relating to the creation of dungeons and dungeon-related contraptions. You are able to create dungeon rooms that are larger on the inside than outside, nigh indescrutable walls, numerous traps that only work inside the dungeon, several utility dungeon rooms, etc. But your Dungeon must have at least one accessible entrance and a plausible way to reach the core for an invader. Tech from this specialisation only works inside the dungeon, and all tech inside the dungeon is boosted.
+1126.Tinker - Sustenance,2.8
+#This tinker speciality allows you to build, modify and design constructs related to sustenance. You can create things such as efficient farms, incredibly efficient water purifiers and water condensers, blood alternatives for vampires, hyper-efficient food bars, life force alternatives made specifically for consumption, greater light projectors for plants, etc. The more different kinds of sustenance requirements you encounter, the more varied tech you can make.
+1127.Mystic Eyes of Depth Perception,0.2
+#These mystical eyes allow you to supernaturally gain awareness of the depth of an object or location in relation to something else.
+1128.Swiftness,2.4
+#You are able to amplify your movements with energy, making you move faster, but this does not affect your natural agility or senses. The faster you go, the more the energy cost increases.
+1129.Impact,2.8
+#You are able to amplify the physical impacts of your attacks by expending energy, making your punches and kicks, etc. deal more damage, but this does not amplify your stats, only the impact of your hits.
+1130.False Data,2.0
+#You are able to falsify your statistics and abilities to show scrying and analysing abilities what you want them to see instead of what you actually have.
+1131.Multiplicity,2.8
+#Multiplicity allows you to duplicate your limbs and organs. Conjure multiple sets of arms, multiple sets of eyes, or another heart if you can fit another one in there. Adding more limbs and organs to your body will cause strain.
+1132.Tunnel Effect,5.5
+#You are able to temporarily enforce Quantum Tunnelling on yourself. Altering probability on yourself to make the stars align and have attacks appear past you harmlessly, or allowing you to quantum tunnel through objects or obstacles. This ability is quite draining to use. And the longer you use the ability, the more the energy consumption increases exponentially.
+1133.Unseen Hand,4.9
+#Re:Zero - Unseen hand allows you to summon numerous invisible hand-like appendages from your body under your control that you can freely extend and use. The hands are superhumanly strong, even being able to merge with each other to form a slower but stronger and larger hand. The power of the hands and the amount you can manifest at once depends on 
+1134.Cor Leonis,2.5
+#Re:Zero - Cor Leonis allows you to sense your allies as spots of light in your vision. By using Cor Leonis, you are able to take on their physical and mental conditions, such as exhaustion, onto yourself. You can also transfer these conditions to your allies as long as they are willing.
+1135.Return By Death,9.0
+#Re:Zero - "You return by dea-" It allows you to do as the name suggests, every time you die, you return in time to a set spawn point. The spawnpoints are random, but do reset every time you go to sleep for more than 6 hours. Does not activate with soul or existence erasure. 
+1136.Conjure Ice,2.1
+#Allows you to create constructs of ice out of your own energy, you do not have control over the ice beyond creating it, and you cannot freeze objects, just create objects out of ice. Such as walls of ice, ice weapons, ice blocks, ice boulders, etc.
+1137.Conjure Rock,2.4
+#Allows you to manifest rock constructs out of your own energy; you do not have control over the rocks beyond creating and shaping them, simply creating constructs made of rocks. Such as rock weapons, boulders, rock walls, stone blocks etc.
+1138.Wallmaster,3.7
+#You can make a wall out of anything, any wall, all walls, walls, walls. Stone walls, ice walls, walls of wind, walls of solified sunlight, walls of raw energy. Anything in your arsenal, you can shape it into a wall, or any object and ground you are touching, you can turn it into a wall. The size of the wall and its durability scale with the amount of energy you use. Walls.
+1139.Swordmaster,4.2
+#You can make a sword out of anything, any sword, swords, swords, good swords. Swords of fire, swords of light, swords of ice, swords of wind, swords of energy, swords of swords, swords. Anything in your arsenal, including your abilities as well as any object in your possession or unoccupied material you are touching, you are able to turn them into a sword, with the power and duration of the sword depending on the amount of energy you expend. Swords.
+1140.Knighting,5.0
+#You can convert an ability of yours into an armament that you can bestow upon someone willing to receive. The abilities of the weapon or piece of equipment they receive are based on the ability you have bestowed. Once they accept your gift and are knighted, they are unable to refuse your orders as your vassal. If you take an armament back from a Knight, they lose their status and can never be knighted again. They must know the burden of the armament you are bestowing for this ability to work. A Knight can be teleported to your location every 24 hours.
+1141.Burden of Servitude,4.8
+#"Servitude at a price" Allows you to collar a target, in exchange for bestowing a portion of your abilities or traits to them. Once they are collared, they are completely unable to disobey your orders, and you can summon them to your location at any time. The stronger a target, the more abilities and traits you need to grant them in exchange for collaring them. The granted traits and abilities can never be taken back and are lost when the target is killed. If a target is too strong in relation to you, this ability cannot be used.
+1142.Greed's Deal,6.6
+#"Everything and everyone has a price." You are able to buy anything from anyone, as long as you pay enough for it. You can pay them to give you an item of theirs, for a night with them, for them to kill their family, for them to devote themselves to you, for anything. The price you need to pay depends on your power level in relation to them and how willing they would be to perform the action otherwise. If they are weak enough, you could buy their soul for a dollar, but for someone strong enough, you might need to pay an epic item just to get them to calm down. Your payment must be in items such as gold or valuable items. Items you use for payment are burnt out of existence.
+1143.Reaper's Voice,5.6
+#"Deal with their baser instincts, not their logic" You are able to command people through fear; the more they fear you, the more you are able to command, scaling with your ability to intimidate someone. If they fear you enough, you could convince them to give up just about anything, their children, their wives, their house, their life, their kingdom. Even if they obey the command out of fear, they will not be able to oppose it when you stop using your ability. Whenever they do, the fear returns to them. 
+1144.Subtitles,3.0
+#Who needs dub? Whenever anything makes sound, you will get subtitles for it. If someone is speaking, it will appear as "Good for you to finally join us(Sarcastically)" regardless of the language they are speaking. This also applies to sound effects, also describing the noise like [Assassin's Footsteps], [Grenade Pin Being Pulled], [Fireball Chant] etc. Only applies to relevant sounds and people you are actually paying attention to.

@@ -1069,6 +1069,60 @@
 524.Sword of the Storm,2.6
 #Xiaolin Showdown - A Shen Gong Wu in the form of an intangible that the user can imbue their energy into to create powerful winds and enhance the power of wind and weather-based abilities. 
 525.Third Arm Sash,1.9
-#Xiaolin Showdown - A Shen Gong Wu in the form of a sash that can act as a third arm under your control, it long and flexible while also being considerably stronger than a grown man.
+#Xiaolin Showdown - A Shen Gong Wu in the form of a sash that can act as a third arm under your control, it is long and flexible while also being considerably stronger than a grown man.
 526.Ascalon,9.6
 #Ben 10 - A sword created by the Thinker Azmuth, one of the greatest weapons of the Universe in the form of a sword. The blade Ascalon channels the fundamental forces of reality and creates an armour created out of Cosmic energy, granting them an incredible physical boost, and defence and immunity to mental effects. By channelling the fundamental powers of the universe, the blade can cleave anything, even realms and reality itself, or the fabric of spacetime to teleport. It allows the user to project energy slashes. It can deflect, reflect and cut energy itself. It can also drain the powers of opponents it stabs into the blade.
+527.Duffel of Hardware,3.6
+#(Tech)A simple backpack that contains anything you could reasonably find in the average hardware store in unlimited quantities, but you need to physically reach in and pull the item out. To retrieve an item, you have to at least know what you are pulling out.
+528.The Market Catalogue,2.8
+#(Tech)A simple catalogue that allows you to order anything from any regularly accessible store from Base Earth that will be instantly delivered to your location. Everything in the catalogue costs double the regular cost of the items, adjusted to the economy of the world you are currently in.
+529.Stockpile,2.9
+#(Tech)A Simple cardboard box that contains a seemingly infinite amount of mundane raw materials like wood, stone, ore, rope and other such materials that the average person could get their hands on. Only 50kg of materials may be taken out every 24 hours. If the box is somehow lost or destroyed, you will be able to stumble upon it in perfect condition if you go searching for it.
+530.Box of Scraps,3.8
+#(Tech)"If Tony Stark could make do with it, so can you" It's a box containing an unlimited amount of scrapped electronics that are stealthily stolen from Earth. Any broken electronic that the average Joe may have thrown away is in here. You have to physically reach in and grab it, though. No turning the box upside down.
+531.Scrapyard,4.2
+#(Tech)Allows you to place down the scrapyard on a location of your choosing. The scrapyard is 250 x 250 meters wide and produces scrap for your use. The scrapyard fills with scrap over time, ranging from busted-up cars to thrown-away electronics sourced from copies of the original Earth. If you are lucky, you might find an almost intact military tank, or you might find a rotten bed. Who knows? 
+532.The Assembly,5.2
+#(Tech)The Assembly is a large room-sized machine; you can throw any item into the assembly and it will disassemble it down to its most basic components(Down to the size of snowflakes). The assembly can reassemble any item it has broken down into ingots or materials for the user's use or reassemble them into an item, as long as the user can provide the blueprint. 
+533.Captain's Shield,4.3
+#Marvel - The Shield of Captain America, created out of Pro-Adamantium, one of the toughest materials known to man, capable of withstanding even the toughest of blows. The shield also has a knack for bouncing back to its owner when thrown.
+534.Guardian Shield,2.5
+#God of War - An extremely durable bracelet that can unfold into a supernaturally durable shield faster than the blink of an eye. It can also serve the duty of a bludgeon if need be.
+535.Shield Saw,3.1
+#(Tech)Doomslayer - "You will never see a cooler shield" This high-tech shield is the lovechild of a chainsaw and a powerful shield. The shield itself can block incredibly well and is incredibly durable. The blades on the shield can spin incredibly fast, and when thrown, the shield can adjust its trajectory mid-flight and return to the user.
+536.Feedbacker,5.1
+#(Tech)Ultrakill - The disembodied arm of V1 that works as a prosthetic implant. This arm has tremendous physical strength and speed, being able to punch hard enough to make bullets go faster and parry blasts of energy. This arm fuels itself by consuming blood, whether that of the user or that of others. But the user can also heal themselves using the Feedbacker to steal the blood of others. This item manifests as a ticket that the user can rip and install the prosthetic on themselves.
+537.Marksman Revolver,4.8
+#(Tech)Ultrakill - An incredibly high-tech, powerful revolver that puts even anti-tank rounds to shame. The marksman revolver allows the user to manifest up to 4 gold coins that they can throw in the air. Hitting a coin will cause the bullet to ricochet towards the closest target's weak point if it can be hit, the more coins you chain, the stronger your bullet will become. Instead of bullets this gun uses high velocity metal shards with incredible ammo efficiency, it would takes days of shooting to deplete the ammo, and even then, showing some metal in there should make it for several more.
+538.Dust Supply Crate,5.1
+#RWBY - A supply crate containing refined high-quality dust from the world of Remnant to be used for your own needs. The crate will contain 5kg of the dust of your choice. Restock Timer: 120 Hours
+539.Crescent Rose,2.2
+#(Tech)RWBY - The ungodly mechashift fusion of a massive scythe and a high-calibre sniper rifle. The weapon can be compacted and carried or shifted into several forms for combat, such as a rifle or war scythe. It also comes with a magazine of dust sniper rounds of your choice every 24 hours.
+540.Myrtenaster,2.9
+#(Tech)RWBY - "Don't even try to spell it." is a mechashift revolver rapier with 6 slots for dust rounds. By activating a dust cartridge, the rapier can cut with flames or even freeze depending on the dust used. You get 6 dust rounds per day of a specified dust type of your choice.
+541.Sento,4.9
+#Mortal Kombat - Sento is an ancient blade passed down through Kenshi's clan and contains the spirit of his ancestors. In addition to its exceptional durability and sharpness, wielding the blade grants the user enhanced sensory ability and the ability to telekinetically control the sword. By imbuing energy into the blade and having enough affinity with the spirits inside, you can temporarily summon them to aid you in combat.
+542.Light Cycle,2.2
+#(Tech)Tron - A high-tech, sleek sci-fi bicycle that is extremely durable and extremely fast. And most of all, extremely cool. This bike does not need to be recharged or fueled.
+543.Robot Workbench,4.6
+#(Tech)Fallout - An advanced Robot Workbench that allows you to put in raw materials that will be recycled into robot parts that can be used to assemble any configuration of Robot that the original Robot Workbench can produce. As well as upgrade them. But you need the appropriate materials to do so.
+544.Robot Assembly,5.6
+#(Tech)An advanced room-sized station that allows you to assemble robots by inputting raw materials that are converted into Robot parts that can be assembled into Robots. The robots that can be assembled depend on the blueprints you can feed into the machine. By default, the machine has access to the blueprints of Fallout Robots. The quality of the robot parts depends on the quality of the material you feed into the machine.
+545.Web Fluid & Shooters,3.4
+#Spider-Man - "Don't forget the hyphen!" A vial of Spider-Man's patented web fluid and a pair of webshooters you can equip to your wrists. You get one full vial every 24 hours.
+546.Goblin Glider,2.8
+#Spider-Man - A high-tech glider that can fly at great speeds and can be controlled by the user's mind, it also has bladed edges to be used as a weapon. It includes some storage space for your needs if needed. It gets refuelled every 8 hours, and as long as it is not completely damaged, it will slowly repair itself.
+547.Mechanical Tentacles,3.1
+#Spider-Man - A high-tech harness that has 4 mechanical tentacle arms fused into it, you can move the tentacles with your thoughts, or they can move independently according to your commands. The arms possess supernatural strength and have several tools integrated into them depending on what they need to do.
+548.2008 Menu #4 Cheese and Vegetable Omelette,0.5
+The infamous MRE nicknamed "Vomelette" by the troops. It may not be palatable, but it is food, and it is digestible. Restock Timer: 10 minutes
+.Forgiveness Ticket,5.0
+Just give this ticket to someone to bury the hatchet and make them forgive you for whatever you did. Stole all of their money? It's fine since you gave them this ticket. But does not extend to murder. For the ticket to work, the target must have had at least a neutral reputation with you before.
+549.Favour Cheque,4.8
+A blank cheque that you can hand over to someone to cash in a favour with them. The favour is not large enough to make someone do something that strongly goes against their moral codes, but large enough that they will try to fulfil it even if it greatly inconveniences them, like letting you live in their house rent-free, etc. Once the check is used, it will be burnt.
+550.A Doctor's Appointment,1.6
+A ticket for a doctor's appointment, whoever rips the ticket will instantly receive a detailed doctor's note containing detailed notes about their physical condition, as well as a large variety of possible treatments for any conditions they might have. Restock Timer: 120 hours
+551.Tactical Trenchcoat,1.5
+A rather cool-looking, exceptionally durable and tough yet comfortable trench coat. In addition, all pockets on the trenchcoat are 10x bigger on the inside than they should otherwise be, allowing you to store more things.
+552.Chaos Gacha Promotional Shirt,1.0
+#A regular white shirt with the words "I rolled a ticket and all I got was this stupid shirt in return" written on it. In the event that the shirt is destroyed or lost, it will reappear somewhere accessible to the user in mint condition.

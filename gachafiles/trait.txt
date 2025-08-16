@@ -144,16 +144,16 @@
 #Nobody fucks with the white mage. All of your recovery class abilities are more potent and cost less energy to use, and people are more grateful for you healing them because they better be.
 73.Endbringer Physiology,8.3
 #Worm(Race Change) - You are an Endbringer in the form of whatever you were before, despite not looking any different, your physiology is completely overhauled. Your nonstandard biology grants you extreme physical stats and makes you completely immune to all Biological and mental abilities. In addition, your body is made up of hundreds of layers that get exponentially more durable the closer they get to your core through the warping of spacetime. As long as your core, the most durable part of your body is intact, you will eventually regenerate. While your outermost layers are not that much more durable. To get to your core, someone must destroy at least a planet-sized mass, even at the minimum durability you have. This also makes you resistant to all Spacetime abilities and effects used on you against your will. Durability and stats scale with base stats. You still retain all the functions your body had before.
-74. Enhanced Stamina,2.4
-#Your stamina is beyond the norm, you can perform strenuous activities for longer and recover from exhaustion far more quickly. In addition, you can perform for far longer.
-75. Enhanced Endurance,2.6
-#Your endurance is beyond the norm, your body is more durable and resistant, allowing you to resist more damage and be harder to damage than normal. You are very hardy.
-76. Enhanced Strength,2.3
-#Your strength is beyond the norm, your muscles are denser and more reinforced, allowing you to exert more physical force using your body. 
-77. Enhanced Agility,2.7
-#Your agility is beyond the norm, your natural speed and reflexes are greater than what most would consider normal. 
-78. Enhanced Vitality,2.5
-#Your vitality is beyond the norm, you recover from ailments and wounds faster than what most consider normal. In addition, your life force has been enhanced, giving you an increased lifespan.
+74.Healthy,1.5
+#You are very healthy for your body, granting you slightly increased vitality and virility. In addition, any previous natural health complications you had before getting this trait are fixed.
+75.Cardio,1.3
+#You have great cardio, granting you slightly increased stamina and exhaustion recovery speeds. You've got a good set of lungs and heart on you.
+76.Nimble,1.6
+#You are pretty nimble, granting you slightly faster reflexes and speed.
+77.Durable,1.7
+#You are fairly tough, granting you a slight increase to your defense and letting you take more punishment.
+78.Strong,1.8
+#You were always pretty strong, granting you slightly increased strength, allowing you to exert more force with your body.
 79. Reservoir,2.8
 #Your energy reserves and recovery speed are greater than what most would consider average.  
 80. Breathless,2.1
@@ -666,7 +666,7 @@
 #Race(Tsukihime) - You are a fully realized Dead Apostle, a blight upon the kands and possessing your own ability unique to yourself befitting your rank, granting you an epic ranked ability that does not take up an ability slot. In addition, you have vastly superior physical stats and have time rewinding regenerative immortality as long as you have blood in your body. You can turn humans and animals into your thralls as lower-ranking apostles. The more blood you consume the stronger you get and recover energy.
 334.Dead Apostle Ancestor,8.6
 #Race(Tsukihime) - You are a true Dead Apostle Ancestor, a crimson stain from the moon to the earth. As a Dead Apostle Ancestor you have immense physical and magical powers, your body naturally rewinds its own time whenever you are injured to restore your health as long as you have blood. You have your own Idea Blood, a Legendary Ability that suits you which you can freely use without an ability slot. Your blood can turn those who ingest it into fully fledged powerful vampires instantly. Any vampire and undead will acknowledge your existence as the ultimate vampire class.
-335.Beastmen,3.5
+335.Beastkin,3.5
 #Race - You are a beastkin of a random animal such as a bear, rabbit cat, wolf etc. granting you enhanced physical stats, night vision as well as unique traits and biological features depending on what you are a hybrid of.
 336.Ghoul,4.2
 #Race(Tokyo Ghoul) - You are a ghoul, a flesh-eating superhuman with a powerful and flexible unique organ named a Kagune of your choosing. As a ghoul, you also possess formidable regeneration. But as a downside, you cannot digest anything other than human flesh and if you don't you dine for longer than two weeks you will slowly enter a feral state.
@@ -742,7 +742,7 @@
 #You are a summoner, summoning and commanding creatures, familiars, spirits and summons come naturally to you. All Familiars get enhanced stats and consume less energy. The potency of all projection-type abilities and spells is increased, it is easier to build affection and loyalty with summons and contracted entities.
 372.Brand of Tzeentch,5.8
 #Warhammer 40k - You wear the brand of Tzeentch, the Changer of Ways. Greatly speeding up your comprehension and learning abilities. Allowing you to improve in skill and magic far faster. In addition, you are capable of spells that you otherwise wouldn't be able to learn due to restrictions like racial differences. Note: Brands do not connect you to the  Chaos Gods or Warp.
-373.Brand of Slaneesh,4.6
+373.Brand of Slaanesh,4.6
 #Warhammer 40k - You wear the brand of Slaanesh, the Lord of Pleasure. Greatly increasing your understanding of others, you can vaguely feel the emotions of others, in addition, your presence is naturally more charismatic and alluring to others. Note: Brands do not connect you to the  Chaos Gods or Warp.
 374.Brand of Khorne,5.3
 #Warhammer 40k - You wear the brand of Khorne, the Blood God. Greatly increasing your propensity for combat, your instincts are greatly heightened in the midst of combat, you have greater intuition into using any weapon or skill in combat, making you a natural killing machine. You can track blood and are able to sense killing intent like it is second nature. Note: Brands do not connect you to the  Chaos Gods or Warp.
@@ -838,3 +838,83 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #You are absolutely immune to all damage from attacks of natural elements such as Fire, Water, Earth, Wind, Light and Dark. Even a Supernova or an Absolute Zero won't even scuff your clothes. But physical attacks and unreal elements such as Space, Time, Raw Energy can get past your defences. 
 420.The Absorber,9.1
 #You are the absorber; your body and soul can absorb anything. Especially Energy. You would survive being dropped into the sun because your body could soak up all of the heat energy and convert it into your energy reserves. The speed and degree of absorption scale with your stats, but even as a base human, nothing short of a nuclear bomb could get past your basic absorption.
+421.Cosmetic Calibration,1.8
+#While cosmetic calibration is active, changes such as transformations or race changes will not affect your looks in ways you view as undesirable.
+422.Imp,2.1
+#Race Change - You are an Imp, a low rank Demon. As an Imp, you have increased physical and magical stats. In addition, your affinity towards Unholy, Darkness and Fire is increased. But you are also made vulnerable to holy, light and exorcisms.
+423.Demon,3.7
+#Race Change - You are a demon, a middle rank infernal being. As a demon, you have augmented physical and magical stats. You possess a greater affinity towards Unholy, Darkness, Infernal and Fire. But are vulnerable to Holy, Light, Divine and Exorcisms. You can also turn your body parts into natural weapons, such as sharp teeth and claws.
+424.Fiend,4.9
+#Race Change - You are a Fiend, a high rank infernal demon. As Fiend, you have considerable physical and magical abilities. You also have a greater affinity towards Unholy, Darkness, Infernal and Fire, being able to master abilities and spells related to them much faster. But as a High Rank Demon, you are rendered incredibly vulnerable to Holy, Divine, Light and Exorcisms. 
+425.Archfiend,5.7
+#Race Change - You are an Archfiend, a Demon Noble. As an Archfiend, you have greatly superhuman stats and potent magical abilities, as well as a presence that allows you to command respect and fear in Infernals weaker than yourself. You have an incredible affinity with Unholy, Darkness, and Infernal, allowing you to utilise related abilities and spells to a greater degree. But you cannot utilise Holy and Light under normal circumstances, and are rendered vulnerable against them. You have the ability to unleash your demonic power, taking on a more demonic appearance, which will drain your energies faster, but augment your stats further and allow you to imbue your abilities with the Darkness attribute.
+426.True Demon,6.8
+#Race Change - You are a True Demon, a Demon Royalty. As a pure demon, you possess incredible Physical and Magical might. The true blood in your veins allows you to command Infernals below your rank, which can be resisted somewhat by those of powerful will. Your affinity with Darkness, Infernal and Unholy is unmatched, and you can naturally convert your energy into Dark or Unholy attributes, but cannot utilise Holy or Light under normal circumstances. You are also rendered vulnerable to Holy. You can unleash your True Demon form, assuming a more demonic appearance and augmenting your stats while increasing your energy drains considerably.
+427.Daemon,7.7
+#Race Change - You are a Daemon; considering you as simply an infernal being is not quite right. As a Daemon, you possess superhuman physical abilities, but incredible Magical Power and Energy Reserves as well as regeneration. You possess an incredible affinity with Darkness, Infernal and Unholy, being able to make up your own spells on the spot and massively amplifying the potency of related abilities and spells. Once unleash your true spirit form, your maximum health and regeneration gets converted to your magical power and become incorporeal, massively amplifying your energy output while being able to imbue your powers with Unholy and Darkness energy. Since vitality is replaced with your energy, as long as you have energy, you cannot die.
+428.Demon Kaiser,7.7
+#Race Change - You are a Demon Kaiser, a primordial Infernal. As a Kaiser, you possess increased magical ability and massively amplified physical abilities and regeneration, being able to flatten hills with your fists at base. As the Kaiser, you are able to bend any weaker Infernal to your will. Your affinity with Infernal and Unholy abilities is incredible, allowing you to augment related abilities to a higher tier as long as they are below Legendary rank. You are also rendered vulnerable to Holy and Light. By unleashing your True Kaiser form, your physical stats are massively amplified, and you gain incredible magical resistance, as well as losing your vulnerability to Holy and Light, but your energy consumption is amplified, and once you run out of energy, the form gets dispelled. 
+429.Augmented,2.6
+#(Tech)Race Change - You are a converted, half-flesh and half-machine. As an Augmented, you possess increased physical stats and have increased energy reserves. You possess an increased affinity with Tinker abilities and technology, as well as interfacing. But you are also rendered vulnerable to Electricity and Interfacing.
+430.Android,3.7
+#(Tech)Race Change - You are an android, a higher class of machine-flesh hybrid. As an Android, you possess increased physical abilities and energy reserves. Your natural energy regeneration is lessened, but you can charge yourself like a machine. Your effectiveness when wielding Tinker abilities and technology is increased. But you are also rendered vulnerable to Electricity and Interfacing. You also possess basic augments such as a computer in your head and retractable mantis blades in your arms and legs(Cyberpunk). You can also tinker with yourself to change your body to an extent(You still have fleshy bits).
+431.Advanced Android,4.8
+#(Tech)Race Change - You are a more advanced model of an android. As an Advanced Model, you possess superhuman physical abilities and increased energy reserves. Your natural energy regeneration is lessened, but you can charge yourself like a machine. Your Tinker abilities are more efficient and progress faster, and your capacity to handle technology is greatly increased. But you are also rendered vulnerable to Electricity and Interfacing. As an Advanced Model, you possess augments such as a powerful computer integrated in your body and multiple combat implants such as Projectile Launcher System, Gorilla Arms and Mantis Blades from Cyberpunk. You can also tinker with yourself to change your body to an extent(You still have fleshy bits).
+432.Biodroid,5.0
+#(Tech)Race Change - You are the seamless merging of technology and flesh, making you an incredibly effective Bio Android. Granting you increased physical abilities and increased energy reserves, as well as a natural healing factor. You have increased affinity with Tinker abilities and machines, as well as being able to converse and interface with machines.
+433.Full Conversion,5.5
+#(Tech)Race Change - You are a fully converted Cyborg with minimal flesh. You do not regenerate energy naturally and instead are able to absorb outside sources of compatible energy to recharge yourself. Your Tinker abilities are far more efficient, and you are able to seamlessly interface with technology. You possess multiple Augments, such as a basic supercomputer and VI, and you are capable of integrating compatible technology into your body. You are equipped with basic combat implants such as hidden Machine guns and a pair of mantis blades in each limb. You can also tinker with yourself to change your body to an extent(You still have fleshy bits). But you are incapable of benefiting from biology-based abilities affecting you.
+434.Mechlord,6.7
+#(Tech)Race Change - You are a Mechlord, a Higher Class of Machine-Flesh hybrid. As Mechlord, you possess superhuman stats and incredible energy storage. While your natural energy regeneration is lacking, you are able to absorb the energy reserves of machines around you. Your efficiency with Tinker abilities is incredible, and any machine or technology you wield gains increased performance scaling with your capabilities. You are also able to convert and command technology and AI below your rank to act in your will, with the effectiveness being dependent on the power difference between you and the target. You can also integrate outside technology into your body and use them as augments. You also get 3 Silver-tier Tech item rolls as augments to start with.
+435.The Prime,7.8
+#(Tech)Race Change - You are the Prime unit, the highest tier of Machine-Flesh hybrid. As the Prime unit, you possess massively increased Physical Stats and Energy Reserves. You can absorb the energy from machines and compatible energy sources. All Tinker abilities are made incredibly more efficient, and you can reconfigure your body to emulate tech from your Tinker abilities. You can also decipher and learn other tech incredibly fast. All Technology and Virtuals below your rank are bent to your will and cannot contest your authority as the Prime Unit. You can seamlessly absorb and integrate outside technology of the same rank as you or below into yourself. You also get 3 gold-tier Tech item rolls as augments to start with.
+436.Vital,3.8
+#You have greatly increased vitality, allowing you to heal from wounds faster, resist poisons and illnesses better, be more virile, have an increased lifespan and overall be unbelievably healthy. Your natural healing speed can be compared to a slight healing factor, but you will need to eat a lot to compensate.
+437.Marathoner,3.5
+#You have greatly increased stamina, you can perform strenuous activities for longer and recover from the exhaustion caused by them far quicker.
+438.Racer,3.7
+#"It was originally going to be -ist". You possess greatly increased agility, allowing you to move considerably faster with your body and increasing your reflexes and coordination to match. 
+439.Tough as Nails,3.6
+#You are tough as nails, granting you significantly increased durability and endurance. Allowing you to resist stronger blows with less damage and recover from injuries faster(not healing), you are capable of powering through attacks more effectively.
+440.Brawler,3.4
+#You possess greatly increased physical strength, allowing you to exert more force with your body than you otherwise would have been able to and punch way harder than you should be able to.
+441.Surging Vitality,4.8
+#You are indordinately vital. You are extremely healthy, being immune to mundane sicknesses and poisons, and the usual genetic vulnerabilities of your body are negated. Your natural healing is closer to a minor healing factor than regular recovery. You also possess an incredible lifespan; you will live to see at least your late hundreds.
+442.Like the Wind,4.7
+#You move like the wind, you possess greatly augmented Agility, making you faster, nimbler, in addition to augmenting your reflexes and coordination.
+443.Resistant,4.5
+#You are incredibly tough, granting you greatly increased natural resiliance, allowing you far greater punishment than you should otherwise be able to endure.
+444.Power Lifter,4.4
+#You are a natural-born strongman, or more like a stronger man. You possess greatly enhanced physical strength, allowing you to exert far more physical force with your body than you otherwise would be able to.
+445.Lil' Hermes,5.7
+#You are an aspiring divine messenger apparently(Flavor Text). Your natural agility is greatly enhanced, making you faster and increasing your reaction speeds appropriately. In addition, all Mover abilities are slightly more potent and cost less energy to use.
+446.The Wall,5.8
+"You can't go through it, and you can't knock it down!" You are the Wall, possessing extreme natural resiliency, even as a base human, bullets simply bounce off your chest, and knives break against your skin. You also possess natural magical resistance that scales with your physical stats, although it does not match your endurance.
+447.Ichor,5.9
+#It is Ichor that flows through your veins, granting you extreme vitality and a natural healing factor as well as incredible poison and disease resistance. Even as a regular human, you will live to see your late thousands. Your blood also has healing properties and is an excellent potion ingredient.
+448.Edible Fluids,1.2
+#Somehow, in some way, your bodily fluids such as sweat, saliva, blood, and ejaculate, are nutritionally and calorically dense while also being very healthy. They are also taste surprisingly good. Consuming your own fluids does nothing for you.
+449.Midi-Chlorians,6.3
+#Star Wars - Your biology is unique; it contains special microscopic lifeforms that are attuned to the Force. Allowing you to train yourself in the ways of the force, the Midichlorian count in your body is dependent on your stats and traits. The higher your midichlorian count, the more potent your connection to the force, and the faster you can master force-related abilities.
+450.Deus Eggs Machina,0.8
+#You will be able to find a regular chicken egg anywhere in opportune moments.
+451.Drunk Driver,0.9
+#"It's the drunk crashers that give drunk drivers a bad name." The more inebriated you are, the more skilled you are at driving and operating vehicles.
+452.Ceasless Discharge,0.9
+#"Not the one you are thinking of" Your cum refills almost instantly, and the volume of your ejaculations is substantially increased.
+453.Scarousing,3.3
+#For some reason, the scarier you act, instead of being rightfully terrified, people that you consider potential partners are also equal parts aroused by you. The mind works in mysterious ways.
+454.Large than Life,1,4
+#People feel like your presence is larger than it should be. Even if you are a head shorter than them, it will still feel like you are towering over them.
+455.Speak of the Devil,4.8
+ #-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
+456.Wolfkin,3.5
+#Race Change - You are a Wolfkin, a half beast with the traits of a Wolf, including wolf ears, tail, retractable claws and sharp teeth. In some individuals, the wolf traits may show up as more dominant. You possess increased physical abilities and senses as well as a fierce hunting instinct. You are also able to convey your intent to other animals, even if you cannot understand them back.
+457.Lycantrophe,4.7
+#Race Change - You are a Lycanthrope, a half wolf who can change into their Werewolf form at will. Depending on the amount you tap into your transformations by, your physical stats are augmented, and so are your instincts, including the animalistic ones. But as a regular lycanthrope, you cannot spread your lycanthropy. You are also able to communicate better with Beasts and have a greater affinity towards Changer powers, increasing their potency and efficiency.
+458.Lycan Alpha,5.8
+#Race Changer- You are an Alpha Lycan, a ruler among werebeasts and a half wolf. You can tap into your bestial side at will and transform into a Werewolf or a full wolf. Doing so greatly augments your physical stats and grants you powerful claws and teeth while massively amplifying your senses and instincts. As an Alpha, you are able to turn others into Lesser Lycans, werewolves under your command. All Beasts perceive you as having greater authority and presence due to your potent blood.
+459.Lunar Lycan,6.5
+#Race Change - You are a Lunar Lycan, a Royal Lycantrophe blessed by the moon. You can tap into your bestial side at will and transform into a Werewolf or a full wolf. Doing so massively increases your physical and magical stats, alongside massively amplifying your senses. The blessing of the moon increases your resistance to magic and esoteric effects while increasing your affinity towards all magic. As a Royal Lycantrophe, you are able to convert others into Lesser Lycantrophes to Greater Lycantrophes that share the same blessing of the moon and placing them under your command as their alpha.
+460.Managarmr,7.8
+#Race Change - You are the Child of the Moon Devouring Wolf, the pinnacle of Lycantrophy. As a divine lycanthrope, you can tap into your Bestial side at will, transforming you into a hybrid or a titanic wolf you can control the size of. Granting you extremely increased physical stats, godlike instincts, and senses. You are able to devour anything; your jaws and claws can rend even space and rip apart anything, even magic and divine flesh. Anything you eat will be destroyed and converted to magical power. You are able to grant your blessing to others, transforming them into Lycantrophes. In addition, you possess authority over all beasts and beastkin below legendary rank. And even those resistant to the effect understand your royal authority.

@@ -78,8 +78,8 @@
 #You are as skilled as a doctor, possessing a variety of medical knowledge and skills in treating injuries, illnesses and problems as well as familiarity with the body and medicine as well as its applications.
 40. Kung Fu, 2.5
 #You are an apprentice in Kung Fu, a Chinese martial art that refines the body,  that emphasizes discipline, efficiency, and adaptability. It encompasses various techniques, including strikes, guards, footwork, and grappling. With sufficient mastery over Kung Fu, you can enhance your strikes with your internal energy
-41. Bajinquan, 3.5
-#You are an apprentice in Bajinquan, a Chinese martial art specializing in explosive short-range attacks and aggressive forward momentum to break through enemy defences. With sufficient mastery over Bajinquan, you can enhance your strikes with your internal energy
+41. Bajiquan, 3.5
+#You are an apprentice in Bajiquan, a Chinese martial art specializing in explosive short-range attacks and aggressive forward momentum to break through enemy defences. With sufficient mastery over Bajiquan, you can enhance your strikes with your internal energy
 42. Taekwondo, 3.7
 #You are an apprentice in Taekwondo, a dynamic Korean martial art specializing in speed, agility, and powerful kicking techniques. It combines high, spinning, and jumping kicks with fast footwork and precise strikes to deliver devastating blows. With sufficient mastery, you can enhance your strikes with your internal energy
 43. Renewal Taekwondo, 6.6
