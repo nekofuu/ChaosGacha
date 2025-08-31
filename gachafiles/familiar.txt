@@ -636,3 +636,19 @@
 #JoJo - Despite not being named as such, he is, in fact, a man in a mirror. Hanged Man is a stand in the form of sentient light, being able to dwell in reflective surfaces and damage the physical world without being hurt back. But it is limited to the force of an athletic human. And is forced to escape if the reflective space is covered, leaving as a ray of light. As a stand, Hanged Man requires your energy to remain active.
 330.High Priestess,3.7
 #JoJo - High Priestess takes the form of an amorphous, tribal like creature that can merge and control minerals, transforming the ground into cars, guns, giant faces, etc. The range of control and the power it can assert depend on your power level, and the damage of what it is merged into reflects back to you.
+331.Radiance,5.0
+#Hollow Knight - Radiance is a lesser moth deity of Light and Dreams. She is able to project beams of light, swords of light and orbs of searing light as well as teleport using essence. Her origin also allows her to exert power over the dreams of others, manipulating them to bend their will to hers, but those of comparable strength or particularly strong minds can resist her infection.
+332.The Knight,3.5
+#Hollow Knight - They are very hollow. The Knight is the perfect vessel, being able to contain anything inside of itself thanks to the void. They can also absorb soul by injuring living beings to use to either heal themselves or use in Shaman spells. They can also use their strength and nail to fight opponents while phasing through them with their Shade Cloak.(Pre-Radiance Fight Knight). Height: 1.3 Meters
+333.Hornet,2.0
+#(Character)Hollow Knight - Hornet is the child between the Pale King and the White Lady. She is quite powerful for her size and has considerable skill in fighting with her needle and threads; she is also able to mend herself using thread. Height: 1.3 Meters
+334.Troupe Master Grimm,4.5
+#(Character)Hollow Knight - Master of the Grimm Troupe, freed from the shackles of the Nightmare heart. As a fully matured Nightmare being, they are capable of shapeshifting, manipulating nightmare flames and performing short-range teleportation. As a nightmare, Grimm is also capable of invading the dreams of others.
+335Tinker Bell,1.4
+#(Character)Peter Pan - Tinker Bell is a fairy from Neverland. Due to her size, she is quite weak and unable to meaningfully participate in combat. But she can fly and allow others to fly temporarily by sprinkling fairy dust on them; she can produce a decent amount of fairy dust regularly. 
+336.V1,5.8
+#Ultrakill - V1 is a blood-fueled death machine, capable of incredibly fast and incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.
+337.Isabelle,1.3
+#(Character)Anima Crossing - Isabelle is an anthropomorphic Shi Tzu. While she does not have any combat abilities beyond what is expected of the average grown woman, she is quite a skilled secretary and manager, being able to deal with the law and manage assets.
+338.Lucifer the Ceo of Hell,4.3
+#(Character)Helltaker - Lucifer is one hell of a Ceo. As actual Lucifer herself, she is a powerful demon, possessing strength strong enough to rip steel in half like paper and being able to enslave people with a kiss, melting away their flesh and turning them into bone demons, possessing the abilities of a Fiend(Elite Trait) and being capable of using basic demonic magic. Having ruled hell for thousands of years and being a CEO, she is an incredible manager beyond human standards. She can manage hundreds of businesses and still be minimally inconvenienced compared to running Hell itself.

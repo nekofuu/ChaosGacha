@@ -1115,14 +1115,28 @@
 547.Mechanical Tentacles,3.1
 #Spider-Man - A high-tech harness that has 4 mechanical tentacle arms fused into it, you can move the tentacles with your thoughts, or they can move independently according to your commands. The arms possess supernatural strength and have several tools integrated into them depending on what they need to do.
 548.2008 Menu #4 Cheese and Vegetable Omelette,0.5
-The infamous MRE nicknamed "Vomelette" by the troops. It may not be palatable, but it is food, and it is digestible. Restock Timer: 10 minutes
-.Forgiveness Ticket,5.0
-Just give this ticket to someone to bury the hatchet and make them forgive you for whatever you did. Stole all of their money? It's fine since you gave them this ticket. But does not extend to murder. For the ticket to work, the target must have had at least a neutral reputation with you before.
+#The infamous MRE nicknamed "Vomelette" by the troops. It may not be palatable, but it is food, and it is digestible. Restock Timer: 10 minutes
 549.Favour Cheque,4.8
-A blank cheque that you can hand over to someone to cash in a favour with them. The favour is not large enough to make someone do something that strongly goes against their moral codes, but large enough that they will try to fulfil it even if it greatly inconveniences them, like letting you live in their house rent-free, etc. Once the check is used, it will be burnt.
+#A blank cheque that you can hand over to someone to cash in a favour with them. The favour is not large enough to make someone do something that strongly goes against their moral codes, but large enough that they will try to fulfil it even if it greatly inconveniences them, like letting you live in their house rent-free, etc. Once the check is used, it will be burnt.
 550.A Doctor's Appointment,1.6
-A ticket for a doctor's appointment, whoever rips the ticket will instantly receive a detailed doctor's note containing detailed notes about their physical condition, as well as a large variety of possible treatments for any conditions they might have. Restock Timer: 120 hours
+#A ticket for a doctor's appointment, whoever rips the ticket will instantly receive a detailed doctor's note containing detailed notes about their physical condition, as well as a large variety of possible treatments for any conditions they might have. Restock Timer: 120 hours
 551.Tactical Trenchcoat,1.5
-A rather cool-looking, exceptionally durable and tough yet comfortable trench coat. In addition, all pockets on the trenchcoat are 10x bigger on the inside than they should otherwise be, allowing you to store more things.
+#A rather cool-looking, exceptionally durable and tough yet comfortable trench coat. In addition, all pockets on the trenchcoat are 10x bigger on the inside than they should otherwise be, allowing you to store more things.
 552.Chaos Gacha Promotional Shirt,1.0
 #A regular white shirt with the words "I rolled a ticket and all I got was this stupid shirt in return" written on it. In the event that the shirt is destroyed or lost, it will reappear somewhere accessible to the user in mint condition.
+553.Forgiveness Ticket,5.0
+Just give this ticket to someone to bury the hatchet and make them forgive you for whatever you did. Stole all of their money? It's fine since you gave them this ticket. But does not extend to murder. For the ticket to work, the target must have had at least a neutral reputation with you before.
+554.Skeleton in Closet,0.4
+#A completely ordinary skeleton from an ordinary person, comes with its own closet that it is inside of.
+555.Fairy Dust,1.0
+#Peter Pan - Some Fairy Dust, freshly shaken down from Tinker Bell. This pouch has enough powder to make 5 grown men float for 1 hour, or one grown man for 5 hours. Restock Timer: 24 Hours
+556.Skippy,1.7
+#(Tech)Cyberpunk 2077 - Aiming is overrated anyway, Skippy is a Smart Handgun, capable of shooting homing bullets and having a smart AI on board to regulate the gun, being able to choose where to aim on the fly and distinguish ally and enemy. It can also judge you for your actions. You get 5 magazines every 24 hours.
+557.Herrera Outlaw,1.0
+#(Tech)Cyberpunk 2077 - Sometimes all you need is a stylish drive around. Herrera Outlaw is a luxury limousine, but it is also built to survive the streets of Night City, so don't expect anything below .50 calibre to get through the windows. Not the best car, but it is a stylish set of wheels sure to impress any girl.
+558.Regalia,2.1
+#(Tech)Final Fantasy - Do you want a badass supercar? Do you want it to fly? Well, you got the right vehicle then, this fully upgraded Regalia is a very powerful, durable and most importantly, incredibly stylish car that can also drive itself. And even turn into a flying vehicle. The fuel tank gets refilled automatically every 8 hours.
+559.Zero Point Energy Gloves,4.2
+#(Tech)Invincibles - These high-tech gloves allow you to point at a target and send an energy beam towards them. If the beam connects, they will be rendered immobile, while you can still move them around to your liking. Strong enough targets can resist and break through the effects. The glove uses your own energy reserves to function.
+560.Demon-Slayer Blade,5.7
+#Black Clover - A large black blade that has the effects of dispelling any magical spell or effect it comes into contact with, as long as they are Legendary Rank or below. The anti-magic energy inside the sword can be used to send out black energy slashes with the same attribute or be used to manipulate the sword to fly and come to the user.

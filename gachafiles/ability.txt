@@ -6,8 +6,8 @@
 #Allows you to produce and control flames, allowing you to unleash streams of fire, fire arrows, fire whips, walls of fire etc. 
 4. Pyrokinesis,4.4
 #Allows you to produce and control flames, your own or natural flames. You have fine control over the flames you control, being able to shape them into arrows, blades, walls, projectiles etc.
-5. Hellflame,4.8
-#MHA - Allows you to emit and control powerful flames on a large scale. You can unleash giant flamethrowers, and compress your flames into narrow points like lasers, in addition, you are extremely resistant towards flame. 
+5. Hellflames,4.8
+#MHA - Allows you to emit and control powerful flames on a large scale. You can unleash giant flamethrowers, and compress your flames into narrow points like lasers, in addition, you are extremely resistant towards flame. But you are also prone to overheating with overuse, lowering your maximum energy output in the process.
 6. Micro Pyrokinesis,2.2
 #You can control heat and flames on a small scale, although your fire and temperatures are weak they are atomically precise.
 7. Disaster Flames,6.7
@@ -570,8 +570,8 @@
 #You can emit a bright blinding light from your hands or use it with less intensity for utility, does not work well outside of close range.
 286.Illumination,1.7
 #Allows you to conjure bright points of light that you can telekinetically control, you can also consume more energy to make the lights semi-permanent.
-287.Holy Light,2.3
-#Allows you to conjure and emit holy light, while utterly useless against any normal beings it is incredibly useful against any dark or unholy beings.
+287.Exorcists Light,2.3
+#Allows you to conjure and emit an exorcising light, while utterly useless against any normal beings it is incredibly useful against any dark or unholy beings.
 288.Invisibility,2.5
 #Allows the user to bend light around themself or other object they are touching to render them invisible.
 289.Flash Grenade,2.4
@@ -744,7 +744,7 @@
 #You are poisonous, everything about you. Anything trying to digest anything from you is going to have a bad time. The potency of the poison is dependent on your physical stats.
 373.Poison Factory,4.6
 #Allows you to design, concoct and expel any poison from your body, also rendering you resistant to poison. You can also use this ability in conjunction with other abilities to make more esoteric poisons. Overuse of poison factory can cause nausea and sickness.
-374.Poison Breah,2.5
+374.Poison Breath,2.5
 #Allows you to breathe out a cloud of poisonous gas that also erodes physical matter
 375.Doku,6.7
 #One Piece - You are able to freely create and manipulate poisonous substances, the potency of the poison you create is dependent on the amount of energy you expend.
@@ -1129,7 +1129,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 565.Pocket Dimension,5.4
 #You have access to a pocket dimension that you can use to store basically anything inside, buildings, people, or items. The dimension starts off at 1kmn x 1km and expands as you get stronger. You have to open physical portals to access your dimension so beware.
 566.Inventory,3.8
-#You have access to an inventory that you can store nonliving targets inside of, the capacity of the inventory is equal to the amount of weight you can carry.
+#You have access to an inventory subspace that you can store inanimate targets inside in a statis. By default, you can store 100 tons inside of it, the maximum weight of what your inventory can hold scales with your physical stats. To store something inside of the inventory you must will it inside while touching the target. Any stored target can be taken out of storage within a distance of at most 1 meter from your body.
 567.Synthesis,6.5
 #You can combine two objects to create an object that combines their desired traits. You could keep combining pebbles until you end up with a material equal to adamantite or you could combine enough iron swords to make an unbreakable sword.
 568.Sonar,2.6
@@ -1302,7 +1302,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Worm Victor - Allows you to drain the skills of people through touch, for example, you can drain the swordsmanship skill of a swordsman to worsen their skill and improve yours, but your skill cannot exceed the one you are stealing so you can't become a sword god by absorbing the skills of 1000 basic swordsmen.
 652.Velocity,3.6
 #Worm - You move 10x faster but your influence on the world is 10x less. While you are 10x faster, you will also punch 10x times weaker and air resistance will be 10x stronger, etc.
-653.Nine Lives,7.8
+653.God Hand,7.8
 #Fate - Grants you nine lives, every time you die with Nine Lives active you will be resurrected at full health and you will gain a high level of resistance towards what killed you previously.
 654.Rinnegan,8.6
 #Naruto - The ultimate eyes that grant you the ability to utilize six abilities collectively known as the Six Paths Technique: controlling attractive and repulsive forces with the Deva Path; mechanically altering one's body with the Asura Path; extracting souls through the Human Path; summoning various creatures through the Animal Path; absorbing chakra through the Preta Path; and access to the King of Hell through the Naraka Path. A seventh ability, called the Outer Path, is said to allow the user to preside over life and death, granting them the ability to revive the dead. In addition, you can clearly see the flow of energy and have unparalleled sensory abilities.
@@ -1932,8 +1932,8 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #"Time to be a hero" For 10 minutes all parameters are greatly increased, all regenerations are massively amplified. 5 Day cooldown.
 967. Limit Break,5.3
 #"Time to go all out" Upon activating Limit Break, for 4 minutes and 11 seconds all parameters and energy regeneration are increased, in addition, your ability Slots are removed, allowing you to use all Abilities at once. This ability places immense strain on your body and can kill you. 7 Day cooldown.
-968. Toolbelt,3.9
-#While toolbelt you can summon any one item of rare rank or below into your hand and use it however you like, you can also discard the item to switch to another but only one toolbelt item can exist at a time. If you use a consumable you cannot use Toolbelt for the same amount as its Restock timer.
+968. Phosphorus,5.3
+#Creature Commandos - Allows you to turn into a living being of heat and radiation, turning everything but your skeleton into irradiated energy. You can conjure irradiated fireballs, superheat yourself or launch radiation blasts. Expect collateral damage.
 969.Restraints and Amplifications,3.0
 #Novel's Extra - Allows you to put restraints on yourself to amplify your powers, you can sacrifice your sight to boost your hearing to daredevil levels, you can sacrifice an arm to make another arm much stronger. You can restrict other ability slots to make the others stronger. The amplifications are equal to the severity of the restraints you place on yourself.
 970.Power Charge,3.5
@@ -2288,3 +2288,31 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #"Deal with their baser instincts, not their logic" You are able to command people through fear; the more they fear you, the more you are able to command, scaling with your ability to intimidate someone. If they fear you enough, you could convince them to give up just about anything, their children, their wives, their house, their life, their kingdom. Even if they obey the command out of fear, they will not be able to oppose it when you stop using your ability. Whenever they do, the fear returns to them. 
 1144.Subtitles,3.0
 #Who needs dub? Whenever anything makes sound, you will get subtitles for it. If someone is speaking, it will appear as "Good for you to finally join us(Sarcastically)" regardless of the language they are speaking. This also applies to sound effects, also describing the noise like [Assassin's Footsteps], [Grenade Pin Being Pulled], [Fireball Chant] etc. Only applies to relevant sounds and people you are actually paying attention to.
+1145.Tinker - Robotics(I),2.0
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Robotics. At this level, you can only build simple robots without much greater function, like autonomous claw arms, or butter-passing robots. But you can still build just about any mundane robot.
+1146.Tinker - Robotics(II),3.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Robotics. Allowing you to build a variety of simple robots, such as gun-using robots and robots that are generally as capable as the average man. You could probably get away with building a B-1 Droid, maybe even a B-2 if you train enough.
+1147.Tinker - Robotics(III),4.4
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Robotics. Allowing you to build complex and capable robots, such as combat bots, maid bots, or autonomous workers of many varieties. You could even build something analogous to Sentry Bots, Executor Droids, or even a GLaDOS if you put your mind to it and have the resources.
+1148.Tinker - Robotics(IV),6.7
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Robotics. Being able to create powerful and incredibly useful robots and autonomous constructs. You can make giant robots that can lay waste to armies, a moving robot castle, dust-sized repair bots, and many more varieties of robots. Go ahead and build your own variety of Metal Gears.
+1149.Tinker - Robotics(V),8.0
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Robotics. You can build what type of robots? The types you like. Make your own Metal Gear Army, create a robot ninja clan, create biorobots indistinguishable from humans except 100x stronger, create supreme machines with bodies that can withstand nuclear bombs and processors that make supercomputers look like analogue clocks. You can create just about any mechanical autonomous unit, and when integrating other Tinker branches into their creation, the integrated Tinker technology is significantly boosted.
+1150.Kudoku,4.9
+#Kudoku allows you to expel a very weak poison from your body, either through your pores, your nails or your mouth. While Kudoku is in an active slot, you can ingest and be inflicted with poisons, and as long as you survive those poisons, the potency of Kudoku will be increased proportionally to their potency and gain more effects that you can imbue into your own venom. Cultivate your poison from a mild paralytic to a godslaying Venom. Starting rating is Trash. Kudoku also provides poison resistance scaling with its own potency when slotted in.
+1151.Cursebed,5.1
+#Your soul is a fertile breeding ground for curses. Whenever you get afflicted with a curse, you are able to assimilate that curse over time until it becomes a part of Cursebed. Any curse assimilated into Cursebed can be replicated and regurgitated, allowing you to use the curse for yourself by expending energy. The stronger a curse, the more time you need to assimilate it, and strong enough curses can ignore the effect(Does not affect Gacha Curses).
+1152.Hive Lord,5.7
+#You are the Hive, that is, you are capable of transforming and taking on the traits of any insect from Earth, being able to mix and match transformations on them. Being able to manifest the tail and venom of a scorpion, the wings of a Dragonfly, the resilience of a cockroach and much more.
+1153.Hell Flame,3.5
+#Hell Flame allows you to conjure and shape infernal flames often used by demons. Hell flames are especially strong against living beings, burning their vitality along with their flesh, weakening them while also being hard to heal due to its unholy attribute. But using these flames is rather energy-intensive compared to normal flames unless the user is an Infernal.
+1154.Greater Hell Flame,4.5
+#Greater Hell Flames allows you to conjure and shape potent infernal flames often used by high-ranking demons. These flames are very potent and hot, and also very effective against living beings, sticking to whatever they touch like glue and cursing whatever they burn to make it far harder to heal. But using these flames is rather energy-intensive compared to normal flames unless the user is an Infernal.
+1155.Holy Light,3.5
+#Holy Light allows you to conjure and shape Holy Light, often used by Angels. Allowing you to unleash it as balls of light, energy blasts or blades of light, when used against Infernal, Unholy, or Necrotic targets, the Holy Light will set them alight with holy flames, but against targets outside of that range, it does significantly less damage. (A/N: Holy Light is NOT light speed despite the name)
+1156.Greater Holy Light,4.5
+#Greater Holy Light allows you to conjure and shape searing Holy Light or call it down from the sky on a location, often used by high-ranking Angels.   Greater Holy Light sets any Infernal, Unholy or Necrotic opponent alight with holy flames on contact and has the ability to burn away attacks of the same attribute as well as being able to burn curses, the holy will not sear anything the user does not want to hurt. But when used against opponents outside that category, its potency is significantly reduced. (A/N: Holy Light is NOT light speed despite the name)
+1157.Star of Change,4.8
+#The Star of Change allows you to temporarily change your race to any Race Change trait in the gacha ranked rare or below for as long as it is active. You can only transform into one race at a time.
+1158.Argonaut,5.5
+#Danmachi - Argonaut allows you to charge up any attack, allowing you to temporarily bypass their maximum energy output. The longer you charge the ability, the more power you can unleash. For 10x power, you need 10x the energy to use it. You can only charge one action at a time, and if you get interrupted during charge, you will lose the energy you would have otherwise used on the ability without being able to unleash the effect.

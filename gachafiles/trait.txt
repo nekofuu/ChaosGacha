@@ -287,7 +287,7 @@
 144. Denied from Oblivion,6.4
 #The gates of hell are closed for the likes of you, and heaven kicked down the ladder so you are just stuck here. You remain in the mortal world as a soul after your death.
 145. Curse Devouring Physique,4.2
-#Your physique is unique, it devours curses like a hungry animal. If you get cursed your body starts fighting against it and slowly eating the curse, the strength of the physique scales with your maximum energy. Completely devouring a curse increases your maximum man slightly, devouring more of the same curse has diminished returns. You also recover energy faster in places with more negativity.
+#Your physique is unique, it devours curses like a hungry animal. If you get cursed your body starts fighting against it and slowly eating the curse, the strength of the physique scales with your maximum energy. Completely devouring a curse increases your maximum energy slightly, devouring more of the same curse has diminished returns. You also recover energy faster in places with more negativity.
 146. Mysticism,3.2
 #Your energy reserves and recovery speeds are beyond the norm. Allowing you to use abilities and spells for longer.
 147. Hyper Reflexive,4.6
@@ -301,7 +301,7 @@
 151. Winterman,2.6
 #You were born in the harsh winter winds, you are more resistant to cold and ice-based abilities, and your ice-based abilities cost less energy to use.
 152. Constant,5.3
-#You are a constant, your body cannot be changed by outside influences without your consent, in addition, you are immune to paradoxes and only one of you exists as you cannot be cloned or be replicated either. 
+#You are a constant, your body cannot be changed by outside influences without your consent(as in stuff like soul manipulation or biomancy, not regular attacks), in addition, you are immune to paradoxes and only one of you exists as you cannot be cloned or be replicated either. 
 153. Master Rider,4.2
 #You are a master at riding any mount, when you get on top of a mount your senses are linked and you can communicate your intentions to your mount instantly.
 154. Dragon Rider,4.4
@@ -501,7 +501,7 @@
 251. Skyward,4.2
 #You belong to the skies, all wind-based abilities are more potent, cost less energy to use, and are easier to master. In addition, you recover energy faster when in the sky.
 252. Electric Sheep,3.6
-#(Tech)Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine and network with greater ease. (A/N: Reroll if you don't have a thinker ability)
+#(Tech)Do robots dream? Well, even if they don't, they certainly think of you. All tinker abilities are easier to use and innovate with, in addition, you can interface with any existing machine and network with greater ease. (A/N: Reroll if you don't have a tinker ability)
 253. Flexible,1.7
 #You are inordinately flexible, even more so than an expert contortionist.
 254. Demon King,5.6
@@ -549,13 +549,13 @@
 275. Carnal Engine,2.7
 #(Nsfw)You are an eternal engine when it comes to carnal activity, while performing sexual actions your stamina recovery, endurance, and resilience are massively boosted, you can go on for literal days without rest.
 276.Four Leaf Clover,2.7
-#You are pretty lucky, not to the point where it's blatantly supernatural but the scales of fate are skewed towards you.
+#You are pretty lucky, not to the point where it's blatantly supernatural but the scales of fate are skewed towards you.(Does not affect Gacha)
 277.Rabbits Foot,3.7
-#You are naturally very lucky, being on the good books of lady fate pays off. You can rob a casino blind and in general, things without a high impact on fate go in your favor.
+#You are naturally very lucky, being on the good books of lady fate pays off. You can rob a casino blind and in general, things without a high impact on fate go in your favor.(Does not affect Gacha)
 278.21 Leaf Clover,4.7
-#You are naturally incredibly lucky. Not enough that someone would consider it a superpower but expect to be called a lucky bastard. It's almost impossible to lose games of chance unless you want to, if it's up to chance, it will land in your favour.
+#You are naturally incredibly lucky. Not enough that someone would consider it a superpower but expect to be called a lucky bastard. It's almost impossible to lose games of chance unless you want to, if it's up to chance, it will land in your favour.(Does not affect Gacha)
 279.Fortune's Lover,5.7
-#You are absurdly lucky, to the point where even if you did not have any other abilities this alone could be considered an ability. If it's a chance, it's in your favour. Fate is curved in your direction, but not all luck is good. 
+#You are absurdly lucky, to the point where even if you did not have any other abilities this alone could be considered an ability. If it's a chance, it's in your favour. Fate is curved in your direction, but not all luck is good. (Does not affect Gacha)
 280.Hellsing,4.6
 #You are the true hunter of all inhumane, Ghouls, Ghosts, Cryptids, and Demons. When facing anything that fits this category all of your reflexes and skills are enhanced and you enter a special state of focus. In addition, you gain enhanced intuition against any opponent or topic in this category. 
 281.Marksman,3.7
@@ -715,13 +715,13 @@
 358.Blood Mana,2.6
 #You've got no energy? Well, you've got something else, don't you? You can treat your own vitality as a secondary mana bar at a 1 to 1 rate of exchange. Expended vitality cannot be cured by healing but only through rest.
 359.Angel,3.4
-#Race Change - You are an Angel, a being created with holy power, as an angel you have slightly increased physical stats and the ability to fly using your wings naturally. In addition, your Holy and Light-based abilities are more potent, in exchange all Darkness and Unholy abilities are weakened. You are also vulnerable to unholy attributes. 
+#Race Change - You are an Angel, a being created with holy power, as an angel you have slightly increased physical stats and the ability to fly using your wings naturally. In addition, your Holy and Light-based abilities are more potent along with the ability to use Holy Light(Rare Rank Ability), in exchange all Darkness and Unholy abilities are weakened. You are also vulnerable to unholy attributes. 
 360.Principality,4.2
-#Race Change - You are a Principality, a higher tier angel with two pairs of wings, a being created with holy power, as an angel you have increased physical stats and energy reserves as well as the ability to fly using your wings. In addition, your Holy and Light-based abilities are more potent, in exchange all Darkness and Unholy abilities are weakened. You are also vulnerable to unholy attributes. 
+#Race Change - You are a Principality, a higher tier angel with two pairs of wings, a being created with holy power, as an angel you have increased physical stats and energy reserves as well as the ability to fly using your wings. In addition, your Holy and Light-based abilities are more potent Holy Light(Rare Rank Ability), in exchange all Darkness and Unholy abilities are weakened. You are also vulnerable to unholy attributes. 
 361.Dominion,5.4
-#Race Change - You are a Dominion, a high-tier angel with three pairs of wings. As a Dominion, you possess increased magical and physical abilities. All Holy and Light attributes are considerably boosted and cost less mana to use. You also possess the ability to convert your own energy to holy light and instinctively learn Holy and Light Magic. In exchange, all Darkness and Unholy attributes are greatly weakened.
+#Race Change - You are a Dominion, a high-tier angel with three pairs of wings. As a Dominion, you possess increased magical and physical abilities. All Holy and Light attributes are considerably boosted and cost less mana to use. You also possess the ability to convert your own energy to greater holy light(Elite Rank Ability) and instinctively learn Holy and Light Magic. In exchange, all Darkness and Unholy attributes are greatly weakened.
 362.Throne,6.5
-#Race Change - You are a Throne, one of the highest-ranking angels with four pairs of wings. As a Throne, you possess great physical and magical abilities. All Holy and Light attributes are greatly boosted and cost less mana to use. You are capable of instinctively developing Holy and Light Magic. You also possess the ability to convert your own energy to holy light. In exchange, all Darkness and Unholy attributes are greatly weakened and will hurt you upon use.
+#Race Change - You are a Throne, one of the highest-ranking angels with four pairs of wings. As a Throne, you possess great physical and magical abilities. All Holy and Light attributes are greatly boosted and cost less mana to use. You are capable of instinctively developing Holy and Light Magic. You also possess the ability to convert your own energy to searing holy light or pure holy energy. In exchange, all Darkness and Unholy attributes are greatly weakened and will hurt you upon use.
 363.Seraphim,7.2
 #Race Change - You are a Seraphim, the strongest kind of Angel there is, as a being of pure holy power you have 5 pairs of wings. As a Seraphim you have incredible magical and physical power. All Holy and Light abilities and magic you have are boosted by a tier as long as they are legendary rank or below, you are also instinctively capable of using and developing Holy and Light Magic. You can convert your own Mana into a Holy Mana Burst. But in Exchange, you are completely incapable of using all Darkness and Unholy abilities and magic.
 364.Student,2.4
@@ -772,7 +772,7 @@
 #You are the type to not use your limited items even against the final boss, aren't you? The restock timer and cooldown of all items are halved.
 387.Avaricious Greed,7.2
 More more more, you just can't get enough. Restock timers and the cooldown of all Items are reduced by 100x. 
-388.Demon,5.4
+388.Blood Demon,5.4
 #Demon Slayer - You are a demon transformed by the blood of Muzan. Granting you a superhuman physique and biological immortality, in exchange for being lethally harmed by sunlight and the light attribute. You also develop your own demon blood art that is equal to an uncommon rank ability. Lastly, you need to consume humans to sustain yourself otherwise you will starve to death. 
 389.Progenitor Demon,6.9
 #Demon Slayer - You are a progenitor sharing all of the powers of Muzan Kibitsuji. Allowing you to freely shapeshift and have extremely powerful regeneration as well as the ability to turn others into demons with your own blood in addition to your superhuman physical abilities. But sunlight is extremely lethal to you.
@@ -819,7 +819,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 410.Psyker(Divination),5.3
 #Warhammer 40k - You are a Psyker, a being who draws power from the Immaterium, only you don't, you emulate their powers through the infinite Chaos instead. As a Psyker specialising in Divination, you are able to train yourself in the ways of uncovering the past, present and future of the world around you (You can only train in the specialised disciplines capabilities) Spell List: https://warhammer40k.fandom.com/wiki/Psyker#Divination_Discipline
 411.Old Blood,6.1
-#Bloodborne - You have the blood of the Great Ones running through your veins. You have greater vitality and energy thanks to the old blood, empowering your existence. Your energy is also more potent, making it so that you need to spend less energy to invoke abilities or spells. The concentrated mystery in your blood also gives you greater insight into magical and esoteric arts. Finally, your blood has healing properties that scale with your vitality, but those who ingest too much may be affected by your corruptive presence. If you want, you can exert greater influence over those who consume your blood.
+#Bloodborne - You have the blood of the Great Ones running through your veins. You have greater vitality and energy thanks to the old blood, empowering your existence. Your energy is also more potent, making it so that you need to spend less energy to invoke abilities or spells. The concentrated mystery in your blood also gives you greater insight into magical and esoteric arts. Finally, your blood has healing properties that scale with your vitality, but those who ingest too much may be affected by your corruptive presence. If you want, you can exert greater influence over those who consume your blood.(You are not an actual Great One)
 412.Salty Tears,0.1
 #Your tears are now twice as salty.
 413.Lucky Romantic,2.5
@@ -845,11 +845,11 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 423.Demon,3.7
 #Race Change - You are a demon, a middle rank infernal being. As a demon, you have augmented physical and magical stats. You possess a greater affinity towards Unholy, Darkness, Infernal and Fire. But are vulnerable to Holy, Light, Divine and Exorcisms. You can also turn your body parts into natural weapons, such as sharp teeth and claws.
 424.Fiend,4.9
-#Race Change - You are a Fiend, a high rank infernal demon. As Fiend, you have considerable physical and magical abilities. You also have a greater affinity towards Unholy, Darkness, Infernal and Fire, being able to master abilities and spells related to them much faster. But as a High Rank Demon, you are rendered incredibly vulnerable to Holy, Divine, Light and Exorcisms. 
+#Race Change - You are a Fiend, a high rank infernal demon. As Fiend, you have considerable physical and magical abilities. You also have a greater affinity towards Unholy, Darkness, Infernal and Fire, being able to master abilities and spells related to them much faster along with the ability to naturally create Hell Flame(Rare Rank Ability). But as a High Rank Demon, you are rendered incredibly vulnerable to Holy, Divine, Light and Exorcisms. 
 425.Archfiend,5.7
-#Race Change - You are an Archfiend, a Demon Noble. As an Archfiend, you have greatly superhuman stats and potent magical abilities, as well as a presence that allows you to command respect and fear in Infernals weaker than yourself. You have an incredible affinity with Unholy, Darkness, and Infernal, allowing you to utilise related abilities and spells to a greater degree. But you cannot utilise Holy and Light under normal circumstances, and are rendered vulnerable against them. You have the ability to unleash your demonic power, taking on a more demonic appearance, which will drain your energies faster, but augment your stats further and allow you to imbue your abilities with the Darkness attribute.
+#Race Change - You are an Archfiend, a Demon Noble. As an Archfiend, you have greatly superhuman stats and potent magical abilities, as well as a presence that allows you to command respect and fear in Infernals weaker than yourself. You have an incredible affinity with Unholy, Darkness, and Infernal, allowing you to utilise related abilities and spells to a greater degree along with the ability to naturally create Hell Flame(Rare Rank Ability). But you cannot utilise Holy and Light under normal circumstances, and are rendered vulnerable against them. You have the ability to unleash your demonic power, taking on a more demonic appearance, which will drain your energies faster, but augment your stats further and allow you to imbue your abilities with the Darkness attribute.
 426.True Demon,6.8
-#Race Change - You are a True Demon, a Demon Royalty. As a pure demon, you possess incredible Physical and Magical might. The true blood in your veins allows you to command Infernals below your rank, which can be resisted somewhat by those of powerful will. Your affinity with Darkness, Infernal and Unholy is unmatched, and you can naturally convert your energy into Dark or Unholy attributes, but cannot utilise Holy or Light under normal circumstances. You are also rendered vulnerable to Holy. You can unleash your True Demon form, assuming a more demonic appearance and augmenting your stats while increasing your energy drains considerably.
+#Race Change - You are a True Demon, a Demon Royalty. As a pure demon, you possess incredible Physical and Magical might. The true blood in your veins allows you to command Infernals below your rank, which can be resisted somewhat by those of powerful will. Your affinity with Darkness, Infernal and Unholy is unmatched, and you can naturally convert your energy into Dark or Unholy attributes along with the ability to naturally create Greater Hell Flame(Elite Rank Ability), but cannot utilise Holy or Light under normal circumstances. You are also rendered vulnerable to Holy. You can unleash your True Demon form, assuming a more demonic appearance and augmenting your stats while increasing your energy drains considerably.
 427.Daemon,7.7
 #Race Change - You are a Daemon; considering you as simply an infernal being is not quite right. As a Daemon, you possess superhuman physical abilities, but incredible Magical Power and Energy Reserves as well as regeneration. You possess an incredible affinity with Darkness, Infernal and Unholy, being able to make up your own spells on the spot and massively amplifying the potency of related abilities and spells. Once unleash your true spirit form, your maximum health and regeneration gets converted to your magical power and become incorporeal, massively amplifying your energy output while being able to imbue your powers with Unholy and Darkness energy. Since vitality is replaced with your energy, as long as you have energy, you cannot die.
 428.Demon Kaiser,7.7
@@ -907,7 +907,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 454.Large than Life,1,4
 #People feel like your presence is larger than it should be. Even if you are a head shorter than them, it will still feel like you are towering over them.
 455.Speak of the Devil,4.8
- #-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
+#-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
 456.Wolfkin,3.5
 #Race Change - You are a Wolfkin, a half beast with the traits of a Wolf, including wolf ears, tail, retractable claws and sharp teeth. In some individuals, the wolf traits may show up as more dominant. You possess increased physical abilities and senses as well as a fierce hunting instinct. You are also able to convey your intent to other animals, even if you cannot understand them back.
 457.Lycantrophe,4.7
@@ -918,3 +918,43 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #Race Change - You are a Lunar Lycan, a Royal Lycantrophe blessed by the moon. You can tap into your bestial side at will and transform into a Werewolf or a full wolf. Doing so massively increases your physical and magical stats, alongside massively amplifying your senses. The blessing of the moon increases your resistance to magic and esoteric effects while increasing your affinity towards all magic. As a Royal Lycantrophe, you are able to convert others into Lesser Lycantrophes to Greater Lycantrophes that share the same blessing of the moon and placing them under your command as their alpha.
 460.Managarmr,7.8
 #Race Change - You are the Child of the Moon Devouring Wolf, the pinnacle of Lycantrophy. As a divine lycanthrope, you can tap into your Bestial side at will, transforming you into a hybrid or a titanic wolf you can control the size of. Granting you extremely increased physical stats, godlike instincts, and senses. You are able to devour anything; your jaws and claws can rend even space and rip apart anything, even magic and divine flesh. Anything you eat will be destroyed and converted to magical power. You are able to grant your blessing to others, transforming them into Lycantrophes. In addition, you possess authority over all beasts and beastkin below legendary rank. And even those resistant to the effect understand your royal authority.
+461.Trainee Tinker,3.0
+You are a Tinker who just started their journey. The efficiency of all Tinker abilities are slightly enhanced; you are faster and more resourceful when building technological constructs.
+462.Pugilist Apprentice,3.1
+You are a Pugilist who has just embarked on their path. You learn and train Martial Skills faster, and your natural intuition for combat and martial arts is heightened.
+463.Nascent Esper,3.2
+You are an Esper who has just started blooming their latent talent. You train and master abilities slightly faster and have a better instinct for how to handle and use them. All ability cooldowns are decreased by 20%.
+464.Initiate Magician,3.3
+You are a Magician who has just embarked on their journey into the mystical. You are able to learn, memorise and master spells faster as well as cast them more efficiently. The penalties for learning a magical system that is not your own are mitigated.
+465.Incubus/Succubus,4.0
+#Race Change - You are a dream demon, one that sucks on the vitality of your victim as a Succubus/Incubus. You are more attractive and alluring to your preferred partners. You also possess slightly superhuman stats and increased magical power. You are also able to sense arousal, peek into dreams and subtly influence them as well as shapeshift according to your partner's preferences. The potency of all Lewd abilities and spells are increased.
+466.Long Live the King,4.8
+May his reign last a thousand years. People who are even at least a bit loyal towards you are much more loyal towards you, and it is easier to earn people's loyalty. People who view you in a favourable light are more willing to make sacrifices for your sake.
+467.Tickets Please,3.3
+Allows you to withdraw your tickets as physical, tangible tickets that you can hand over to other people. If someone else rips the ticket, they will get the result of the roll instead, subject to the same rules as the user.
+468.Swiper no Swiping!,2.6
+You cannot be stolen from. Whatever item you own that is taken without your consent is returned to your possession in a convenient location.
+469.Trade-In,5.7
+When you roll a ticket, you have the option to reroll it, but with its rarity lowered by a stage(Platinum to Gold, Gold to Silver, etc.), don't blame the gacha if it doesn't work out.
+470.Sea Serpent,5.9
+#You are a Sea Serpent of a Hybrid, a true apex predator of the seas. You are able to unleash your Sea Serpent characteristics, either turning into your Hybrid form or full Sea Serpent size. You also possess greatly superhuman physical abilities and are empowered when wet or underwater. All Water-based abilities cost less energy to use and are more potent. But you are vulnerable to dying out, which will drastically reduce all of your stats.
+471.Leviathan,7.5
+#Race Change - You are the Leviathan, the creature that lies in the deep and pinnacle of sea life. You can hide your nature and unleash it, either turning into your full Leviathan form or a hybrid transformation. As the Leviathan, you have tremendous physical abilities and incredible fire affinity, but are unable to use fire-based abilities or spells. Your water affinity is at a level where any water-based ability below Legendary level gets raised by 1 rank(Rare to Elite), and you are able to use any water ability rare rank or below. All of your physical and magical abilities are massively amplified when you are underwater, to the point where it would be foolish for even a god to challenge you underwater. But getting dried out also massively reduces your abilities.
+472.Jormungandr,7.8
+#Race Change - You are the kin of Jormungandr, the World Serpent. You can unleash your characteristics, either turning into a hybrid form or a full-sized world serpent to activate your full capabilities. As a Jormungandr, you possess extreme physical stats, especially strength and endurance. Your venom is one that can bring the strongest of gods to their knees, and wounds you inflict are impossible to heal except byy the strongest of healing gods.
+473.Nekomata,5.8
+#Race Change - You are a Nekomata, a powerful cat yokai with a forked tail. As a Nekomata, you can shapeshift into a human and cat form at will, and you possess enhanced energy reserves and energy regeneration. Due to your nature as a Nekomata, you possess a great affinity towards Necromancy, increasing the potency and efficiency of all Soul and Necromancy-based abilities and spells. You can also naturally use Anime Undead(Elite) and are able to conjure ghostflames. 
+474.Sköll,7.7
+#Race Change - You are the child of Sköll, the Sun Devouring Wolf. As the Child of Sköll, you are able to manifest and hide your Lycanthropic nature at will; unleashing your nature grants you an extreme increase in Physical and Magical power. As the Sun Devourer, you have immense Fire affinity, massively boosting the potency and efficiency of any Fire-based ability you use. In addition, you absorb sunlight and convert it into energy and are passively stronger under the sun. You are able to grant your blessing to others, turning them into Lycantrophes under your command. You also have the ability to devour "Energy", allowing you to eat spells, magical constructs or high-energy objects to temporarily add them to your energy reserves and increase the maximum amount of energy you can hold.
+475.Nemean,7.8
+#Race Change - You are the Nemean Lion, being able to switch between your base form and being able to reveal your Lion Form and in between. You possess indomitable physical stats and a nigh invulnerable skin even gods envy. Your skin grants you defence against everything, and I mean everything that scales with your physical stats. Even if it cuts space, even if it burns the soul, even if it curses you, even if it erases you from existence, it has to contend with your resilience and still gets its effects reduced if not outright negated, depending on the power of the attack compared to your defence.
+476.Vile Temper,4.8
+#Your body is tempered by the Vile. When you are afflicted by diseases or poisons, your body uses them as fuel to become stronger and develop a stronger immune system. The stronger and more exotic disease or poison you are inflicted with, the faster your body will increase its physical stats and develop its immune system.
+477.Glowing One,5.0
+#You passively absorb radiation with your body like a sponge, using it to fuel your body and energy and consuming it in the process. Absorbing enough radiation, such as Gamma Radiation, X-rays, and even ultraviolet radiation, will have an effect of permanently increasing your physical stats and energy reserves proportional to how much you absorb. You are also immune to the negative effects of radiation and recover stamina and energy faster when exposed to it. While sunlight would have a negligible effect, eating some radium chips would probably act like cultivation pills for you.
+478.Soul Vessel,5.5
+#Hollow Knight - You are a vessel, capable of absorbing and channelling "soul" to either yourself by focusing or training to use it in Shaman spells as Howling Wraiths, creating Soul Nails, short-range teleportation, and other such spells. You gain soul by inflicting injuries on living beings, and your maximum storage scales with your maximum energy, but is distinctly separate.
+479.Ambidexterous,1.2
+#You are perfectly ambidexterous, you can use both of your arms and hands as if they were both dominant hands. The same applies to all of your limbs, perfectly balanced, as all things should be.
+480,Tune Up,3.3
+#You have received a body tune-up, an upgrade to every aspect of your body, slightly increasing all of your physical stats, your energy reserves, and most importantly, fixing all of the physical or genetic problems ailing in your body at the moment of you rolling this trait.

@@ -458,3 +458,23 @@ You have mastered the art of stealth, you blend in with the shadows and move wit
 #You are skilled at extracting salt from sources of water or tears.
 230.Prana Bindu,4.8
 #Dune - You are learned in the ways of Prana Bindu, allowing you to train in controlling your body beyond human levels. From controlling how your individual muscles move, to controlling individual strands and eventually, with enough training, controlling your very own nerves and bioelectrical signals.
+231.Novice Communication,1.2
+#Communication is the ability to better understand what others mean and how fo convey your thoughts effectively. At a novice level, you may not be that much better than the regular person, but at least you know how to properly communicate with people, which is a strangely rare skill these days.
+232.Intermediate Communication,2.3 
+#You are skilled at understanding others and conveying your own intent through words and actions. Allowing you to better discern the emotions behind their words and make yourself understood to people who otherwise have a hard time understanding you.
+233.Adept Communication,3.6
+#You are greatly skilled at communicating, understanding others and conveying your intentions. You can make yourself understood to basically anyone; you could even communicate through exclusively body language and still be understood. You are able to pick up on the intents and emotions of people easily through their body language, tone of voice, slight shakes as they speak, etc. it is difficult to hide their intention in front of you unless they are something like a trained spy.
+234.Expert Communication,4.6
+#You are an expert in communication. You can always convey what you mean to anyone, be it the stupidest human or the lowliest beast; you can even live your life through gestures and not be misunderstood. You can almost tell when people lie and understand their true intentions by cold reading them; they don't even have to talk, you can understand what they want and what they feel just by extreme cold reading.
+235.Master Communication,5.2
+#You are the absolute master in communication, to the point where it borders magic. You may not understand what language they speak, but you can read their intent and emotions from a simple glance enough to basically mind-read them. And you always know how to perfectly convey what you mean, you can convey a hundred words with a single nod, talk to animals and make them understand you, or perfectly convey just how badly you will hurt or love someone.
+236.Novice Persuasion,1.9
+Persuasion is your skill in convincing people. At novice rank you are slightly better than the average person at appealing your case and trying to convince people with words. 
+237.Intermediate Persuasion,2.7
+#You are skilled in convincing people, with your words or actions, like a used car salesman or a lawyer. You have a decent feel for what words would resonate with the type of person you're speaking with.
+238.Adept Persuasion,3.9
+#You are a skilled talker for sure, you are well-trained in the art of convincing people with your words and actions. Being able to present yourself in ways that make you easier to believe and knowing to make people better believe what you are what you are saying to them. You would make a damn fine politician.
+239.Expert Persuasion,4.8
+#You are an expert in the art of Persuasion, having a great feel for what words are more effective on what types of people, being able to far more easily sway them with your words and actions. You are skilled enough to persuade people to do things they would otherwise not be willing to do.
+240.Master Persuasion,6.2
+#You have mastered the art of Persuasion, the ability to convince people and make them see what you see. You are among the best talkers in history, you have an almost supernatural awareness of what words and actions work best on which people. But beware, no matter how skilled you are, some people just cannot be made to listen.
