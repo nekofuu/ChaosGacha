@@ -23,11 +23,11 @@
 12. Invisible Air, 4.0
 #Fate Artoria - Barrier of the wind king is a barrier made of several layers of extremely compressed air that the user can control at will
 13. Gae Buidhe, 4.2
-#Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is cursed to make its opponents never close whether it is by traditional healing or through magic, wounds inflicted by this spear cannot be healed by any healing below Legendary Level. The curse is also dispelled when the owner dies or the spear is broken. The spear can mend itself back together after being broken as it is a phantasmal object.
+#Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is cursed to make the wounds inflicted never close whether it is by traditional healing or through magic that is below Legendary Level. The curse is also dispelled when the owner dies or the spear is broken. If the spear is broken, a skilled enough blacksmith or crafter may still be capable of mending it back together.
 14. Gae Dearg, 4.8
 #Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is capable of severing and nullifying magic, making all forms of magical protection almost useless against it. This effect is not useful for dispelling spells but for bypassing them.
 15. Gram, 6.0
-#DxD - The Strongest Demonic Sword on par with even Durandal. This sword is nigh unbreakable and the user is able to emit a destructive aura by expending their own energy, in addition, this sword is incredibly
+#DxD - The Strongest Demonic Sword on par with even Durandal. This sword is nigh unbreakable and the user is able to emit a destructive aura by expending their own energy, in addition, this sword is lethal against all Dragons, dealing massively increased damage against them.
 16. Durandal, 5.3
 #DxD - One of the strongest Holy Swords. The legendary Durandal is said to be unbreakable and capable of severing anything, in addition, the Durandal can release a destructive aura in accordance to its user's wishes by expending their energy. This sword is extremely difficult to use for an inexperienced user.
 17. Sword Birth, 5.0
@@ -71,13 +71,13 @@
 36. Midas' Bag of Holding, 3.3
 #A small pouch the size of a human hand that contains a 1km x 1km square of space inside of it, whoever puts their hand inside can pull out what they are looking for no problem, the weight of the pouch does not change. 
 37. Bar of Vibranium, 5.1
-#Marvel - A bar of pure and refined Wakandan Vibranium ready to be processed, Vibranium has the special property of being able to absorb kinetic energy and vibrations, making it nigh unbreakable by conventional means
+#Marvel - A bar of pure and refined Wakandan Vibranium ready to be processed, Vibranium has the special property of being able to absorb kinetic energy and vibrations, making it nigh unbreakable by conventional means. Restock Timer: 168 Hours
 38. Angel Ring, 4.7
 #Modded Minecraft - An ornate gold ring that allows the user to freely move through the air at the same speed they can run at.
 39. Black Barrel, 7.4
 #Fate - A gun that imposes the concept of limited life on any entity it hits, even absolute immortals will be rendered mortal by this weapon.
 40. Black Key Rites, 4.2
-#Fate - A holy rite that allows the user to create black keys themselves using energy
+#Fate - A holy rite that allows the user to create black keys themselves expending their energy and praying according to the rites.
 41. Shroud of Martin, 4.5
 #Fate - A holy shroud once worn by a saint, when wrapped around an object, the shroud suppresses the object's state, making it stay "normal".
 42. Enkidu, 8.4
@@ -133,7 +133,7 @@
 67. Grimoire of Hemomancy,4.6
 #Black Clover - A book containing the secrets of Blood Magic from the Clover Kingdom, allowing its users to learn and utilize Hemomancy. Spell List: https://blackclover.fandom.com/wiki/Blood_Magic
 68. Grimoire of Pyromancy,4.8
-#Black Cover - A book containing the secrets of Fire Magic from the Clover Kingdom, allowing its users to learn and utilize Pyromancy. Spell List: https://blackclover.fandom.com/wiki/Fire_Magic
+#Black Clover - A book containing the secrets of Fire Magic from the Clover Kingdom, allowing its users to learn and utilize Pyromancy. Spell List: https://blackclover.fandom.com/wiki/Fire_Magic
 69. Tome of Vector Magic,3.6
 #Soul Eater - A tome belonging to one Medusa Gorgon, this book allows its user to learn and utilize her signature Vector Magic. Spell List: https://souleater.fandom.com/wiki/Vector_Magic
 70. Boar Vessel 600-500 BC Etruscan ceramic,0.1
@@ -157,11 +157,11 @@
 79. Sepiroth Graal,7.4
 #DxD - A Longinus Created by God, once someone gets in possession of the Sepiroth Graal, they are granted knowledge of Soul, Death, and Life of the highest order on the level of a god, allowing its user to manipulate souls and life as long as they can withstand the mind-crushing levels of information that come from possessing it.
 80. Alchemists Cauldron,3.6
-#A large cauldron that can fill itself with a chosen potion once a day. As a basic cauldron, it is capable of filling itself with basic potions: Enhanced Strength, Enhanced Agility, Waterbreathing, Healing, Minor Regeneration, Stone Skin, etc.
+#A large cauldron that can fill itself with a chosen potion once a day. As a basic cauldron, it is capable of filling itself with basic potions: Enhanced Strength, Enhanced Agility, Waterbreathing, Healing, Minor Regeneration, Stone Skin, etc. As long as the user knows what the potion(No Elixirs) is and it is Rare rank or below it can be brewed
 81. Dragon Vessel Intermediate,4.2
-#A large cauldron that can fill itself with a chosen potion once a day. As an intermediate cauldron, it is capable of filling itself with more advanced potions: Strength, Agility, Waterbreathing, Healing, Regeneration, Iron Skin, energy recovery, fertility, vitality, etc.
+#A large cauldron that can fill itself with a chosen potion once a day. As an intermediate cauldron, it is capable of filling itself with more advanced potions: Strength, Agility, Waterbreathing, Healing, Regeneration, Iron Skin, energy recovery, fertility, vitality, etc. As long as the user knows what the potion(No Elixirs) is and it is Elite rank or below it can be brewed
 82. Dragon Vessel Major,5.3
-#A large cauldron that can fill itself with a chosen potion once a day. As a major cauldron, it is capable of filling itself with major potions: Enhanced Strength, Enhanced Agility, Waterbreathing, greater Healing, greater Regeneration, Iron Skin, dragon breath, etc. as long as the user knows what the potion is and it is below Legendary rank it can be brewed.
+#A large cauldron that can fill itself with a chosen potion once a day. As a major cauldron, it is capable of filling itself with major potions: Enhanced Strength, Enhanced Agility, Waterbreathing, greater Healing, greater Regeneration, Iron Skin, dragon breath, etc. as long as the user knows what the potion(No Elixirs) is and it is Epic rank or below it can be brewed.
 83. Absorption Line,4.7
 #DxD - A sacred gear created by god, allows the user to conjure energy lines that they can attach to targets to siphon their energy and restore their own. The lines can also be used to bind opponents or swing around like Spiderman.
 84. Dreadons Gaming Chair,4.9
@@ -215,7 +215,7 @@
 109. The Collar of Obedience,2.7
 #A collar that when placed around someone's neck, compels them to obey the owner of the collar, cannot be placed around the neck of someone capable of resisting. 
 110. Unbreakable Shield,4.1
-#A shield that is completely unbreakable, it is the shape of a heater shield slightly larger than one torso, this shield still transfers energy as the energy transferred to the shield still has to go somewhere but hey, the shield still unbroken. 
+#A shield that is completely unbreakable, it is the shape of a heater shield slightly larger than one torso. Despite being unbreakable, the shield will still transfer energy when attacked just like a regular shiled. But it won't break or deform no matter what.
 111. Mystery of the Night Sky,5.3
 #Blacksouls - A pair of panties belonging to the Outer One beyond the stars who exist everywhere at once, when in your possession these panties help recover your energy and health faster as well as decrease the cooldown of abilities by 33%. 
 112. Can of Febreeze,0.1
@@ -261,7 +261,7 @@
 132. Enchanted Golden Apple,3.4
 #Minecraft - A magical apple with skin resembling gold that has been enchanted with magic, eating it gives the eater rare level regeneration for one hour and also bolsters their vitality. Restock Timer: 210 Hours 
 133. Grimoire of Wind Magic,4.7
-#Black Cover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic
+#Black Clover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic
 134. Lightsaber,3.1
 #Star Wars - A classic textbook lightsaber made from a Kyber Crystal that projects a blade of energy, no, you do not need force powers to use this one. 
 135. Wand of the Ice Fairy,4.7
@@ -424,7 +424,7 @@
 #Naruto - A pair of Sharingan plucked freshly from a Sasuke Uchiha who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
 214. Byakugan,4.4
 #Naruto - A pair of byakugan plucked freshly from a Neji Hyuga who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.
-215. Iron Man Armor Mark 3,7
+215. Iron Man Armor Mark 3,3.7
 #(Tech)Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.
 216. Infinity Gauntlet,2.6
 #Marvel - You have the gauntlet, it's pretty damn durable, but the stones are not included.
@@ -435,7 +435,7 @@
 219. Combat Armor,3.6
 #A basic set of Combat Armor perfectly tailored to you, you can upgrade this armor by putting 10 kilograms of whatever ore you want inside of it, after 24 hours the composition of the armor will change to that of the ore or metal you placed inside. 
 220. Kamui Senketsu,7.3
-#Kill La Kill - A piece of sentient clothing made exclusively out of liber that synchronizes with its wearer to augment their physical abilities to extreme levels while draining their vitality in exchange. Senketsu is more durable than any manmade material, can act independently and shapeshift,
+#Kill La Kill - A piece of sentient clothing made exclusively out of liber that synchronizes with its wearer to augment their physical abilities to extreme levels while draining their vitality in exchange. Senketsu is more durable than any manmade material, can act independently and shapeshift into a variety of different forms.
 221. Goku Uniform 1star,2.7
 #Kill La Kill - A school uniform made of 10% Life Fibers, granting their wearers superhuman physical abilities strong enough to break walls and flip cars. The uniforms themselves are also extremely durable, even more than carbon fiber. You can choose the colors before taking it out.
 222. Goku Uniform 2star,3.8
@@ -473,10 +473,10 @@
 238. The Beherit,2.5
 #Berserk - A red egg resembling a face that can call down God's Hand. In exchange for sacrificing your everything in the eclipse, you can become a member of the Godhand and become an Apostle. ...If you are even considering using this, something is truly wrong with you.
 239. Chekov's Box,3.9
-#A box that looks like a wrapped gift, when you open this box it will give you precisely what you need for the situation as long as it is ranked below Elite
+#A box that looks like a wrapped gift, when you open this box it will give you precisely what item you need for the situation as long as it is ranked Rare or below. The box will vanish once used.
 240. Cloak of Levitation,4.6
 #Marvel - A relic belonging to the sorcerer supreme. This cloak allows its user to fly freely, but not only that but it is also self-aware and can act on its own to pull its wearer out of danger and hinder their opponents.
-241. plague Canister,5.7
+241. Plague Canister,5.7
 #(Tech)Calamity Mod - A canister containing the plague, a self-replicating nanomachine virus that devours biomass and turns any living thing into a mindless biomechanically enhanced zombie to add to its own hivemind. Releasing this thing without sufficient biokinetic or techno mastery is basically dooming the entire world, thankfully without a core they lack a hivemind to gather around as a command center.
 242. Mehrunes Razor,7.1
 #Skyrim - A blade belonging to the Daedric prince Mehrunes Dagon, this dagger is capable of cutting anything the user can interact with, space, time, soul, connections, etc. The only limit to what it can cut is the user, not the dagger.
@@ -629,7 +629,7 @@
 315. Frozen Cliffs,7.2
 #HOTA - A gigantic frozen mountain range even taller than Everest is home to extreme amounts of magical energy and houses a variety of powerful dragons and even the legendary azure dragon that will serve under your command.
 316. Cloud Temple,5.1
-#HOTA - A gigantic temple Over a kilometer tall and several wide, by giving sacrifices to the cloud temple like energy and wealth you can summon giants and titans of stone to serve under your command, 
+#HOTA - A gigantic temple over a kilometer tall and several wide, by giving sacrifices to the cloud temple in the form of wealth such as gold coins and gems, you can summon Giants and Titans of stone to serve under your command, the summoned Giants and Titans are absolutely loyal and obedient to you. Beware, the costs to summon them are rather expensive.
 317. Experimental Shop,6.2
 #HOTA - A giant experimental workshop manned by the most talented gremlin master artisans and workers loyal to you, these gremlins can create items for you with their tools and skills as long as you provide them with the resources, they are also capable of building animated legendary giants of stone and golems of several varieties to serve under your command
 318. Portal of Glory,5.7
@@ -677,7 +677,7 @@
 339. Portable Pharmacy,3.2
 #A simple satchel that you can pull out any item that you could otherwise find at an average pharmacy.
 340. Droid Factory,4.8
-#(Tech)Star Wars - An autonomous factory that produces Star Wars droids as long you can provide it with materials.
+#(Tech)Star Wars - An autonomous factory that produces Star Wars droids under your command as long you can provide it with appropriate materials.
 341.Flowing Water Crushing Rock Fist Manual,6.8
 #One Punch Man - A book containing detailed instructions on how to train in the art of Flowing Water Crushing Rock Fist created by Bang. Those without the manual cannot replicate the martial arts.
 342.Grimoire of Izalith,4.6
@@ -695,17 +695,17 @@
 348. Rites of the Edtree,5.2
 #Elden Ring - Rites of the old ones who used to worship the ancient Erdtree. Studying these rites allows learning of the miracles of the Erdtree. Spell List: https://eldenring.wiki.fextralife.com/Erdtree+Incantations
 349. Grimoire of Spatial Magic,6.8
-#Black Cover - A book containing the secrets of Spatial Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Spatial_Magic
+#Black Clover - A book containing the secrets of Spatial Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Spatial_Magic
 350. Grimoire of Lightning Magic,5.0
-#Black Cover - A book containing the secrets of Lightning Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Lightning_Magic
+#Black Clover - A book containing the secrets of Lightning Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Lightning_Magic
 351. Grimoire of Water Magic,4.7
-#Black Cover - A book containing the secrets of Water Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Water_Magic
+#Black Clover - A book containing the secrets of Water Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Water_Magic
 352. Grimoire of Ice Magic,4.5
-#Black Cover - A book containing the secrets of Ice Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Ice_Magic
+#Black Clover - A book containing the secrets of Ice Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Ice_Magic
 353.Grimoire of Darkness Magic,6.5
-#Black Cover - A book containing the secrets of Darkness Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Dark_Magic
+#Black Clover - A book containing the secrets of Darkness Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Dark_Magic
 354.Grimoire of Light Magic,6.4
-#Black Cover - A book containing the secrets of Light Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Light_Magic
+#Black Clover - A book containing the secrets of Light Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Light_Magic
 355. Familiar Contract,3.3
 #A contract that allows those who sign it to become registered in your gacha as a familiar that you can treat like any other familiar. They must sign the contract while knowing what it does otherwise it does not work.
 356. Master Blacksmith Commision,4.0
@@ -769,7 +769,7 @@
 385. Demon King's Longsword,4.2
 #Solo Levelling - A giant sword wielded by the demon king that has the ability to summon devastating thunderstorms from its blade with each swing. The stronger its user the stronger the lightning storms are.
 386. Kamish's Wrath,4.7
-#Solo Levelling - A pair of dragons made of the dragon Kamish, they are nigh unbreakable and sharper than any manmade blade. In addition, these blades synchronize with the user's mana and adjust their strength accordingly. The user can also increase their weight at will.
+#Solo Levelling - A pair of daggers made of the dragon Kamish, they are nigh unbreakable and sharper than any manmade blade. In addition, these blades synchronize with the user's mana and adjust their strength accordingly. The user can also increase their weight at will.
 386. Costume Wardrobe,1.8
 #A regular-looking closet containing an infinite amount of clothes ranging from lingerie, formal wear, cosplay etc. As long as the clothes are completely mundane you can pull any clothing weighing less than 5kg from it, and the clothes that will come out will be according to the desires of whoever reaches inside. Only 50 outfits can be taken out per day.
 387. Teleportation Amulet,4.4
@@ -785,7 +785,7 @@
 392. Holy Antidote,2.6
 #A vial containing a powerful holy antidote that can cure all diseases and ailments below the Legendary rank. Restock Timer: 7 Days
 393. Sandevistan,4.6
-#(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.
+#(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage. This item manifests as a ticket that will be installed instantly on whoever rips it.
 394. Omni Phone,3.3
 #A mobile phone that has everything you need, being able to connect to a network regardless of distance, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.
 395.Ender Pearl,3.2
@@ -885,7 +885,7 @@
 442.Deed to Mansion,3.8
 #A deed to a mansion, just rip this deed in half and you will have always owned a lavish mansion manned by a Schrodinger crew that keeps it clean and maintained, they always do the work but can never be seen or interacted with.
 443.Door to Jail,5.8
-#Allows you to open a door to a jail block, this jail block is maintained by automatons, anyone inside of the cells is unable to use it unless allowed by you or who you appoint as warden. Anyone inside the cell is healed slowly and gets served 3 meals a day by the automatons. 
+#Allows you to open a door to a jail block, this jail block is maintained by automatons, anyone inside of the cells is unable to use their abilities or a portion or their abilities unless allowed by you or who you appoint as warden, their maximum output being reduced a mundane human unless specified otherwise. Anyone inside the cell is healed slowly and gets served 3 meals a day by the automatons. 
 444.Five Hundred Cigarettes,0.5
 #500 non brand name generic ciggaretes. Useful for taking the edge off.
 445.Rust Bucket,3.7
@@ -911,11 +911,11 @@
 455.Tome of Restoration,4.6
 #Skyrim - A tome that compiles the various restoration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Restoration_(Skyrim)
 456.Tome of Conjuration,5.7
-#Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+#Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Conjuration_(Skyrim)
 457.Tome of Alteration,4.9
-#Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+#Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Alteration_(Skyrim)
 458.Tome of Illusion,4.2
-#Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: 
+#Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Illusion_(Skyrim)
 459.Potarra Earrings,5.5
 #Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.
 460.Celestial Bronze,2.6
@@ -1033,7 +1033,7 @@
 515.Demon Blood Blade,2.0
 #Adventure Time - A tough and sharp blade created out of the blood of a demon, created by said demon, Kee-Oth. The blade in Unholy in nature, dealing increased damage against Angelic and Holy beings and being able to damage spiritual creatures. If one is a Hemokinetic, they may be able to utilise the blade further.
 516.Moondrip,4.5
-#Fairy Tail - A powerful potion that was created by accumulating the power of the moon and condensing it over a long period of time into a potion. Emptying this bottle completely on a spell will dispel as long as it is elite level or below in effect. If drunk, it will cleanse magic effects from the user on the same level. Restock Timer: 24 Hours
+#Fairy Tail - A powerful potion that was created by accumulating the power of the moon and condensing it over a long period of time into a potion. Emptying this bottle completely on a spell will dispel it as long as it is elite level or below in effect. If drunk, it will cleanse magic effects from the user on the same level. Restock Timer: 24 Hours
 517.God Emperor's Blade,5.8
 #Warhammer 40k - One of the most powerful weapons created personally by the God Emperor of Mankind out of mastery over Science and Warpcraft. This weapon is the Anathema of all Demon or Infernal aligned beings, vaporising all but the strongest infernals(Legendary and above) with a single graze. This blade is covered by Psyker flames that can be used to emit attacks and empower the power of your own pyrokinetic abilities. The blade may still contain a part of the Emperor's essence.
 518.Salt,0.1
@@ -1125,7 +1125,7 @@
 552.Chaos Gacha Promotional Shirt,1.0
 #A regular white shirt with the words "I rolled a ticket and all I got was this stupid shirt in return" written on it. In the event that the shirt is destroyed or lost, it will reappear somewhere accessible to the user in mint condition.
 553.Forgiveness Ticket,5.0
-Just give this ticket to someone to bury the hatchet and make them forgive you for whatever you did. Stole all of their money? It's fine since you gave them this ticket. But does not extend to murder. For the ticket to work, the target must have had at least a neutral reputation with you before.
+#Just give this ticket to someone to bury the hatchet and make them forgive you for whatever you did. Stole all of their money? It's fine since you gave them this ticket. But does not extend to murder. For the ticket to work, the target must have had at least a neutral reputation with you before.
 554.Skeleton in Closet,0.4
 #A completely ordinary skeleton from an ordinary person, comes with its own closet that it is inside of.
 555.Fairy Dust,1.0
@@ -1137,6 +1137,6 @@ Just give this ticket to someone to bury the hatchet and make them forgive you f
 558.Regalia,2.1
 #(Tech)Final Fantasy - Do you want a badass supercar? Do you want it to fly? Well, you got the right vehicle then, this fully upgraded Regalia is a very powerful, durable and most importantly, incredibly stylish car that can also drive itself. And even turn into a flying vehicle. The fuel tank gets refilled automatically every 8 hours.
 559.Zero Point Energy Gloves,4.2
-#(Tech)Invincibles - These high-tech gloves allow you to point at a target and send an energy beam towards them. If the beam connects, they will be rendered immobile, while you can still move them around to your liking. Strong enough targets can resist and break through the effects. The glove uses your own energy reserves to function.
+#(Tech)Incredibles - These high-tech gloves allow you to point at a target and send an energy beam towards them. If the beam connects, they will be rendered immobile, while you can still move them around to your liking. Strong enough targets can resist and break through the effects. The glove uses your own energy reserves to function.
 560.Demon-Slayer Blade,5.7
 #Black Clover - A large black blade that has the effects of dispelling any magical spell or effect it comes into contact with, as long as they are Legendary Rank or below. The anti-magic energy inside the sword can be used to send out black energy slashes with the same attribute or be used to manipulate the sword to fly and come to the user.

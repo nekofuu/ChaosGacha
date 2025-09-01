@@ -1348,7 +1348,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Allows you to build technological constructs or contraptions related to artificial intelligence, allowing you to create smart assistants to operate tech for you, sentient companions, or go full Ultron.
 675. Tinker - Bio, 7.8
 #(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms, you can make diseases, elixirs, clones, healing pods, custom races, and the list goes on.
-676. Tinker - Vehicle, 4.2
+676. Tinker - Vehicles(), 4.2
 #(Tech)Allows you to build technological constructs or contraptions related to vehicles or methods of transportation, like giant cars with laser canons and cloaking technology, a ship that goes at the speed of sound and does not get affected by waves. If it involves vehicles, you can build it.
 677. Tinker - Repair, 2.6
 #(Tech)Allows you to build technological constructs or contraptions related to maintaining and repairing technology. You can also spot the flaws in technology and know how to fix almost all technology.
@@ -2265,7 +2265,7 @@ You are able to weaken effects and abilities by being in contact with them. The 
 1132.Tunnel Effect,5.5
 #You are able to temporarily enforce Quantum Tunnelling on yourself. Altering probability on yourself to make the stars align and have attacks appear past you harmlessly, or allowing you to quantum tunnel through objects or obstacles. This ability is quite draining to use. And the longer you use the ability, the more the energy consumption increases exponentially.
 1133.Unseen Hand,4.9
-#Re:Zero - Unseen hand allows you to summon numerous invisible hand-like appendages from your body under your control that you can freely extend and use. The hands are superhumanly strong, even being able to merge with each other to form a slower but stronger and larger hand. The power of the hands and the amount you can manifest at once depends on 
+#Re:Zero - Unseen hand allows you to summon numerous invisible hand-like appendages from your body under your control that you can freely extend and use. The hands are superhumanly strong, even being able to merge with each other to form a slower but stronger and larger hand. The power of the hands and the maximum number of them you can manifest at once is dependant on your maximum energy reserves.
 1134.Cor Leonis,2.5
 #Re:Zero - Cor Leonis allows you to sense your allies as spots of light in your vision. By using Cor Leonis, you are able to take on their physical and mental conditions, such as exhaustion, onto yourself. You can also transfer these conditions to your allies as long as they are willing.
 1135.Return By Death,9.0
@@ -2316,3 +2316,5 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #The Star of Change allows you to temporarily change your race to any Race Change trait in the gacha ranked rare or below for as long as it is active. You can only transform into one race at a time.
 1158.Argonaut,5.5
 #Danmachi - Argonaut allows you to charge up any attack, allowing you to temporarily bypass their maximum energy output. The longer you charge the ability, the more power you can unleash. For 10x power, you need 10x the energy to use it. You can only charge one action at a time, and if you get interrupted during charge, you will lose the energy you would have otherwise used on the ability without being able to unleash the effect.
+1159.Tinker - Vehicles(III),4.1
+#This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. You can create supernatural vehicles that would normally be impossible, a ship that sails at the speed of sound without shaking, a motorcycle that can ride through the air through hard light technology, a regular looking sports car 10x better armored than a tank and with fuel efficiency to last a year with one tank of gasoline, or just simply build a killdozer in league with the batmobile.

@@ -647,7 +647,7 @@
 335Tinker Bell,1.4
 #(Character)Peter Pan - Tinker Bell is a fairy from Neverland. Due to her size, she is quite weak and unable to meaningfully participate in combat. But she can fly and allow others to fly temporarily by sprinkling fairy dust on them; she can produce a decent amount of fairy dust regularly. 
 336.V1,5.8
-#Ultrakill - V1 is a blood-fueled death machine, capable of incredibly fast and incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.
+#Ultrakill - V1 is a blood-fueled death machine, capable of moving incredibly fast and posessing incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.
 337.Isabelle,1.3
 #(Character)Anima Crossing - Isabelle is an anthropomorphic Shi Tzu. While she does not have any combat abilities beyond what is expected of the average grown woman, she is quite a skilled secretary and manager, being able to deal with the law and manage assets.
 338.Lucifer the Ceo of Hell,4.3
