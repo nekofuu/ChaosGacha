@@ -24,4 +24,4 @@ Feel free to use it however you like. Add your own entries, make your own list f
 
 The Chaos Gacha was [originally created by BronzDeck](https://github.com/Bronzdeck/ChaosGacha). He has continued to add additional content to the gacha list since release with the help of members of the community.
 
-BronzDeck can be found on [Ao3](https://archiveofourown.org/users/Bronz_Deck/pseuds/Bronz_Deck), [Questionable Questing]((https://patreon.com/BronzDeck)), or [Webnovel](https://www.webnovel.com/profile/4311349979). You can also support him by becoming a member on [Patreon](https://patreon.com/BronzDeck)
+BronzDeck can be found on [Ao3](https://archiveofourown.org/users/Bronz_Deck/pseuds/Bronz_Deck), [Questionable Questing](https://forum.questionablequesting.com/members/bronz.127219/), or [Webnovel](https://www.webnovel.com/profile/4311349979). You can also support him by becoming a member on [Patreon](https://patreon.com/BronzDeck)
