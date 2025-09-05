@@ -904,7 +904,7 @@ More more more, you just can't get enough. Restock timers and the cooldown of al
 #(Nsfw)"Not the one you are thinking of" Your cum refills almost instantly, and the volume of your ejaculations is substantially increased.
 453.Scarousing,3.3
 #For some reason, the scarier you act, instead of being rightfully terrified, people that you consider potential partners are also equal parts aroused by you. The mind works in mysterious ways.
-454.Large than Life,1,4
+454.Larger than Life,1.4
 #People feel like your presence is larger than it should be. Even if you are a head shorter than them, it will still feel like you are towering over them.
 455.Speak of the Devil,4.8
 #-And they shall appear. You become instantly aware of the location of someone in relation to you whenever they say your name while intending you. You are able to sense their location for around 5 minutes when they speak your name like a GPS, and can use them for anchors for stuff like teleportation abilities or Curses.
@@ -956,5 +956,5 @@ When you roll a ticket, you have the option to reroll it, but with its rarity lo
 #Hollow Knight - You are a vessel, capable of absorbing and channelling "soul" to either yourself by focusing or training to use it in Shaman spells as Howling Wraiths, creating Soul Nails, short-range teleportation, and other such spells. You gain soul by inflicting injuries on living beings, and your maximum storage scales with your maximum energy, but is distinctly separate.
 479.Ambidexterous,1.2
 #You are perfectly ambidexterous, you can use both of your arms and hands as if they were both dominant hands. The same applies to all of your limbs, perfectly balanced, as all things should be.
-480,Tune Up,3.3
+480.Tune Up,3.3
 #You have received a body tune-up, an upgrade to every aspect of your body, slightly increasing all of your physical stats, your energy reserves, and most importantly, fixing all of the physical or genetic problems ailing in your body at the moment of you rolling this trait.

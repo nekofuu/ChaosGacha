@@ -764,7 +764,7 @@
 #Solo Levelling - A large dagger made for dealing with heavily armoured opponents, the stronger the armour an opponent is wearing, the more damage the dagger deals.
 383. Baruka's Dagger,2.9
 #Solo Levelling - A large dagger wielded by a frost elf chieftain. In addition to being extremely durable and sharp, this dagger increases the potency of ice and cold abilities that use it as a focus.
-384. Demon King's Daggers,3,1
+384. Demon King's Daggers,3.1
 #Solo Levelling - A pair of daggers forged from the corpse of the demon king. These daggers are able to synchronize themselves with the user's strength, getting stronger proportional to their physical strength. these daggers increase the potency of unholy abilities that use it as a focus.
 385. Demon King's Longsword,4.2
 #Solo Levelling - A giant sword wielded by the demon king that has the ability to summon devastating thunderstorms from its blade with each swing. The stronger its user the stronger the lightning storms are.

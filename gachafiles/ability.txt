@@ -331,7 +331,7 @@
 166. Lightning Spear,2.6
 #Allows the user to conjure a spear of lightning that they can throw as a projective,(does not travel at lightning speed). This spear possesses penetrative power and deals increased damage against draconic entities.
 167. Great Lightning Spear,3.1
-#Allows the user to conjure a spear of lightning that they can throw as a projective,(does not travel at lightning speed). This spear possesses penetrative power and deals increased damage against draconic entities that rends their powerful scales and hides, nulling their defence.
+#Allows the user to conjure a spear of lightning that they can throw as a projective,(does not travel at lightning speed). This spear possesses penetrative power and deals increased damage against draconic entities that rends their powerful scales and hides, nulling their defense.
 168. Sunlight Spear,3.7
 #Allows the user to conjure a spear of lightning imbued with the power of the sun that they can throw as a projective. This spear possesses penetrative power and deals increased damage against draconic entities and unholy beings.
 169. Thunder Cloak,3.8
@@ -352,7 +352,7 @@
 #Conjure pebbles and small rocks and sling them toward enemies to minorly inconvenience them or hurt them if they hit their eyes.
 177. Rock Throw,1.4
 #Conjure rocks and small stones and launch them as projectiles, not very powerful but a rock thrown at your head always hurts.
-178. Stone Bullet,2,3
+178. Stone Bullet,2.3
 #Conjure rocks and small stones and shoot them like bullets with lethal power, you are basically a living stone gun.
 179. Boulder Hurl,2.8
 #Conjure a large boulder and hurl it at your enemies, regardless of your existing strength, the weight of the boulder does not affect your throwing ability regardless if it is a person or a house-sized boulder.
@@ -659,7 +659,7 @@
 330.Razor Claws,2.0
 #Allows you to turn your nails into razor-sharp claws that can tear through flesh and metal with ease, these claws do not dull.
 331.Carapace,2.6
-#Allows you to grow a tough carapace over your flesh like an armour to bolster your defences. It's toughness scales with your physical stats.
+#Allows you to grow a tough carapace over your flesh like an armour to bolster your defenses. It's toughness scales with your physical stats.
 332.Exoskeleton,3.2
 #Allows you to grow a very sturdy exoskeleton armour over your body to give you enhanced endurance and powerful protective armour. The power and durability of the Exoskeleton scales with your physical stats.
 333.Scales,2.7
@@ -921,13 +921,13 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 461.Glide,1.4
 #Allows you to glide 1cm above the ground and move like you are not affected by friction, allowing you to move around as if you are skating.
 462.Absolute Gateway,6.0
-#Allows you to create a door that can breach any barrier or defence, the door does not teleport the user but allows them to bypass any barrier or limitation it is placed on.
+#Allows you to create a door that can breach any barrier or defense, the door does not teleport the user but allows them to bypass any barrier or limitation it is placed on.
 463.Pacifists Domain,5.7
 #Allows you to erect a domain with yourself in the middle, inside the domain no one can perform any acts of violence, not even the user
 464.Quake,6.9
 #One Piece - Allows the user to conjure massive vibrations, tremors and quakes that can travel through any medium like air, water or ground. Powerful enough to massive quakes that can devastate entire landmasses. Quake can also be used to shatter objects like glass and bypass durability to an extent
 465.Adamantine Skin,6.8
-#Your skin is nigh-invulnerable to all forms of harm, without some form of durability negation it's almost impossible to harm you at a similar level of power. You are also resistant to durability negation, decreasing its efficiency on you, and making it unable to pierce your defences completely.
+#Your skin is nigh-invulnerable to all forms of harm, without some form of durability negation it's almost impossible to harm you at a similar level of power. You are also resistant to durability negation, decreasing its efficiency on you, and making it unable to pierce your defenses completely.
 466.Pheonix Zoan,7.3
 #Allows the user to transform into a Blue Phoenix or a hybrid at will. As a Phoenix, they gain increased physical abilities and flight alongside extreme regenerative abilities. They can also emit powerful flames that can heal people.
 467.Hydra Form,6.1
@@ -1348,7 +1348,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Allows you to build technological constructs or contraptions related to artificial intelligence, allowing you to create smart assistants to operate tech for you, sentient companions, or go full Ultron.
 675. Tinker - Bio, 7.8
 #(Tech)Allows you to build technological constructs or contraptions related to biology and living organisms, you can make diseases, elixirs, clones, healing pods, custom races, and the list goes on.
-676. Tinker - Vehicles(), 4.2
+676. Tinker - Vehicles, 4.2
 #(Tech)Allows you to build technological constructs or contraptions related to vehicles or methods of transportation, like giant cars with laser canons and cloaking technology, a ship that goes at the speed of sound and does not get affected by waves. If it involves vehicles, you can build it.
 677. Tinker - Repair, 2.6
 #(Tech)Allows you to build technological constructs or contraptions related to maintaining and repairing technology. You can also spot the flaws in technology and know how to fix almost all technology.
@@ -1854,7 +1854,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #Fairy Tail - Allows the user to transform into and wield the powers of a sky dragon. Allowing them to generate, control and even devour wind. They also have great control over their winds, being able to alter their properties such as making them blunt or sharp. They are also immune to all wind-based attacks below their level and can breathe in air to recover their vitality and energy, but if the air is polluted it will instead harm them. By consuming other sources of magic they can temporarily incorporate it into their own wind attacks instead. They can also use their winds to heal people.
 935. Poison Dragon Slayer,6.7
 #Fairy Tail - Allows the user to transform into and wield the powers of a poison dragon. Allowing them to generate, control and even devour potent poison They also have great control over poison, being able to alter its properties such as making it corrosive, sickening, boiling etc. They are also immune to all poison below their level and can even consume to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own poison.
-930. Lightning Dragon Slayer,6,8
+930. Lightning Dragon Slayer,6.8
 #Fairy Tail - Allows the user to transform into and wield the powers of a lightning dragon. Allowing them to generate lightning from their body that they can control and even devour lightning. They also have great control over their lightning, being able to alter their properties such as making them blunt or sharp. They are also immune to all lightning below their level and can eat lightning to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own lightning.
 931. Shadow Dragon Slayer,6.7
 #Fairy Tail - Allows the user to transform into and wield the powers of a dark dragon. Allowing them to generate shadows from their body that they can control and even turn into a shadow and merge with them. They also have great control over their shadows and darkness, being able to alter their properties such as making them blunt or sharp. They are also immune to all dark attributes below their level and can eat shadows to recover their vitality and energy. By consuming other sources of magic they can temporarily incorporate it into their own shadows.
@@ -1879,7 +1879,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 941. Perfection,3.0
 #Your abilities are proportionally increased depending on how strong you are, at 100% health all of your stats are increased by +100%, at 90% they are increased by +90% etc.
 942. No Guard,3.8
-#"Offence is the best defence" All of your physical stats except durability is increased proportionally to how much you lower your defence. You can drop your durability all the way down to -500% to get your strength up to  +500%.
+#"Offence is the best defense" All of your physical stats except durability is increased proportionally to how much you lower your defense. You can drop your durability all the way down to -500% to get your strength up to  +500%.
 943. Battle Growth,5.3
 #You an eternal engine for battle, you grow in power every time you fight.The harder a battle is, the stronger and faster you grow in the middle of it, allowing you to adapt and surpass your opponent. This growth is permanent. 
 944. Blood Portals,3.6
@@ -1925,7 +1925,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 963.Warp Drive,5.0
 #You can warp space around yourself to move at absurd speeds. When you warp space around yourself you can accelerate yourself more and faster than you would otherwise be able to, allowing you to reach extreme speeds but making it hard for you to make precise movements.
 964.Form Change,5.5
-#Allows you to freely change and augment your attributes in the form of forms you have access to, Offensive Form increases and decreases your defence for more Energy Output and Speed, Defensive Form increases your Defense and Resilience while decreasing your speed. Recovery Form decreases your strength to increase your regeneration and recovery. Speed Form increases your speed drastically while sacrificing your attack and defence. The user can also create their own forms.
+#Allows you to freely change and augment your attributes in the form of forms you have access to, Offensive Form increases and decreases your defense for more Energy Output and Speed, Defensive Form increases your Defense and Resilience while decreasing your speed. Recovery Form decreases your strength to increase your regeneration and recovery. Speed Form increases your speed drastically while sacrificing your attack and defense. The user can also create their own forms.
 965.Murder Swarm,3.6
 #Allows you to transform into a murder of 100 crows at will. You can perfectly control each crow and you are equally each crow, whenever a crow gets killed you take 1% damage, you can also partially turn into crows and use them to deliver messages, spy on people etc. You will return to 100 crows even if you lose 30 as long you recover all of your health.
 966.Hero Time,3.8
@@ -2003,7 +2003,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 1001. Piercing Eyes,2.1
 #Your eyes can see far and see through objects, and you can adjust the level perfectly according to your needs.
 1002.Dead Bone Pulse,4.9
-#Naruto - A Kekkei Genkai that allows the user to grow bones and bone constructs on and out of their body. In addition, the user can manipulate the shape of their bones and reinforce them by increasing their density. They can also manipulate their own skeleton to increase their defence.
+#Naruto - A Kekkei Genkai that allows the user to grow bones and bone constructs on and out of their body. In addition, the user can manipulate the shape of their bones and reinforce them by increasing their density. They can also manipulate their own skeleton to increase their defense.
 1003.All Killing Ash Bones,6.5
 #Naruto - All Killing Ash Bones allows the user to control their own skeleton and grow bone constructs out of their own body. They are able to reinforce these bones and if they manage to pierce the body of a living being they start deteriorating down to the molecular level until they die. The sure kill effect's potency is dependent on the power difference between the user and the target.
 1004.Prophecy,4.4
@@ -2150,7 +2150,7 @@ Allows you to hypnotise and mind-control those who make eye contact with you. Th
 #(Tech)Fallout - This tinker allows you to build the technologies of the Big Mountain built by the Think Tank. Including teleporters, genetically modified monsters, pacification fields, sonic weaponry, lobotomites and much more.
 1075.Tinker - Kuseno,7.2
 #(Tech)One Punch Man - You are able to build technology based on the knowledge base of the Genius Dr. Kuseno. Allowing you to build immensely powerful cyborg bodies, ranging from destroying city blocks to continent busters with enough time, testing and resources.
-1076.Armageddon Blade,7,2
+1076.Armageddon Blade,7.2
 #The All Incinerating Armageddon Blade, the Blade that Embodies Wrath Against All Creation. Allows you to conjure the Armageddon Blade, a blade of pure destructive flame and heat that massively amplifies Pyro attribute effects. The blade can cut through almost anything and constantly burns with the Flames of Armageddon that it can unleash. The Flames of Armageddon are beyond mere flames; they embody oblivion, they don't simply burn, they burn away existence itself. Instead of reducing to ash, they erase the remains of the object. The stronger you are, the more potent the flames are. By expending enough energy, you can unleash them like a sword beam.
 1077.Frozen Dawn,7.1
 #The Frozen Dawn, or the Frigid Spear of Sun's End. Allows you to conjure a Frozen Spear that massively amplifies the power of all Cryo attributes when held. The spear is capable of unleashing hellish frigid energy that can even freeze energy like mana and kinetic energy. Anything stabbed by it is doomed to freeze, even including their mana and life; the weaker they are compared to the user, the faster they freeze. You can also create additional boomer spears to launch as projectiles.
@@ -2182,7 +2182,7 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Such as a sports car that is better armoured than a tank, an all-terrain motorcycle including air, a train that projects train tracks below it using hard light, etc. But you won't be building Killdozers anytime soon.
 1091.Tinker - Vehicles(IV),6.7
 #This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Allowing you to build things such as proper space vessels, supersonic flying cars, adding things such as weapons, hard light shield emitters and being able to borrow ideas from weak minor tinker abilities to improve your vehicle designs.
-1092.Tinker Vehicles(V),8.3
+1092.Tinker - Vehicles(V),8.3
 #No such thing as a vehicle overkill enough. This tinker ability allows you to build, design and build technology and technological constructs related to Vehicles. Whether that is FTL drive starships, a warp drive motorcycle, or a goliath doomship, or a spacecraft that can survive landing on a star. Or just a really dapper car. As long as it's a vehicle, you can build it.
 1093.Tinker - Bio(I),3.4
 #This tinker ability makes you supernaturally good at designing, modifying and building biological constructs. At this level, you can probably crossbreed and genetically modify plants and create items related to biology, like simple biomonitors, etc.
@@ -2204,7 +2204,7 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can craft incredibly potent potions such as healing potions that restore limbs perfectly, mana boosting potions, ultra steroids, and permanent buff potions that grant physical traits up to Epic Tier and many more alchemical reagents.
 1102.Thinker - Alchemy(V),7.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to alchemical reagents, potions and production of those items. You can create miracles with alchemy if you have enough resources, Panaceas, Elixirs, Ichor, whatever can be crafted from alchemy, you can create it, even make Elixirs that can grant physical traits up to Legendary rank.
-1103.Tinker - Augments(I),1,8
+1103.Tinker - Augments(I),1.8
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. At such a low level, you can only do augmentations such as replacement limbs, metal bone plating, camera eyes, and functional metal teeth. You are also skilled at performing surgeries to install said augments.
 1104.Tinker - Augments(II),2.9
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Such as simple enhanced camera eyes, subdermal armour, reinforced tendons, hormone regulators, hidden blades and guns, etc. You are also skilled at performing surgeries to install said augments.
@@ -2214,16 +2214,16 @@ You are able to weaken effects and abilities by being in contact with them. The 
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. You can perform full body conversions to essentially turn people into powerful Cyborgs strong enough to flip over tanks and dodge bullets, you can fit an amount of implants in a body that otherwise should not be able to fit that much tech, because who doesn't want a minigun popping out of their stomach? Whoever said you can't fit a tank and a missile silo inside of a person has not met you. You can fit enough implants into one body to make them be legally considered a military company. Go out and build your own Adam Smashers.
 1107.Tinker - Augments(V),8.2
 #(Tech)Allows you to design, modify and build technology and technological constructs related to Augments and Implants. Your level of technology allows you to augment regular people into damn near demigods. Small supercomputers in brains? Sure. Time Dilating spines? Why not. Augmented skeleton and muscles strong enough to suplex millions of tons without sweat? That's a given. Superman-lite laser eyes? Only if you are creative enough. Go out and build yourself a Genos or a Raiden.
-1108.Tinker - Defence(I),1.8
-#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. At this level, you are limited to modifying existing stuff to make them more sturdy and durable, and also creating things like basic shields, bulletproof glass, 
-1109.Tinker - Defence(II),2.9
-#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. At this level, you are able to create far more resistant and sturdy things as well as constructs specifically for protection. Fireproof(up to a certain level) coating, impact-resistant suit, EMP threading, bulletproof fabric, etc.
-1110.Tinker - Defence(III),4.5
-#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Creating things such as shield projectors, reinforced chasis', skintight suits that can take bullets without the wearer feeling it, different coatings to provide elemental resistances, and creating incredibly durable machines in general.
-1111.Tinker - Defence(IV),6.4
-#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Creating things such as giant forcefield projectors that can cover cities, creating regular cloth-like outfits that automatically harden in response to physical trauma to protect the user, Spatial Locks to prevent teleportation, and hyper-advanced paint that protects from elemental attacks. You can gear up a regular bicycle so much that you could ride it in the bottom of the ocean, in deep space and inside a volcano without scratching the paint. If you put some resources, effort and time in, you could probably make a phone that survives nuclear war without cracking the glass.
-1112.Tinker - Defence(V),8.6
-#(Tech)Allows you to design, modify and build technology and technological constructs related to Defence and Protection. Giant forcefield projectors that bend space, time and energy to be nigh unbreakable? Sure. Alloys and fabrics that can be left in the sun with just a slight singe? That's a given. A gimp suit that can let a normal man survive nuclear war? ...Alright. Given enough time, resources and experience, you can make alloys and shield projectors that even gods cannot put a dent in. 
+1108.Tinker - Defense(I),1.8
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defense and Protection. At this level, you are limited to modifying existing stuff to make them more sturdy and durable, and also creating things like basic shields, bulletproof glass, 
+1109.Tinker - Defense(II),2.9
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defense and Protection. At this level, you are able to create far more resistant and sturdy things as well as constructs specifically for protection. Fireproof(up to a certain level) coating, impact-resistant suit, EMP threading, bulletproof fabric, etc.
+1110.Tinker - Defense(III),4.5
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defense and Protection. Creating things such as shield projectors, reinforced chasis', skintight suits that can take bullets without the wearer feeling it, different coatings to provide elemental resistances, and creating incredibly durable machines in general.
+1111.Tinker - Defense(IV),6.4
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defense and Protection. Creating things such as giant forcefield projectors that can cover cities, creating regular cloth-like outfits that automatically harden in response to physical trauma to protect the user, Spatial Locks to prevent teleportation, and hyper-advanced paint that protects from elemental attacks. You can gear up a regular bicycle so much that you could ride it in the bottom of the ocean, in deep space and inside a volcano without scratching the paint. If you put some resources, effort and time in, you could probably make a phone that survives nuclear war without cracking the glass.
+1112.Tinker - Defense(V),8.6
+#(Tech)Allows you to design, modify and build technology and technological constructs related to Defense and Protection. Giant forcefield projectors that bend space, time and energy to be nigh unbreakable? Sure. Alloys and fabrics that can be left in the sun with just a slight singe? That's a given. A gimp suit that can let a normal man survive nuclear war? ...Alright. Given enough time, resources and experience, you can make alloys and shield projectors that even gods cannot put a dent in. 
 1113.Tinker - Ranged Weapon(I),1.5
 #(Tech)Allows you to design, modify and build technology and technological constructs related to ranged weapons. Though at this level, all you are capable of is building mostly mundane weapons like gunpowder weaponry like pistols, snipers, bows, slingshots, etc., at least they are supernaurally well constructed.
 1114.Tinker - Ranged Weapon(II),2.8

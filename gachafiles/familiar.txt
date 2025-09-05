@@ -644,7 +644,7 @@
 #(Character)Hollow Knight - Hornet is the child between the Pale King and the White Lady. She is quite powerful for her size and has considerable skill in fighting with her needle and threads; she is also able to mend herself using thread. Height: 1.3 Meters
 334.Troupe Master Grimm,4.5
 #(Character)Hollow Knight - Master of the Grimm Troupe, freed from the shackles of the Nightmare heart. As a fully matured Nightmare being, they are capable of shapeshifting, manipulating nightmare flames and performing short-range teleportation. As a nightmare, Grimm is also capable of invading the dreams of others.
-335Tinker Bell,1.4
+335.Tinker Bell,1.4
 #(Character)Peter Pan - Tinker Bell is a fairy from Neverland. Due to her size, she is quite weak and unable to meaningfully participate in combat. But she can fly and allow others to fly temporarily by sprinkling fairy dust on them; she can produce a decent amount of fairy dust regularly. 
 336.V1,5.8
 #Ultrakill - V1 is a blood-fueled death machine, capable of moving incredibly fast and posessing incredible strength, unbefitting of its frame. Although their durability does not match up to their strength, they can repair themselves, but need blood and only blood as fuel to function. V1, alongside its scary expertise, also brings its entire arsenal along with it(no spawner arm). It is a one-robot army thirsty for blood, and nothing will stop it from drinking.
