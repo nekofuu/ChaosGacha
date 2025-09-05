@@ -9,9 +9,11 @@ import os
 import re
 
 SOURCE_DIR = "gachafiles" # The source for the upstream files
+errors  = {}
 
 def Verify(filename):
     path = os.path.join(SOURCE_DIR, filename)
+    errors[filename] = []
     with open(path, 'r') as file:
         prevLine = ""
         for index, line in enumerate(file):
@@ -32,7 +34,7 @@ def Verify(filename):
                 formatting = r'^(\d+\.\s*.*,\s*\d\.*\d*)$'
                 match = re.match(formatting, line)
                 if not match:
-                    print(f"Entry '{line}' is not formatted correctly.\n")
+                    errors[filename].append(f"Entry '{line}' is not formatted correctly.\n")
 
                 trailingPeriod = r'^\d+(\.\s*)' # Guaranteed to have it if it got here
 
@@ -42,7 +44,7 @@ def Verify(filename):
                     # Each entry should be formatted as Name,Rarity
                     # If it isn't, then it won't work for the gacha even
                     # if it has the required number prefix
-                    print(f"Entry '{line}' has {len(parts)} parts instead of the expected 2.\n")
+                    errors[filename].append(f"Entry '{line}' has {len(parts)} parts instead of the expected 2.\n")
 
             elif descriptionLine or assumedDescription:
                 if not descriptionLine:
@@ -51,12 +53,19 @@ def Verify(filename):
                     pass
             else:
                 # Error detected
-                print(f"Line '{line}' is not formatted as either a heading or description line.\n")
+                errors[filename].append(f"Line '{line}' is not formatted as either a heading or description line.\n")
             
             prevLine = line
 
 for file in os.listdir(SOURCE_DIR):
-    print(f"{file} found\n")
     if file.endswith(".txt"):
         Verify(file)
+
+for cat in errors:
+    if len(errors[cat]) == 0:
+        print(f"No errors found in {cat}")
+    else:
+        print(f"{len(errors[cat])} errors found in {cat}")
+        for e in errors[cat]:
+            print(e)
     print(os.linesep)
