@@ -10,6 +10,17 @@ SOURCE_DIR = "gachafiles" # The source for the upstream files
 OUTPUT_DIR = "out"
 OUTPUT_FILE = "gacha.xlsx"
 
+def write_to_file(filename, data):
+    try:
+        with open(filename, 'w') as file:
+            entries = data.apply(lambda row: f"{row.name+1}. {row["Name"]},{row["Rarity"]}\n#{row["Description"]}\n", axis=1)
+            for entry in entries:
+                file.write(entry)
+    except FileNotFoundError as e:
+        messagebox.showerror("Error", "File not found: {e}")
+    except PermissionError as e:
+        messagebox.showerror("Error", "Permission denied.\nCould not access file: {e}.")
+
 def read_from_file(filename):
     data = []
     path = os.path.join(SOURCE_DIR, filename)
@@ -34,14 +45,14 @@ def read_from_file(filename):
                         # then either that has changed, or there's an error somewhere.
                         print(f"Description found while non-heading line detected for entry '{data[-1]["Name"]}' in {filename}")
         return data
-    except FileNotFoundError:
-        messagebox.showerror("Error", "File not found.")
-    except PermissionError:
-        messagebox.showerror("Error", "Permission denied to access gachafiles directory.")
+    except FileNotFoundError as e:
+        messagebox.showerror("Error", "File not found: {e}")
+    except PermissionError as e:
+        messagebox.showerror("Error", "Permission denied.\nCould not access file: {e}.")
     
-def write_to_spreadsheet(output, data):
+def write_to_spreadsheet(filename, data):
     try:
-        with pd.ExcelWriter(output, engine="openpyxl") as writer:
+        with pd.ExcelWriter(filename, engine="openpyxl") as writer:
             wb = writer.book
 
             # Cell formatting
@@ -132,8 +143,20 @@ def write_to_spreadsheet(output, data):
                 ws.column_dimensions["A"].width = 30
                 ws.column_dimensions["B"].width = 10
                 ws.column_dimensions["C"].width = 85
-    except PermissionError:
-        messagebox.showerror("Error", "Permission denied to access the file.")
+    except PermissionError as e:
+        messagebox.showerror("Error", f"Permission denied.\nCould not write file: {e}")
+    except Exception as e:
+        messagebox.showerror("Error", f"An unexpected error occured: {e}")
+
+def read_from_spreadsheet(filename, output_folder):
+    try:
+        with pd.ExcelFile(filename) as xls:
+            for sheet in xls.sheet_names:
+                df = pd.read_excel(xls, sheet_name=sheet)
+                output_file = os.path.join(output_folder, sheet+".txt")
+                write_to_file(output_file, df)
+    except PermissionError as e:
+        messagebox.showerror("Error", f"Permission denied.\nCould not write file: {e}")
     except Exception as e:
         messagebox.showerror("Error", f"An unexpected error occured: {e}")
 
@@ -150,17 +173,43 @@ def convert_to_spreadsheet():
                 key = re.sub(ext, '', file)
                 data[key] = read_from_file(file)
 
-            output = filedialog.asksaveasfilename(defaultextension=".xlsx",
+            output_file = filedialog.asksaveasfilename(defaultextension=".xlsx",
                                                 title="Save As",
                                                 filetypes=(("Excel Workbook", "*.xlsx"),),
                                                 initialdir=".",
                                                 initialfile="gacha")
-            if output:
-                write_to_spreadsheet(output, data)
+            if output_file:
+                write_to_spreadsheet(output_file, data)
         else:
             print(f"No text files found in {SOURCE_DIR}.")
     else:
         print(f"Source directory not found: {SOURCE_DIR}")
+
+def convert_from_spreadsheet():
+    filename = filedialog.askopenfilename(defaultextension=".xlsx",
+                                    filetypes=(("Excel files", "*.xlsx"),),
+                                    title="Open File")
+    if filename:
+        output_folder = filedialog.askdirectory(title="Select Folder")
+
+        while True:
+            if output_folder:
+                if os.listdir(output_folder):
+                    confirm = messagebox.askyesno(
+                        "Directory Not Empty",
+                        f"The directory '{output_folder}' is not empty. Selecting this folder may overwrite files.\n\nAre you sure you want to use it?"
+                    )
+                    if confirm:
+                        break
+                    else:
+                        output_folder = filedialog.askdirectory(title="Select Folder", initialdir=".")
+                else:
+                    # Directory is empty
+                    break
+            else:
+                # User did not select directory
+                return None
+        read_from_spreadsheet(filename, output_folder)
 
 if __name__ == "__main__":
     root = tk.Tk()
@@ -199,5 +248,8 @@ if __name__ == "__main__":
 
     convertToButton = ttk.Button(frame, text="Convert Data to Spreadsheet", command=convert_to_spreadsheet, style="TButton")
     convertToButton.pack(pady=10, expand=True, fill="x")
+
+    convertFromButton = ttk.Button(frame, text="Convert Data from Spreadsheet", command=convert_from_spreadsheet, style="TButton")
+    convertFromButton.pack(pady=10, expand=True, fill="x")
 
     root.mainloop()
