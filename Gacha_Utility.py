@@ -143,6 +143,7 @@ def write_to_spreadsheet(filename, data):
                 ws.column_dimensions["A"].width = 30
                 ws.column_dimensions["B"].width = 10
                 ws.column_dimensions["C"].width = 85
+        messagebox.showinfo("Success", f"File was successfully saved: {filename}")
     except PermissionError as e:
         messagebox.showerror("Error", f"Permission denied.\nCould not write file: {e}")
     except Exception as e:
@@ -155,6 +156,7 @@ def read_from_spreadsheet(filename, output_folder):
                 df = pd.read_excel(xls, sheet_name=sheet)
                 output_file = os.path.join(output_folder, sheet+".txt")
                 write_to_file(output_file, df)
+        messagebox.showinfo("Success", f"Files have been successfully saved at {output_folder}")
     except PermissionError as e:
         messagebox.showerror("Error", f"Permission denied.\nCould not write file: {e}")
     except Exception as e:
