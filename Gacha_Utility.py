@@ -11,7 +11,7 @@ SOURCE_DIR = "gachafiles" # The source for the upstream files
 def write_to_file(filename, data):
     try:
         with open(filename, 'w') as file:
-            entries = data.apply(lambda row: f"{row.name+1}. {row["Name"]},{row["Rarity"]}\n#{row["Description"]}\n", axis=1)
+            entries = data.apply(lambda row: f"{row.name+1}.{row["Name"]},{row["Rarity"]}\n#{row["Description"]}\n", axis=1)
             for entry in entries:
                 file.write(entry)
     except FileNotFoundError as e:
