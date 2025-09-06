@@ -1,14 +1,12 @@
 import os
 import re
 import pandas as pd
-from openpyxl.styles import NamedStyle, Alignment, Font, PatternFill, Color, numbers
+from openpyxl.styles import NamedStyle, Alignment, Font, PatternFill
 from openpyxl.formatting.rule import CellIsRule
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
 SOURCE_DIR = "gachafiles" # The source for the upstream files
-OUTPUT_DIR = "out"
-OUTPUT_FILE = "gacha.xlsx"
 
 def write_to_file(filename, data):
     try:
