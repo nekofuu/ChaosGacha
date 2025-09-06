@@ -1,7 +1,8 @@
 import os
 import re
 import pandas as pd
-from tkinter import filedialog, messagebox
+import tkinter as tk
+from tkinter import ttk, filedialog, messagebox
 
 SOURCE_DIR = "gachafiles" # The source for the upstream files
 OUTPUT_DIR = "out"
@@ -30,14 +31,12 @@ def read_from_file(filename):
                         # There aren't currently any multi-line descriptions, so if this triggers
                         # then either that has changed, or there's an error somewhere.
                         print(f"Description found while non-heading line detected for entry '{data[-1]["Name"]}' in {filename}")
-        print(f"Found {len(data)} entries in {filename}")
         return data
     except FileNotFoundError:
         messagebox.showerror("Error", "File not found.")
     except PermissionError:
         messagebox.showerror("Error", "Permission denied to access gachafiles directory.")
     
-
 def write_to_spreadsheet(output, data):
     try:
         with pd.ExcelWriter(output, engine="xlsxwriter") as writer:
@@ -157,32 +156,68 @@ def write_to_spreadsheet(output, data):
         messagebox.showerror("Error", "Permission denied to access the file.")
     except Exception as e:
         messagebox.showerror("Error", f"An unexpected error occured: {e}")
-    
 
+def convert_to_spreadsheet():
+    if os.path.exists(SOURCE_DIR):
+        files = []
+        data = {}
+        for file in os.listdir(SOURCE_DIR):
+            if file.endswith(".txt"):
+                files.append(file)
+        if files:
+            ext = r'(\.txt)$'
+            for file in files:
+                key = re.sub(ext, '', file)
+                data[key] = read_from_file(file)
 
-    
-if os.path.exists(SOURCE_DIR):
-    files = []
-    data = {}
-    for file in os.listdir(SOURCE_DIR):
-        if file.endswith(".txt"):
-            files.append(file)
-    if files:
-        ext = r'(\.txt)$'
-        for file in files:
-            key = re.sub(ext, '', file)
-            data[key] = read_from_file(file)
-
-        output = filedialog.asksaveasfilename(defaultextension=".xlsx",
-                                            title="Save As",
-                                            filetypes=(("Excel Workbook", "*.xlsx"),),
-                                            initialdir=".",
-                                            initialfile="gacha")
-        if output:
-            write_to_spreadsheet(output, data)
+            output = filedialog.asksaveasfilename(defaultextension=".xlsx",
+                                                title="Save As",
+                                                filetypes=(("Excel Workbook", "*.xlsx"),),
+                                                initialdir=".",
+                                                initialfile="gacha")
+            if output:
+                write_to_spreadsheet(output, data)
         else:
-            print(f"File selection cancelled.")
+            print(f"No text files found in {SOURCE_DIR}.")
     else:
-        print(f"No text files found in {SOURCE_DIR}.")
-else:
-    print(f"Source directory not found: {SOURCE_DIR}")
+        print(f"Source directory not found: {SOURCE_DIR}")
+
+if __name__ == "__main__":
+    root = tk.Tk()
+    root.title("Gacha Utility")
+    root.resizable(False, False)
+    root.configure(bg="#e6e6e6")
+    root.geometry("300x200")
+
+    frame = tk.Frame(root, bg=root["bg"])
+    frame.place(relx=0.5, rely=0.5, anchor="center")
+
+    style = ttk.Style()
+    style.theme_use("clam")
+    style.configure(
+        "TButton",
+        font=(("Segoe UI", "Helvetica", "Arial"), 12, "bold"),
+        background="#5a4bad",
+        foreground="white",
+        padding=(12, 12),
+        relief="flat",
+        focusthickness=0,
+        focuscolor="none"
+    )
+
+    style.map(
+        "TButton",
+        background=[
+            ("pressed", "#6657bb"),
+            ("active", "#5244a0")
+            
+        ],
+        foreground=[
+            ("disabled", "#AAAAAA")
+        ]
+    )
+
+    convertToButton = ttk.Button(frame, text="Convert Data to Spreadsheet", command=convert_to_spreadsheet, style="TButton")
+    convertToButton.pack(pady=10, expand=True, fill="x")
+
+    root.mainloop()
