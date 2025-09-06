@@ -9,6 +9,8 @@ All notable changes to this project will be documented in this file.
 - Added .gitignore to prevent generated files from being committed.
 - Added build.bat to automatically build an executable using PyInstaller.
 - Added Verify.py to help verify the upstream text files and find any entries that aren't formatted correctly.
+- Added Gacha_Utility.py to easily convert the data files to and from an excel workbook
+    - Additional dependency required: ```pandas```
 
 ### Changes
 

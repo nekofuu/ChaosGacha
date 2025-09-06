@@ -217,3 +217,6 @@ __marimo__/
 
 # Generated Executable
 Chaos Gacha.exe
+
+# Excel Workbooks
+*.xlsx
