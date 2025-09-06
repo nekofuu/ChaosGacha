@@ -1,6 +1,8 @@
 import os
 import re
 import pandas as pd
+from openpyxl.styles import NamedStyle, Alignment, Font, PatternFill, Color, numbers
+from openpyxl.formatting.rule import CellIsRule
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
@@ -39,119 +41,97 @@ def read_from_file(filename):
     
 def write_to_spreadsheet(output, data):
     try:
-        with pd.ExcelWriter(output, engine="xlsxwriter") as writer:
+        with pd.ExcelWriter(output, engine="openpyxl") as writer:
+            wb = writer.book
+
+            # Cell formatting
+            header = NamedStyle(name="header")
+            header.font = Font(bold=True)
+            header.alignment = Alignment(horizontal="center", vertical="center")
+            wb.add_named_style(header)
+
+            name = NamedStyle(name="name")
+            name.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+            wb.add_named_style(name)
+
+            rarity = NamedStyle(name="rarity")
+            rarity.alignment = Alignment(horizontal="center", vertical="center")
+            rarity.number_format = "0.0"
+            wb.add_named_style(rarity)
+
+            description = NamedStyle(name="description")
+            description.alignment = Alignment(horizontal="left", vertical="top", wrap_text=True)
+            wb.add_named_style(description)
+
+            # Conditional formatting for Rarities
+            conditionalFormatting = {
+                "trash": CellIsRule(operator="between",
+                                formula=["0.1", "0.9"],
+                                fill=PatternFill(start_color="F9CB9C", end_color="F9CB9C", fill_type="solid")), # Hex code must use capital letters
+                "common": CellIsRule(operator="between",
+                                formula=["1.0", "1.9"],
+                                fill=PatternFill(start_color="74573E", end_color="74573E", fill_type="solid")),
+                "uncommon": CellIsRule(operator="between",
+                                formula=["2.0", "2.9"],
+                                fill=PatternFill(start_color="ACB9B8", end_color="ACB9B8", fill_type="solid")),
+                "rare": CellIsRule(operator="between",
+                                formula=["3.0", "3.9"],
+                                fill=PatternFill(start_color="00FF00", end_color="00FF00", fill_type="solid")),
+                "elite": CellIsRule(operator="between",
+                                formula=["4.0", "4.9"],
+                                fill=PatternFill(start_color="4A86E8", end_color="4A86E8", fill_type="solid")),
+                "epic": CellIsRule(operator="between",
+                                formula=["5.0", "5.9"],
+                                fill=PatternFill(start_color="9900FF", end_color="9900FF", fill_type="solid")),
+                "legendary": CellIsRule(operator="between",
+                                formula=["6.0", "6.9"],
+                                fill=PatternFill(start_color="F1C232", end_color="F1C232", fill_type="solid")),
+                "mythical": CellIsRule(operator="between",
+                                formula=["7.0", "7.9"],
+                                fill=PatternFill(start_color="FF00FF", end_color="FF00FF", fill_type="solid")),
+                "divine": CellIsRule(operator="between",
+                                formula=["8.0", "8.9"],
+                                fill=PatternFill(start_color="FF9900", end_color="FF9900", fill_type="solid")),
+                "transcendent": CellIsRule(operator="between",
+                                formula=["9.0", "9.9"],
+                                fill=PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid"))
+            }
             for cat in data:
                 df = pd.DataFrame(data[cat])
                 df.to_excel(writer, sheet_name=cat, header=False, index=False, startrow=1) # Skip header row
-                workbook = writer.book
-                worksheet = writer.sheets[cat]
-
-                # Cell formatting
-                headerFormat = workbook.add_format({
-                    "bold": True,
-                    "valign": "center"
-                })
-                nameFormat = workbook.add_format({
-                    "align": "center",
-                    "valign": "vcenter",
-                    "text_wrap": True
-                })
-                rarityFormat = workbook.add_format({
-                    "align": "center",
-                    "valign": "vcenter",
-                    "num_format": "0.0"
-                })
-                descriptionFormat = workbook.add_format({
-                    "text_wrap": True,
-                    "valign": "top"
-                })
-
-                # Conditional formatting for Rarities
-                conditionalFormatting = {
-                    "trashFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 0.0,
-                        "maximum": 0.9,
-                        "format": workbook.add_format({"bg_color": "#f9cb9c"})
-                    },
-                    "commonFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 1.0,
-                        "maximum": 1.9,
-                        "format": workbook.add_format({"bg_color": "#74573e"})
-                    },
-                    "uncommonFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 2.0,
-                        "maximum": 2.9,
-                        "format": workbook.add_format({"bg_color": "#acb9b8"})
-                    },
-                    "rareFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 3.0,
-                        "maximum": 3.9,
-                        "format": workbook.add_format({"bg_color": "#00ff00"})
-                    },
-                    "eliteFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 4.0,
-                        "maximum": 4.9,
-                        "format": workbook.add_format({"bg_color": "#4a86e8"})
-                    },
-                    "epicFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 5.0,
-                        "maximum": 5.9,
-                        "format": workbook.add_format({"bg_color": "#9900ff"})
-                    },
-                    "legendaryFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 6.0,
-                        "maximum": 6.9,
-                        "format": workbook.add_format({"bg_color": "#f1c232"})
-                    },
-                    "mythicalFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 7.0,
-                        "maximum": 7.9,
-                        "format": workbook.add_format({"bg_color": "#ff00ff"})
-                    },
-                    "divineFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 8.0,
-                        "maximum": 8.9,
-                        "format": workbook.add_format({"bg_color": "#ff9900"})
-                    },
-                    "transcendentFormat": {
-                        "type": "cell",
-                        "criteria": "between",
-                        "minimum": 9.0,
-                        "maximum": 9.9,
-                        "format": workbook.add_format({"bg_color": "#ff0000"})
-                    }
-                }
+                ws = writer.sheets[cat]
 
                 # Set header row now
-                for col, value in enumerate(df.columns.values):
-                    worksheet.write(0, col, value, headerFormat)
+                for i, value in enumerate(df.columns.values):
+                    ws.cell(row=1, column=i+1, value=value)
+                    ws.cell(row=1, column=i+1).style="header"
 
-                # First pass of formatting data
-                worksheet.set_column("A2:A", 30, nameFormat)
-                worksheet.set_column("B2:B", 10, rarityFormat)
-                worksheet.set_column("C2:C", 85, descriptionFormat)
+                # Formatting Name Column
+                for col in ws.iter_cols(min_col=1, max_col=1, min_row=2):
+                    for cell in col:
+                        if cell.value is not None:
+                            cell.style = "name"
+                
+                # Formatting Rarity Column
+                for col in ws.iter_cols(min_col=2, max_col=2, min_row=2):
+                    for cell in col:
+                        if cell.value is not None:
+                            cell.style = "rarity"
 
-                # Second pass / rarity conditional formatting
+                # Add conditional formatting to Rarity Column
                 for format in conditionalFormatting:
-                    worksheet.conditional_format("B2:B1048576", conditionalFormatting[format])
+                    ws.conditional_formatting.add("B2:B1048576", conditionalFormatting[format])
+                
+                # Formatting Description Column
+                for col in ws.iter_cols(min_col=3, max_col=3, min_row=2):
+                    for cell in col:
+                        if cell.value is not None:
+                            cell.style = "description"
+                
+                # Set column widths
+                ws.column_dimensions["A"].width = 30
+                ws.column_dimensions["B"].width = 10
+                ws.column_dimensions["C"].width = 85
     except PermissionError:
         messagebox.showerror("Error", "Permission denied to access the file.")
     except Exception as e:
